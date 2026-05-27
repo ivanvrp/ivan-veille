@@ -1,1 +1,23 @@
-
+🔥 TOP 3 (à actionner)
+━━━━━━━━━━━━━━━
+1️⃣ 🛒 Shopify : discounts par marché + variants par canal
+📌 Discount ciblable par région/B2B/POS ; publier/dépublier variants par canal
+💡 PURESOLE : promo France/EU sans code séparé, masquer sold-out par canal
+⚡ Admin → Discounts → nouveau code → scope "France + Online Store"
+━━━━━━━━━━━━━━━
+2️⃣ 🤖 Claude Design (Anthropic Labs) — prototypes visuels
+📌 Génère HTML cliquable (designs, slides, landing pages), lit Figma + codebase
+💡 Landing page PURESOLE/TT sans designer — exporter HTML → section Shopify custom
+⚡ Claude Pro → décrire hero PURESOLE → tester export HTML
+━━━━━━━━━━━━━━━
+3️⃣ 🔌 MCP Tunnels + Sandboxes auto-hébergés (19 mai)
+📌 Agents Claude dans ton infra (Cloudflare/Vercel/Modal), MCP privé chiffré
+💡 Connecter agents à base clients PURESOLE sans exposer clés sur cloud Anthropic
+⚡ platform.claude.com → demander accès MCP Tunnels research preview
+━━━━━━━━━━━━━━━
+📚 Autres axes :
+📊 TikTok Shop : UGC natif + hook 0-2s > polish pour streetwear/dropship
+🤖 Claude Code W20 : `claude agents` + `/goal` sessions parallèles auto
+🧠 Obsidian+Claude MCP : vault live modifiable par Claude (mindstudio.ai)
+🛒 Sidekick écrit des requêtes ShopifyQL web perf + paiements (mai 2026)
+🔌 mcp-microsoft-todo + x402station-mcp ajoutés aujourd'hui (awesome-mcp-servers)
