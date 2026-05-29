@@ -69,3 +69,13 @@ https://litextension.com/blog/shopify-dawn-theme-review/
 https://github.com/punkpeye/awesome-mcp-servers
 https://github.com/modelcontextprotocol/servers
 https://www.modernmarketinginstitute.com/blog/12-advanced-meta-ads-strategies-that-profitable-brands-are-using-in-2026
+https://www.anthropic.com/news/claude-opus-4-8
+https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/
+https://higgsfield.ai/mcp
+https://forum.obsidian.md/t/i-built-an-mcp-server-that-connects-claude-ai-directly-to-your-obsidian-vault/112454
+https://github.com/iansinnott/obsidian-claude-code-mcp
+https://shopify.dev/changelog/app-deployment-in-cicd-is-now-available-for-all-apps
+https://www.marktechpost.com/2026/05/28/anthropic-ships-claude-opus-4-8-alongside-dynamic-workflows-and-cheaper-fast-mode-with-workflows-capped-at-1000-subagents/
+https://tikadtools.com/blog/tiktok-ads-creative/
+https://medium.com/@evgeni.n.rusev/how-i-built-my-second-brain-with-obsidian-claude-code-9fb54b7665ca
+https://www.essamamdani.com/blog/complete-guide-model-context-protocol-mcp-2026

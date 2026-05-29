@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🛒 Shopify : discounts par marché + variants par canal
-📌 Discount ciblable par région/B2B/POS ; publier/dépublier variants par canal
-💡 PURESOLE : promo France/EU sans code séparé, masquer sold-out par canal
-⚡ Admin → Discounts → nouveau code → scope "France + Online Store"
+1️⃣ 🤖 Claude Opus 4.8 + Dynamic Workflows
+📌 Sorti hier — fast mode 3x moins cher, 1000 subagents parallèles dans Claude Code. SWE-bench +5pts.
+💡 Réduit ta facture API TT/PURESOLE + traite toute ta codebase en 1 run
+⚡ npm update -g @anthropic-ai/claude-code → test Dynamic Workflows
 ━━━━━━━━━━━━━━━
-2️⃣ 🤖 Claude Design (Anthropic Labs) — prototypes visuels
-📌 Génère HTML cliquable (designs, slides, landing pages), lit Figma + codebase
-💡 Landing page PURESOLE/TT sans designer — exporter HTML → section Shopify custom
-⚡ Claude Pro → décrire hero PURESOLE → tester export HTML
+2️⃣ 📊 Higgsfield MCP : vidéos UGC depuis Claude Code
+📌 MCP officiel Higgsfield — colle URL produit, Hermes Agent sort 50+ variants UGC TikTok/Reels.
+💡 50 créas UGC en 5 min vs €300 par vidéo créateur pour TT/PURESOLE
+⚡ claude mcp add higgsfield → URL produit → 5 scripts UGC 15s
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 MCP Tunnels + Sandboxes auto-hébergés (19 mai)
-📌 Agents Claude dans ton infra (Cloudflare/Vercel/Modal), MCP privé chiffré
-💡 Connecter agents à base clients PURESOLE sans exposer clés sur cloud Anthropic
-⚡ platform.claude.com → demander accès MCP Tunnels research preview
+3️⃣ 🔌 obsidian-claude-code-mcp : vault Obsidian → Claude
+📌 Plugin Obsidian (292⭐) — Claude Code lit/écrit tes notes via WebSocket MCP. Auto-découverte.
+💡 Tes briefs TT/PURESOLE dans Obsidian accessibles sans copier-coller
+⚡ Community Plugins → obsidian-claude-code-mcp → installe → relance claude CLI
 ━━━━━━━━━━━━━━━
-📚 Autres axes :
-📊 TikTok Shop : UGC natif + hook 0-2s > polish pour streetwear/dropship
-🤖 Claude Code W20 : `claude agents` + `/goal` sessions parallèles auto
-🧠 Obsidian+Claude MCP : vault live modifiable par Claude (mindstudio.ai)
-🛒 Sidekick écrit des requêtes ShopifyQL web perf + paiements (mai 2026)
-🔌 mcp-microsoft-todo + x402station-mcp ajoutés aujourd'hui (awesome-mcp-servers)
+📚 Autres axes (1 ligne) :
+📊 TikTok 2026 : raw storytelling > polish — founder videos > studio
+🤖 Opus 4.8 GA sur Bedrock, Vertex AI, Foundry — même prix $5/$25/M
+🧠 Second brain Obsidian+Claude Code MCP : MOC auto, résumés hebdo
+🛒 Shopify : app automation tokens GA — deploy CI/CD sans intervention
+🔌 MCP éco : 9400+ servers, OpenAI+Google adoptent nativement
