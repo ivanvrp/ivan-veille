@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Opus 4.8 + Dynamic Workflows
-📌 Sorti hier — fast mode 3x moins cher, 1000 subagents parallèles dans Claude Code. SWE-bench +5pts.
-💡 Réduit ta facture API TT/PURESOLE + traite toute ta codebase en 1 run
-⚡ npm update -g @anthropic-ai/claude-code → test Dynamic Workflows
+1️⃣ 🤖 Claude Mythos — sortie publique imminente
+📌 $65B levée, $965B valuation. SWE-bench 93.9%, USAMO 97.6%. Coming "in weeks".
+💡 Sera le prochain modèle Claude Code → agents TT/PURESOLE upgradés auto
+⚡ Bookmark anthropic.com/glasswing + active notif Claude Code update
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Higgsfield MCP : vidéos UGC depuis Claude Code
-📌 MCP officiel Higgsfield — colle URL produit, Hermes Agent sort 50+ variants UGC TikTok/Reels.
-💡 50 créas UGC en 5 min vs €300 par vidéo créateur pour TT/PURESOLE
-⚡ claude mcp add higgsfield → URL produit → 5 scripts UGC 15s
+2️⃣ 🔌 MCP Tool Annotations — memory server officiel (30 mai)
+📌 9 outils tagués read-only/destructive. Agents MCP plus autonomes et sûrs.
+💡 Claude Code sait quels MCPs lancer sans confirmation → PURESOLE automation
+⚡ git pull modelcontextprotocol/servers pour récupérer la mise à jour
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 obsidian-claude-code-mcp : vault Obsidian → Claude
-📌 Plugin Obsidian (292⭐) — Claude Code lit/écrit tes notes via WebSocket MCP. Auto-découverte.
-💡 Tes briefs TT/PURESOLE dans Obsidian accessibles sans copier-coller
-⚡ Community Plugins → obsidian-claude-code-mcp → installe → relance claude CLI
+3️⃣ 🤖 System messages mid-conversation sur Opus 4.8
+📌 role:"system" injectable en cours de session, préserve le prompt cache
+💡 Agents longue durée réorientables sans relancer ni exploser les tokens
+⚡ Test dans le Workbench : message system en position 2+ dans le array
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 TikTok 2026 : raw storytelling > polish — founder videos > studio
-🤖 Opus 4.8 GA sur Bedrock, Vertex AI, Foundry — même prix $5/$25/M
-🧠 Second brain Obsidian+Claude Code MCP : MOC auto, résumés hebdo
-🛒 Shopify : app automation tokens GA — deploy CI/CD sans intervention
-🔌 MCP éco : 9400+ servers, OpenAI+Google adoptent nativement
+📊 TikTok créas perdent 50% efficacité en 72h — tester 5-10 hooks en parallèle
+🤖 Opus 4.8 : effort=high par défaut, 1M tokens, cache min 1024 tokens
+🧠 obsidian-mcp ajouté à awesome-mcp-servers avec recherche sémantique
+🛒 Shopify Discounts by Market — promos ciblées par pays (PURESOLE multi-pays)
+🔌 awesome-mcp-servers : 12+ serveurs batch 27/05 (zendesk, todo, obsidian-mcp)
