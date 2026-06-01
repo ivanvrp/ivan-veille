@@ -98,3 +98,16 @@ https://platform.claude.com/docs/en/build-with-claude/claude-platform-on-aws
 https://mcpblog.dev/blog/2026-03-13-mcp-tool-annotations
 https://blog.modelcontextprotocol.io/posts/2026-03-16-tool-annotations/
 https://mcpblog.dev/blog/2026-03-13-mcp-tool-annotations
+https://www.youtube.com/watch?v=2rhZOisVXZM
+https://www.youtube.com/watch?v=ReTx6ku4_dc
+https://www.youtube.com/watch?v=O_z9vDLgvoY
+https://www.youtube.com/watch?v=f6C5wvXjn5k
+https://www.youtube.com/watch?v=TAKDIvvUdc4
+https://www.youtube.com/watch?v=-tLlZqrXpo8
+https://www.youtube.com/watch?v=0yP_cQqwSqA
+https://www.youtube.com/watch?v=ua2YA7TiLEk
+https://www.youtube.com/watch?v=jZgcWCzxh1I
+https://www.youtube.com/watch?v=c0gVowvMR-g
+https://shopify.dev/docs/apps/build/ai-toolkit
+https://claude.com/plugins
+https://github.com/anthropics/claude-plugins-official
