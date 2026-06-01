@@ -1,23 +1,21 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH (top 3)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Mythos — sortie publique imminente
-📌 $65B levée, $965B valuation. SWE-bench 93.9%, USAMO 97.6%. Coming "in weeks".
-💡 Sera le prochain modèle Claude Code → agents TT/PURESOLE upgradés auto
-⚡ Bookmark anthropic.com/glasswing + active notif Claude Code update
+1️⃣ Opus 4.8 is NOT Claude's biggest release (Ultracode & Dynamic Workflows)
+💡 Ultracode = xhigh effort + auto-orchestration workflows — le vrai game-changer
+⚡ youtu.be/2rhZOisVXZM
 ━━━━━━━━━━━━━━━
-2️⃣ 🔌 MCP Tool Annotations — memory server officiel (30 mai)
-📌 9 outils tagués read-only/destructive. Agents MCP plus autonomes et sûrs.
-💡 Claude Code sait quels MCPs lancer sans confirmation → PURESOLE automation
-⚡ git pull modelcontextprotocol/servers pour récupérer la mise à jour
+2️⃣ Opus 4.8 + Claude Code Dynamic Workflows is INSANE (Full Walkthrough)
+💡 Walkthrough pas-à-pas : 1 000 sous-agents, 16 concurrent, tâches heures → minutes
+⚡ youtu.be/ReTx6ku4_dc
 ━━━━━━━━━━━━━━━
-3️⃣ 🤖 System messages mid-conversation sur Opus 4.8
-📌 role:"system" injectable en cours de session, préserve le prompt cache
-💡 Agents longue durée réorientables sans relancer ni exploser les tokens
-⚡ Test dans le Workbench : message system en position 2+ dans le array
+3️⃣ Claude Skills Tutorial (2026): Chat, Cowork, and Claude Code
+💡 Skills = fichier .md dans .claude/skills/ — chargé auto sans marketplace
+⚡ youtu.be/O_z9vDLgvoY
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 TikTok créas perdent 50% efficacité en 72h — tester 5-10 hooks en parallèle
-🤖 Opus 4.8 : effort=high par défaut, 1M tokens, cache min 1024 tokens
-🧠 obsidian-mcp ajouté à awesome-mcp-servers avec recherche sémantique
-🛒 Shopify Discounts by Market — promos ciblées par pays (PURESOLE multi-pays)
-🔌 awesome-mcp-servers : 12+ serveurs batch 27/05 (zendesk, todo, obsidian-mcp)
+🚀 SKILLS PROPOSÉS : 2
+→ shopify-ultracode-ops : Ultracode + Shopify MCP pour ops catalogue TempleTwins/PURESOLE
+→ claude-weekly-digest-enhancer : consolidation analyses Gemini quand API dispo
+━━━━━━━━━━━━━━━
+💡 Insight cross-sources :
+Dynamic Workflows + plugins auto-chargés depuis .claude/skills/ = Claude devient coordinateur autonome — un solo founder peut exécuter des projets d'équipe de 5.
+🛍️ ACTION IMMÉDIATE : claude mcp add --transport stdio shopify-dev-mcp -- npx -y @shopify/dev-mcp@latest
