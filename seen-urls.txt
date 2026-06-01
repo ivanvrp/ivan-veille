@@ -94,10 +94,8 @@ https://aiproductivity.ai/news/obsidian-ai-copilot-plugin-claude-code/
 https://9to5mac.com/2026/05/28/anthropic-upgrades-claude-with-new-opus-4-8-model-heres-whats-new/
 https://codersera.com/blog/anthropic-mythos-complete-guide-2026/
 https://www.anthropic.com/glasswing
-https://platform.claude.com/docs/en/build-with-claude/claude-platform-on-aws
 https://mcpblog.dev/blog/2026-03-13-mcp-tool-annotations
 https://blog.modelcontextprotocol.io/posts/2026-03-16-tool-annotations/
-https://mcpblog.dev/blog/2026-03-13-mcp-tool-annotations
 https://www.youtube.com/watch?v=2rhZOisVXZM
 https://www.youtube.com/watch?v=ReTx6ku4_dc
 https://www.youtube.com/watch?v=O_z9vDLgvoY
@@ -111,3 +109,14 @@ https://www.youtube.com/watch?v=c0gVowvMR-g
 https://shopify.dev/docs/apps/build/ai-toolkit
 https://claude.com/plugins
 https://github.com/anthropics/claude-plugins-official
+https://shopify.dev/changelog/shopify-scripts-will-be-deprecated-on-june-30-2026
+https://platform.claude.com/docs/en/api/sdks/cli
+https://github.com/anthropics/anthropic-cli
+https://mcpservers.org/servers/sweir1/obsidian-brain
+https://adligator.com/blog/facebook-ad-creative-trends-2026
+https://reloop.so/blog/article/ugc-advertising/
+https://verdemedia.com/blog/the-guide-to-meta-ads-creative-2026
+https://pasqualepillitteri.it/en/news/2143/claude-microsoft-365-outlook-beta
+https://shopify.dev/changelog/feature-preview-customer-account-improvements
+https://www.flatlineagency.com/blog/shopify-scripts-are-deprecated/
+https://changelog.shopify.com/posts/shopify-scripts-deprecation

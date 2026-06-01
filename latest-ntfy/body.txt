@@ -1,21 +1,23 @@
-🔥 MUST-WATCH (top 3)
+🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ Opus 4.8 is NOT Claude's biggest release (Ultracode & Dynamic Workflows)
-💡 Ultracode = xhigh effort + auto-orchestration workflows — le vrai game-changer
-⚡ youtu.be/2rhZOisVXZM
+1️⃣ 🛒 Shopify Scripts — deadline 30 juin (29j !)
+📌 Tous les Scripts checkout meurent le 30/06. Délai final, aucune extension. Édition bloquée depuis le 15/04.
+💡 TT + PURESOLE : tout script promo/upsell/checkout s'arrête net sans migration.
+⚡ Admin → Online Store › Script Editor → lister scripts actifs
 ━━━━━━━━━━━━━━━
-2️⃣ Opus 4.8 + Claude Code Dynamic Workflows is INSANE (Full Walkthrough)
-💡 Walkthrough pas-à-pas : 1 000 sous-agents, 16 concurrent, tâches heures → minutes
-⚡ youtu.be/ReTx6ku4_dc
+2️⃣ 🤖 ant CLI Anthropic — agents Claude depuis terminal
+📌 Outil officiel Go/CLI pour créer, déployer, interroger agents. YAML versionnable en git.
+💡 Automatiser veille-360 + pipelines PURESOLE en shell/cron natif.
+⚡ brew install anthropics/tap/ant && ant auth login
 ━━━━━━━━━━━━━━━
-3️⃣ Claude Skills Tutorial (2026): Chat, Cowork, and Claude Code
-💡 Skills = fichier .md dans .claude/skills/ — chargé auto sans marketplace
-⚡ youtu.be/O_z9vDLgvoY
+3️⃣ 🔌 obsidian-brain MCP — semantic search vault, zéro plugin
+📌 BM25+embeddings sur tout le vault Obsidian. stdio, sans plugin ni instance Obsidian.
+💡 Claude Code fouille tous les digests et notes TT/PURESOLE automatiquement.
+⚡ npm i -g obsidian-brain → claude_desktop_config.json
 ━━━━━━━━━━━━━━━
-🚀 SKILLS PROPOSÉS : 2
-→ shopify-ultracode-ops : Ultracode + Shopify MCP pour ops catalogue TempleTwins/PURESOLE
-→ claude-weekly-digest-enhancer : consolidation analyses Gemini quand API dispo
-━━━━━━━━━━━━━━━
-💡 Insight cross-sources :
-Dynamic Workflows + plugins auto-chargés depuis .claude/skills/ = Claude devient coordinateur autonome — un solo founder peut exécuter des projets d'équipe de 5.
-🛍️ ACTION IMMÉDIATE : claude mcp add --transport stdio shopify-dev-mcp -- npx -y @shopify/dev-mcp@latest
+📚 Autres axes (1 ligne) :
+📊 Pain-point hooks = 71% créas Meta survivant 30j+ (adligator)
+🤖 Claude MS365 GA : Excel/Word/PPT + Outlook beta — context partagé
+🧠 Obsidian Copilot > NotebookLM pour PKM long terme (Medium mai 2026)
+🛒 Customer Accounts preview : opt-in avant 12 juin → CRO direct
+🔌 awesome-mcp-servers +3 serveurs 27/05 : zendesk, ms-todo, x402
