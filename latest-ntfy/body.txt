@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🛒 Shopify Scripts — deadline 30 juin (29j !)
-📌 Tous les Scripts checkout meurent le 30/06. Délai final, aucune extension. Édition bloquée depuis le 15/04.
-💡 TT + PURESOLE : tout script promo/upsell/checkout s'arrête net sans migration.
-⚡ Admin → Online Store › Script Editor → lister scripts actifs
+1️⃣ 🤖 Anthropic dépose son S-1 — IPO oct 2026
+📌 $965B valorisation, $47B ARR, dépasse OpenAI
+💡 Claude = plateforme viable long terme pour TT/PURESOLE
+⚡ Poser alerte agenda "IPO oct 2026" (5 min)
 ━━━━━━━━━━━━━━━
-2️⃣ 🤖 ant CLI Anthropic — agents Claude depuis terminal
-📌 Outil officiel Go/CLI pour créer, déployer, interroger agents. YAML versionnable en git.
-💡 Automatiser veille-360 + pipelines PURESOLE en shell/cron natif.
-⚡ brew install anthropics/tap/ant && ant auth login
+2️⃣ 🤖 Billing split Claude le 15 juin — URGENT
+📌 Crons / Agent SDK → pool séparé. Pro = $20/mois
+💡 Veille-360 cron = usage programmatique → impact direct
+⚡ Vérifier son plan + guetter e-mail claim du 8 juin
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 obsidian-brain MCP — semantic search vault, zéro plugin
-📌 BM25+embeddings sur tout le vault Obsidian. stdio, sans plugin ni instance Obsidian.
-💡 Claude Code fouille tous les digests et notes TT/PURESOLE automatiquement.
-⚡ npm i -g obsidian-brain → claude_desktop_config.json
+3️⃣ 🔌 Strava MCP officiel — 1er fitness platform natif
+📌 OAuth read-only, HR/GPS/clubs live dans Claude
+💡 Signal : les plateformes adoptent MCP → modèle e-com
+⚡ Tester le connector + identifier analogie PURESOLE
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Pain-point hooks = 71% créas Meta survivant 30j+ (adligator)
-🤖 Claude MS365 GA : Excel/Word/PPT + Outlook beta — context partagé
-🧠 Obsidian Copilot > NotebookLM pour PKM long terme (Medium mai 2026)
-🛒 Customer Accounts preview : opt-in avant 12 juin → CRO direct
-🔌 awesome-mcp-servers +3 serveurs 27/05 : zendesk, ms-todo, x402
+📊 Meta ASC : Advantage+ Shopping rebrandé + buy-now button
+🤖 Claude Code limits x2 + SpaceX 300MW compute deal
+🧠 obsidian-second-brain v0.10 : 43 cmds + keyless research
+🛒 Sidekick ShopifyQL : queries web perf + payments en NL
+🔌 MCP Managed Agents : config updatable sur session active
