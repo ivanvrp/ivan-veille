@@ -120,3 +120,14 @@ https://pasqualepillitteri.it/en/news/2143/claude-microsoft-365-outlook-beta
 https://shopify.dev/changelog/feature-preview-customer-account-improvements
 https://www.flatlineagency.com/blog/shopify-scripts-are-deprecated/
 https://changelog.shopify.com/posts/shopify-scripts-deprecation
+https://www.anthropic.com/news/confidential-draft-s1-sec
+https://the-decoder.com/claude-subscriptions-get-separate-budgets-for-programmatic-use-billed-at-full-api-prices/
+https://press.strava.com/articles/strava-launches-mcp-connector
+https://www.anthropic.com/news/higher-limits-spacex
+https://www.anthropic.com/news/expanding-project-glasswing
+https://commonthreadco.com/blogs/coachs-corner/meta-advantage-shopping-campaigns-in-2026
+https://www.gethookd.ai/learn/8-best-facebook-ad-hook-examples-for-2026/
+https://www.xda-developers.com/built-second-brain-with-claude-and-notebooklm/
+https://devtoolpicks.com/blog/anthropic-splits-claude-subscriptions-agent-sdk-credit-june-2026
+https://letsdatascience.com/news/strava-launches-mcp-connector-for-claude-integration-909e07a0
+https://codersera.com/blog/anthropic-june-2026-billing-change-claude-code/
