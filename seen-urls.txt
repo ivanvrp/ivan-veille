@@ -131,3 +131,16 @@ https://www.xda-developers.com/built-second-brain-with-claude-and-notebooklm/
 https://devtoolpicks.com/blog/anthropic-splits-claude-subscriptions-agent-sdk-credit-june-2026
 https://letsdatascience.com/news/strava-launches-mcp-connector-for-claude-integration-909e07a0
 https://codersera.com/blog/anthropic-june-2026-billing-change-claude-code/
+https://changelog.shopify.com/posts/shopify-simgym-is-now-available-in-ai-research-preview-for-all-eligible-merchants
+https://apps.shopify.com/simgym
+https://blog.google/innovation-and-ai/products/notebooklm/notebooklm-google-io-2026/
+https://www.wetracked.io/post/andromeda-update-ecommerce
+https://platform.claude.com/docs/en/about-claude/model-deprecations
+https://www.weshop.ai/blog/why-ecommerce-brands-are-turning-to-ai-tiktok-videos-in-2026/
+https://www.digitalapplied.com/blog/mcp-server-ecosystem-tracker-50-servers-cataloged-2026
+https://blog.google/innovation-and-ai/products/gemini-app/notebooks-gemini-notebooklm/
+https://shopify.dev/docs/apps/build/functions/migrating-from-shopify-scripts
+https://www.techtimes.com/articles/317625/20260602/anthropic-ends-subscription-subsidy-agents-june-15-credit-pool-replaces-flat-rate-access.htm
+https://www.xda-developers.com/notebooklm-to-obsidian-markdown/
+https://confect.io/tactics/meta-andromeda-2026
+https://skaleit.agency/blog/meta-andromeda-complete-guide-ecommerce/

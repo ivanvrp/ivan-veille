@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Anthropic dépose son S-1 — IPO oct 2026
-📌 $965B valorisation, $47B ARR, dépasse OpenAI
-💡 Claude = plateforme viable long terme pour TT/PURESOLE
-⚡ Poser alerte agenda "IPO oct 2026" (5 min)
+1️⃣ 🛒 Shopify SimGym : testez avec des IA-shoppers
+📌 Agents IA entraînés sur des milliards de transactions testent navigation, add-to-cart et comparent thèmes. Research Preview gratuite pour tous.
+💡 Identifier les frictions TT/PURESOLE sans audit payant
+⚡ apps.shopify.com/simgym → activer Preview → lancer sim sur TT ou PURESOLE
 ━━━━━━━━━━━━━━━
-2️⃣ 🤖 Billing split Claude le 15 juin — URGENT
-📌 Crons / Agent SDK → pool séparé. Pro = $20/mois
-💡 Veille-360 cron = usage programmatique → impact direct
-⚡ Vérifier son plan + guetter e-mail claim du 8 juin
+2️⃣ 🧠 NotebookLM Personal Preferences (fin juin)
+📌 L'IA apprend votre style depuis vos chats passés. Personas éditables, synthèses calibrées sans re-prompter.
+💡 Digests veille-360 auto-adaptés à votre niveau dans Obsidian
+⚡ Alerte agenda "NotebookLM Prefs fin juin" + créer notebook Ivan-style-guide
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 Strava MCP officiel — 1er fitness platform natif
-📌 OAuth read-only, HR/GPS/clubs live dans Claude
-💡 Signal : les plateformes adoptent MCP → modèle e-com
-⚡ Tester le connector + identifier analogie PURESOLE
+3️⃣ 📊 Meta Andromeda : créatif = ciblage
+📌 Algo lit votre visuel pour choisir l'audience. 1 CBO broad + 15-50 créatifs variés. +65% ROAS si >20 ads/mois.
+💡 Finir les audiences étroites TT/PURESOLE, laisser l'algo distribuer
+⚡ Ads Manager → 1 CBO broad test → empiler 5 créatifs variés → 3 jours
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta ASC : Advantage+ Shopping rebrandé + buy-now button
-🤖 Claude Code limits x2 + SpaceX 300MW compute deal
-🧠 obsidian-second-brain v0.10 : 43 cmds + keyless research
-🛒 Sidekick ShopifyQL : queries web perf + payments en NL
-🔌 MCP Managed Agents : config updatable sur session active
+📊 TikTok UGC AI +15% CTR vs créa trad — coupler GMV Max pour auto-distribution
+🤖 Claude Sonnet 4 + Opus 4 dépréciés J-10 (appels API failent 15 juin)
+🧠 NotebookLM intégré dans Gemini = workspace unifié digests + chat
+🛒 Scripts Shopify J-25 : arrêt total 30 juin — migrer vers Shopify Functions
+🔌 56 MCP officiels : Notion, Stripe, Slack, Vercel natifs HTTP — forks obsolètes
