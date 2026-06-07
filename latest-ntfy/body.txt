@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🛒 Shopify SimGym : testez avec des IA-shoppers
-📌 Agents IA entraînés sur des milliards de transactions testent navigation, add-to-cart et comparent thèmes. Research Preview gratuite pour tous.
-💡 Identifier les frictions TT/PURESOLE sans audit payant
-⚡ apps.shopify.com/simgym → activer Preview → lancer sim sur TT ou PURESOLE
+1️⃣ 🤖 Claude Code 2.1.166 — fallbackModel + MCP security
+📌 3 modèles fallback configurables + sécurité cross-session durcée + thinking toggle
+💡 Ivan l'utilise daily → zéro interruption surcharge Opus 4.8, MCPs protégés
+⚡ claude update puis "fallbackModel":"claude-sonnet-4-6" dans settings.json
 ━━━━━━━━━━━━━━━
-2️⃣ 🧠 NotebookLM Personal Preferences (fin juin)
-📌 L'IA apprend votre style depuis vos chats passés. Personas éditables, synthèses calibrées sans re-prompter.
-💡 Digests veille-360 auto-adaptés à votre niveau dans Obsidian
-⚡ Alerte agenda "NotebookLM Prefs fin juin" + créer notebook Ivan-style-guide
+2️⃣ 🔌 MCP officiel — patch RCE gitpython+urllib3 (5 juin)
+📌 gitpython 3.1.45→3.1.50 (injection cmd) + urllib3 2.6.3→2.7.0 (header leak)
+💡 MCPs Python non patchés = clés API exposables sur TT/PURESOLE
+⚡ pip install --upgrade "gitpython>=3.1.50" "urllib3>=2.7.0" dans chaque env MCP
 ━━━━━━━━━━━━━━━
-3️⃣ 📊 Meta Andromeda : créatif = ciblage
-📌 Algo lit votre visuel pour choisir l'audience. 1 CBO broad + 15-50 créatifs variés. +65% ROAS si >20 ads/mois.
-💡 Finir les audiences étroites TT/PURESOLE, laisser l'algo distribuer
-⚡ Ads Manager → 1 CBO broad test → empiler 5 créatifs variés → 3 jours
+3️⃣ 🧠 Obsidian+Claude — 30 workflows solo founder à $0
+📌 Morning Synthesis, Meeting Processor, Research Pipeline, Decision Journal...
+💡 Ivan gère seul brand+ops+content → externalise charge cognitive dans vault
+⚡ claude --directory ~/vault puis /morning-synthesis pour premier run auto
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 TikTok UGC AI +15% CTR vs créa trad — coupler GMV Max pour auto-distribution
-🤖 Claude Sonnet 4 + Opus 4 dépréciés J-10 (appels API failent 15 juin)
-🧠 NotebookLM intégré dans Gemini = workspace unifié digests + chat
-🛒 Scripts Shopify J-25 : arrêt total 30 juin — migrer vers Shopify Functions
-🔌 56 MCP officiels : Notion, Stripe, Slack, Vercel natifs HTTP — forks obsolètes
+📊 TikTok VSA (Video Shopping Ads) = nouveau standard — activer pour TT+PURESOLE
+🤖 Claude Partner Network ouvert (3 juin) — Services Track + Partner Hub officiel
+🧠 Three-tool loop Obsidian→NotebookLM→Gemini + Markdown direct upload
+🛒 Shopify Scripts meurent dans 23j (30/06) — migrer Functions maintenant!
+🔌 Heimdall MCP — mémoire long-terme cross-sessions — ajout <48h sur awesome-mcp
