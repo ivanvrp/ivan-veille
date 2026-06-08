@@ -1,23 +1,23 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH (3 cette semaine)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Code 2.1.166 — fallbackModel + MCP security
-📌 3 modèles fallback configurables + sécurité cross-session durcée + thinking toggle
-💡 Ivan l'utilise daily → zéro interruption surcharge Opus 4.8, MCPs protégés
-⚡ claude update puis "fallbackModel":"claude-sonnet-4-6" dans settings.json
+1️⃣ Code with Claude SF 2026: Opening Keynote (Anthropic)
+💡 Managed Agents prod-ready, Dynamic Workflows, Routines, CI auto-fix — le toolkit agentique complet
+⚡ Regarder section Routines [11:50] — identifier 1 tâche PURESOLE à automatiser
 ━━━━━━━━━━━━━━━
-2️⃣ 🔌 MCP officiel — patch RCE gitpython+urllib3 (5 juin)
-📌 gitpython 3.1.45→3.1.50 (injection cmd) + urllib3 2.6.3→2.7.0 (header leak)
-💡 MCPs Python non patchés = clés API exposables sur TT/PURESOLE
-⚡ pip install --upgrade "gitpython>=3.1.50" "urllib3>=2.7.0" dans chaque env MCP
+2️⃣ Code with Claude London 2026: Opening Keynote (Anthropic)
+💡 "Rethinking how we build" — sandboxes privés + MCP tunnels + Dreaming (mémoire auto)
+⚡ Playlist London complète dispo sur YouTube
 ━━━━━━━━━━━━━━━
-3️⃣ 🧠 Obsidian+Claude — 30 workflows solo founder à $0
-📌 Morning Synthesis, Meeting Processor, Research Pipeline, Decision Journal...
-💡 Ivan gère seul brand+ops+content → externalise charge cognitive dans vault
-⚡ claude --directory ~/vault puis /morning-synthesis pour premier run auto
+3️⃣ I Turned Claude Opus 4.8 Into My AI Operating System
+💡 Framework 4C (Contexte/Connexions/Capacités/Cadence) pour solo founder — 9/10 pour Ivan
+⚡ Créer brands/TempleTwins/voice-guide.md dès maintenant
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 TikTok VSA (Video Shopping Ads) = nouveau standard — activer pour TT+PURESOLE
-🤖 Claude Partner Network ouvert (3 juin) — Services Track + Partner Hub officiel
-🧠 Three-tool loop Obsidian→NotebookLM→Gemini + Markdown direct upload
-🛒 Shopify Scripts meurent dans 23j (30/06) — migrer Functions maintenant!
-🔌 Heimdall MCP — mémoire long-terme cross-sessions — ajout <48h sur awesome-mcp
+🚀 SKILLS PROPOSÉS : 3
+• shopify-content-optimizer — /shopify-content [sku] [marque]
+• ai-os-session-handoff — /session-handoff (installable immédiatement)
+• ecom-routine-manager — /ecom-routine check-stock|daily-brief|product-launch
+━━━━━━━━━━━━━━━
+💡 Insight cross-vidéos :
+"Context is the moat" — le modèle IA est une commodité, le contexte métier unique d'Ivan (voix de marque TempleTwins/PURESOLE, données clients) est son vrai avantage concurrentiel. Construire ces fichiers contexte AVANT de scaler.
+━━━━━━━━━━━━━━━
+Claude Code W22-23 : Opus 4.8 default + fallbackModel + Dynamic Workflows + plugins .claude/skills auto-load
