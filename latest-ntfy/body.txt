@@ -1,23 +1,23 @@
-🔥 MUST-WATCH (3 cette semaine)
+🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ Code with Claude SF 2026: Opening Keynote (Anthropic)
-💡 Managed Agents prod-ready, Dynamic Workflows, Routines, CI auto-fix — le toolkit agentique complet
-⚡ Regarder section Routines [11:50] — identifier 1 tâche PURESOLE à automatiser
+1️⃣ 🛒 Shopify Rollouts — A/B test natif sans app
+📌 Tester 2 themes ou 2 checkouts en 50/50 sur trafic réel, programmable, swap BFCM automatique — intégré Shopify admin, 0€ extra.
+💡 TT + PURESOLE : mesure enfin la CVR réelle entre 2 pages produit sans Shoplift
+⚡ Admin → Thèmes → Rollouts → créer A/B test produit phare PURESOLE 7j
 ━━━━━━━━━━━━━━━
-2️⃣ Code with Claude London 2026: Opening Keynote (Anthropic)
-💡 "Rethinking how we build" — sandboxes privés + MCP tunnels + Dreaming (mémoire auto)
-⚡ Playlist London complète dispo sur YouTube
+2️⃣ 🤖 Claude Code 2.1.166 — /code-review + fallback
+📌 /code-review (effort low/high) poste les bugs directo en commentaires PR. fallbackModel: jusqu'à 3 modèles en cascade si surcharge.
+💡 Review features Shopify PURESOLE/TT sans reviewer externe ; runs longs non interrompus
+⚡ /code-review high sur dernier diff + ajouter fallbackModel dans .claude/settings.json
 ━━━━━━━━━━━━━━━
-3️⃣ I Turned Claude Opus 4.8 Into My AI Operating System
-💡 Framework 4C (Contexte/Connexions/Capacités/Cadence) pour solo founder — 9/10 pour Ivan
-⚡ Créer brands/TempleTwins/voice-guide.md dès maintenant
+3️⃣ 📊 Higgsfield Supercomputer — agent UGC 61 skills
+📌 Agent cloud-natif : 61 skills vidéo, route vers Claude/GPT-5.5/Veo/Kling, tourne en schedule (daily ads, weekly competitor scan).
+💡 UGC PURESOLE sans créateur IRL ; remplace 2h veille concurrents/semaine
+⚡ Compte Higgsfield → Schedule → daily ad variation 1 produit PURESOLE 7 jours
 ━━━━━━━━━━━━━━━
-🚀 SKILLS PROPOSÉS : 3
-• shopify-content-optimizer — /shopify-content [sku] [marque]
-• ai-os-session-handoff — /session-handoff (installable immédiatement)
-• ecom-routine-manager — /ecom-routine check-stock|daily-brief|product-launch
-━━━━━━━━━━━━━━━
-💡 Insight cross-vidéos :
-"Context is the moat" — le modèle IA est une commodité, le contexte métier unique d'Ivan (voix de marque TempleTwins/PURESOLE, données clients) est son vrai avantage concurrentiel. Construire ces fichiers contexte AVANT de scaler.
-━━━━━━━━━━━━━━━
-Claude Code W22-23 : Opus 4.8 default + fallbackModel + Dynamic Workflows + plugins .claude/skills auto-load
+📚 Autres axes (1 ligne) :
+📊 Meta post-Andromeda : 6-10 créas actives/ad set = sweet spot ; refresh 5-7j TikTok
+🤖 Claude for Small Business : 15 workflows, HubSpot/Canva/QuickBooks (>7j, non couvert)
+🧠 NotebookLM + Obsidian : upload .md direct, pas de sync complexe, infographics Studio
+🛒 Customer accounts deadline J+3 (12/06) : single-column layout, UI extensions visibles
+🔌 Hermes MCP Server : 24/7 sur VPS, competitor scan + SEO audit auto pour solo founder
