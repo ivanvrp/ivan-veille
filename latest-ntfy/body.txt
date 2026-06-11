@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🛒 Shopify Rollouts — A/B test natif sans app
-📌 Tester 2 themes ou 2 checkouts en 50/50 sur trafic réel, programmable, swap BFCM automatique — intégré Shopify admin, 0€ extra.
-💡 TT + PURESOLE : mesure enfin la CVR réelle entre 2 pages produit sans Shoplift
-⚡ Admin → Thèmes → Rollouts → créer A/B test produit phare PURESOLE 7j
+1️⃣ 🤖 Claude Fable 5 lancé — modèle public le + puissant Anthropic
+📌 1M context, 128k output, adaptive thinking auto. GRATUIT Pro/Max jusqu'au 22 juin, après: usage credits.
+💡 Tester pour briefs créa TT et fiches PURESOLE pendant la fenêtre gratuite
+⚡ Claude Code → /model → claude-fable-5 → tester fiche produit PURESOLE
 ━━━━━━━━━━━━━━━
-2️⃣ 🤖 Claude Code 2.1.166 — /code-review + fallback
-📌 /code-review (effort low/high) poste les bugs directo en commentaires PR. fallbackModel: jusqu'à 3 modèles en cascade si surcharge.
-💡 Review features Shopify PURESOLE/TT sans reviewer externe ; runs longs non interrompus
-⚡ /code-review high sur dernier diff + ajouter fallbackModel dans .claude/settings.json
+2️⃣ 🤖 Claude Managed Agents : cron natif + vaults (beta publique)
+📌 Agents sur schedule cron sans infra. Secrets chiffrés en vault. Nouvelle session auto à chaque run.
+💡 Cette veille-360 peut tourner nativement sur Claude Platform (plus de GitHub Actions)
+⚡ platform.claude.com → Managed Agents → cron 0 6 * * * → stocker NTFY en vault
 ━━━━━━━━━━━━━━━
-3️⃣ 📊 Higgsfield Supercomputer — agent UGC 61 skills
-📌 Agent cloud-natif : 61 skills vidéo, route vers Claude/GPT-5.5/Veo/Kling, tourne en schedule (daily ads, weekly competitor scan).
-💡 UGC PURESOLE sans créateur IRL ; remplace 2h veille concurrents/semaine
-⚡ Compte Higgsfield → Schedule → daily ad variation 1 produit PURESOLE 7 jours
+3️⃣ 🧠 NotebookLM → Gemini 3.5 + 11 formats export + code cloud
+📌 Excel, PPT, PDF, CSV/JSON exports + exec code cloud (100+ skills) + discovery Google Search in-app.
+💡 Exporter analyses concurrents → Excel PURESOLE, PPT brief agence TT
+⚡ Notebook NLM → Generate → tester export Excel analyse produit
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta post-Andromeda : 6-10 créas actives/ad set = sweet spot ; refresh 5-7j TikTok
-🤖 Claude for Small Business : 15 workflows, HubSpot/Canva/QuickBooks (>7j, non couvert)
-🧠 NotebookLM + Obsidian : upload .md direct, pas de sync complexe, infographics Studio
-🛒 Customer accounts deadline J+3 (12/06) : single-column layout, UI extensions visibles
-🔌 Hermes MCP Server : 24/7 sur VPS, competitor scan + SEO audit auto pour solo founder
+📊 Meta hook rate cible >30% + tester 5-8 hooks/concept (benchmark e-com 2026)
+🤖 Claude Code : /cd + --safe-mode + ultracode effort (W22+, déjà vu)
+🧠 Obsidian = archive perma, NLM = recherche projet (framework solo founder)
+🛒 Shopify : multiple discounts/cart line (2026-04) + CLI 4.0 breaking changes
+🔌 MCP : DevRecall + mem-context + Resend email mergés aujourd'hui + patch CVE gitpython
