@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Fable 5 lancé — modèle public le + puissant Anthropic
-📌 1M context, 128k output, adaptive thinking auto. GRATUIT Pro/Max jusqu'au 22 juin, après: usage credits.
-💡 Tester pour briefs créa TT et fiches PURESOLE pendant la fenêtre gratuite
-⚡ Claude Code → /model → claude-fable-5 → tester fiche produit PURESOLE
+1️⃣ 🛒 Shopify Summer '26 — Scripts off June 30!
+📌 150+ updates : Checkout Components GA (+22% conv pour Plus), AI Merch natif admin. Deadline Scripts→Functions = 30 juin, J-17. Aucune extension possible.
+💡 PURESOLE/TT sur Shopify → audit Scripts obligatoire cette semaine
+⚡ Admin Shopify → Apps → chercher "Scripts" → migrer si actif
 ━━━━━━━━━━━━━━━
-2️⃣ 🤖 Claude Managed Agents : cron natif + vaults (beta publique)
-📌 Agents sur schedule cron sans infra. Secrets chiffrés en vault. Nouvelle session auto à chaque run.
-💡 Cette veille-360 peut tourner nativement sur Claude Platform (plus de GitHub Actions)
-⚡ platform.claude.com → Managed Agents → cron 0 6 * * * → stocker NTFY en vault
+2️⃣ 📊 Meta Andromeda — Creative = 56% de la perf
+📌 Broad targeting seul viable. 15-30 créas/mois = +65% ROAS. Advantage+ Shopping = -17% CPA vs manual.
+💡 TT/PURESOLE : campagnes segmentées = tu brident l'algo Andromeda
+⚡ Business Manager → consolider en 1 campagne ASC broad + 5 nouvelles créas UGC
 ━━━━━━━━━━━━━━━
-3️⃣ 🧠 NotebookLM → Gemini 3.5 + 11 formats export + code cloud
-📌 Excel, PPT, PDF, CSV/JSON exports + exec code cloud (100+ skills) + discovery Google Search in-app.
-💡 Exporter analyses concurrents → Excel PURESOLE, PPT brief agence TT
-⚡ Notebook NLM → Generate → tester export Excel analyse produit
+3️⃣ 🤖 Claude Code — Dynamic Workflows + sub-agents 5 niveaux
+📌 Dizaines d'agents parallèles dans une session, nested jusqu'à 5 niveaux, 2× rate limits (/workflows)
+💡 Solo founder : déléguer audits store/créa à une équipe de 30 agents en minutes
+⚡ Claude Code → /workflows → tester audit descriptions produits Shopify
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta hook rate cible >30% + tester 5-8 hooks/concept (benchmark e-com 2026)
-🤖 Claude Code : /cd + --safe-mode + ultracode effort (W22+, déjà vu)
-🧠 Obsidian = archive perma, NLM = recherche projet (framework solo founder)
-🛒 Shopify : multiple discounts/cart line (2026-04) + CLI 4.0 breaking changes
-🔌 MCP : DevRecall + mem-context + Resend email mergés aujourd'hui + patch CVE gitpython
+📊 TikTok GMV Max remplace VSA/PSA — activer si TikTok Shop actif
+🤖 Modèles Claude dépréciés le 15 juin — vérifier Make/Zapier avant demain!
+🧠 RAS (NotebookLM/Obsidian déjà couverts J-4)
+🛒 Guide migration Scripts→Functions avant 23 juin (digitalapplied.com)
+🔌 pdf-mcp : Claude lit tes PDFs lourds sans limite contexte (github.com/jztan/pdf-mcp)
