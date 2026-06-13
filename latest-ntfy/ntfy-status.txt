@@ -1,1 +1,2 @@
-NTFY_BLOCKED: ntfy.sh non autorisé par la politique réseau du container (403 Host not in allowlist). Body disponible dans latest-ntfy/body.txt
+NTFY_RESULT: ntfy.sh blocked by container network egress policy (host not in allowlist)
+NTFY_RETRY: 2x KO
