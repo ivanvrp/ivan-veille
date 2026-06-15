@@ -1,96 +1,128 @@
-# Veille Claude — Semaine du 2026-06-15
+# Veille Claude Weekly — 2026-06-15
 
-> **Run** : complet (nocturne autonome) · **Sources scannées** : 9 · **Candidats analysés** : ~24 · **Tokens (estim.)** : ~14k
-
-> ⚠️ Reddit r/ClaudeAI injoignable cette session (fetch bloqué) — collecte basée sur YouTube + WebSearch + Anthropic. Doublons exclus vs digest 08/06 (Routines, Shopify AI Toolkit, Dynamic Workflows, `/reload-skills`) et veille-360 du 15/06.
+> **Run** : complet (routine autonome) · **Sources scannées** : 11 · **Candidats analysés** : ~28
+> ⚠️ Reddit r/ClaudeAI injoignable (403) — fallback WebSearch. Gemini API indisponible (503) sur les 3 nouvelles vidéos Fable 5. Analyses précédentes (Xs942zwWfdY, uogzSxOw4LU) conservées de la run matinale.
 
 ---
 
-## 🔥 Must-watch (max 5)
+## 🚨 Breaking cette semaine
 
-### 1. [Anthropic Skill Creator — créer ses skills interactivement](https://www.kdnuggets.com/anthropics-complete-guide-to-claude-skills-building)
-- 📺 **Anthropic (officiel) via KDnuggets/Composio** · 📅 récent
-- 🎯 **Thème** : Claude Skills
-- 💡 **TL;DR** : Anthropic a lancé le **Skill Creator**, le moyen le plus simple de construire un skill Claude Code en mode interactif (il génère le SKILL.md + structure à ta place).
-- ⭐ **Pourquoi pour toi** : tu maintiens 41+ skills à la main (TT/veravie/Tora) — le Skill Creator standardise la création et réduit les erreurs de structure.
+| # | Événement | Date | Impact Ivan |
+|---|-----------|------|-------------|
+| 1 | **Claude Fable 5 (Mythos) lancé** — premier modèle Mythos public | 9 juin | 1M ctx, 128K output, adaptive thinking always-on, SWE-Bench 80.3% |
+| 2 | **Fable 5 + Mythos 5 suspendus** par directive US export-control | 12 juin | Accès retiré — à surveiller pour réouverture |
+| 3 | **Sous-agents peuvent spawner leurs propres sous-agents** (5 niveaux) | v2.1.172 · 10 juin | Pipeline multi-agent TT/PURESOLE enfin natif |
+| 4 | **Billing change Anthropic aujourd'hui** — usage API séparé du quota subscription | 15 juin | Vérifier dashboard.anthropic.com |
+| 5 | **Claude Managed Agents** — sandbox privé + MCP servers privés | récent | Agents + Shopify MCP = automation store fully controlled |
 
-### 2. [Agent Teams — orchestration multi-sessions](https://www.developersdigest.tech/blog/claude-code-agent-teams-subagents-2026)
-- 📺 **Developers Digest / claudefa.st** · 📅 2026
-- 🎯 **Thème** : Claude Code / agents
-- 💡 **TL;DR** : une session = "team lead" qui coordonne via une task list partagée ; les "teammates" tournent chacun dans leur contexte et **communiquent entre eux** (≠ subagents qui ne reportent qu'au main). Expérimental.
-- ⭐ **Pourquoi pour toi** : pour les gros chantiers (refonte homepage veravie, audit 360 TT) — dépasse la limite d'un seul contexte, là où tes subagents actuels ne se parlent pas.
+---
 
-### 3. [Top 5 Claude Code Skills that 10x productivity (2026)](https://www.youtube.com/watch?v=Xs942zwWfdY)
-- 📺 **YouTube** · ⏱ court · 📅 2026
-- 🎯 **Thème** : Claude Skills
-- 💡 **TL;DR** : 5 skills Anthropic concrets pour accélérer le code/ops. *(analysé par Gemini → voir analyses/)*
-- ⭐ **Pourquoi pour toi** : piocher des skills réutilisables prêts à adapter à ton workflow Shopify.
+## 🔥 Must-watch (5 sélectionnés)
 
-### 4. [The Ultimate Claude Code Guide — MCP, Skills & More](https://www.youtube.com/watch?v=uogzSxOw4LU)
-- 📺 **YouTube** · 📅 2026
-- 🎯 **Thème** : Claude Code (primitives)
-- 💡 **TL;DR** : guide complet des primitives (CLAUDE.md, skills, subagents, slash commands, hooks, MCP). *(analysé par Gemini → voir analyses/)*
-- ⭐ **Pourquoi pour toi** : consolidation — vérifier que tu exploites bien les 6 primitives sur tes projets.
+### 1. [Claude Fable 5 + Mythos just got SHUTDOWN by the US Government!](https://www.youtube.com/watch?v=HPTs8q08t0U)
+- 📅 ~12 juin 2026 · ⭐ Score : 8/10
+- 🎯 **Thème** : Fable 5 / Mythos 5 — suspension gouvernementale
+- 💡 **TL;DR** : Anthropic reçoit une directive export-control US et désactive Fable 5 + Mythos 5 en urgence 3 jours après leur sortie.
+- ⚡ **Action Ivan** : Surveille la réouverture — Fable 5 sera le meilleur modèle pour tes automations complexes (PURESOLE multi-étapes, audit boutique TT).
+- ⚠️ *Analyse Gemini indisponible (503)*
 
-### 5. [7 Rules for an Effective Claude Code Skill](https://uxplanet.org/7-rules-for-creating-an-effective-claude-code-skill-2d81f61fc7cd)
-- 📺 **UX Planet — Nick Babich** · 📅 2026
-- 🎯 **Thème** : Claude Skills (best practices)
-- 💡 **TL;DR** : description = règle de routage ; code déterministe pour le déterministe (scripts > "fais attention") ; SKILL.md lean + companion files chargés à la demande ; **un seul job par skill** ; exemples concrets > règles abstraites ; **pas de mega-skills** (accuracy + composabilité en chute).
-- ⭐ **Pourquoi pour toi** : audit direct — certains de tes skills sont des mega-skills (ex. token-optimize 2-en-1, boutique-360 orchestrateur) → candidats au découpage.
+### 2. [Claude Mythos is FINALLY here (Fable 5)](https://www.youtube.com/watch?v=Ubazoyagym0)
+- 📅 ~9-10 juin 2026 · ⭐ Score : 7/10
+- 🎯 **Thème** : Fable 5 — release officielle + capabilities
+- 💡 **TL;DR** : Premier modèle Mythos-class public. $10/M input, $50/M output. Long-horizon work natif (délégation sous-agents, validation auto de ses propres outputs).
+- ⚡ **Action Ivan** : Tester pour les tâches 2h+ quand Fable 5 revient (refonte homepage TT, migration catalogue PURESOLE).
+- ⚠️ *Analyse Gemini indisponible (503)*
+
+### 3. [Claude Fable 5 is a freak](https://www.youtube.com/watch?v=JvT17VTCbcU)
+- 📅 ~9-12 juin 2026 · ⭐ Score : 7/10
+- 🎯 **Thème** : Fable 5 — démos hands-on
+- 💡 **TL;DR** : Fable 5 one-shot Minecraft from scratch, crée un jeu mobile pub, génère des animations. Montre les capacités long-horizon concrètement.
+- ⚡ **Action Ivan** : Patterns à retenir pour tes use-cases (génération assets visuels TT, automation catalogue).
+- ⚠️ *Analyse Gemini indisponible (503)*
+
+### 4. [Top 5 Claude Code Skills that 10x productivity (2026)](https://www.youtube.com/watch?v=Xs942zwWfdY)
+- 📅 2026 · ⭐ Score : 7/10 — *(analysé, voir analyses/)*
+- 🎯 **Thème** : Claude Skills — exemples concrets
+- 💡 **TL;DR** : 5 skills réutilisables Anthropic pour accélérer code + ops.
+- ⚡ **Action Ivan** : Piocher les patterns → adapter à ton workflow Shopify TT.
+
+### 5. [The Ultimate Claude Code Guide — MCP, Skills & More](https://www.youtube.com/watch?v=uogzSxOw4LU)
+- 📅 2026 · ⭐ Score : 7/10 — *(analysé, voir analyses/)*
+- 🎯 **Thème** : Claude Code (toutes primitives)
+- 💡 **TL;DR** : Guide complet des 6 primitives (CLAUDE.md, skills, subagents, slash commands, hooks, MCP).
+- ⚡ **Action Ivan** : Vérifier que tu exploites bien les 6 primitives sur tes projets.
 
 ---
 
 ## ✅ Nice to watch
 
-### [Hooks in Claude Code — Full Theory + Practical Use](https://www.youtube.com/watch?v=oo1oADOiVmM) — CampusX · 2026
-Hooks = contrôle déterministe sur les events lifecycle (auto-format, blocage d'op dangereuses) → *renforcer tes garde-fous deploy*.
-
-### [Top 10 Must-have Claude Skills 2026](https://composio.dev/content/top-claude-skills) — Composio
-Directory de skills populaires (doc processing, marketing, sandbox E2B) → *inspiration catalogue*.
-
-### [Claude Agent SDK en 2026](https://www.totalum.app/blog/claude-agent-sdk-totalum-2026) — Totalum
-Quand passer du CLI au SDK pour shipper un agent → *si un jour tu industrialises une automation TT*.
-
-### [Multi-agent orchestration for Claude Code](https://shipyard.build/blog/claude-code-multi-agent/) — Shipyard
-Patterns d'orchestration multi-agents → *complément à Agent Teams*.
+| Lien | Thème | Pourquoi |
+|------|-------|----------|
+| [Claude Fable + Mythos 5 is BANNED!](https://www.youtube.com/watch?v=5NdAlV85MPE) | Fable 5 ban | Réaction communauté + implications |
+| [Claude AI Just Got A Massive Update](https://www.youtube.com/watch?v=lpVkxuVmaLk) | Maj Claude Code | Probablement v2.1.172 subagents 5 niveaux |
+| [Hooks in Claude Code — Full Theory](https://www.youtube.com/watch?v=oo1oADOiVmM) | Hooks | Contrôle déterministe lifecycle events |
+| [Shopify AI Toolkit + Claude Code](https://www.fudge.ai/guides/shopify-ai-toolkit-claude-code-setup/) | Shopify MCP | Setup complet MCP Shopify |
+| [4 ways to connect Shopify to Claude](https://portermetrics.com/en/tutorial/claude/chat-shopify/) | Shopify + Claude | Guide gratuit connexion directe |
+| [Claude Code MCP Servers & Plugins 2026](https://www.clarista.io/blog/claude-code-mcp-plugins-guide) | MCP | Guide complet MCP ecosystem |
+| [7 Rules for an Effective Claude Code Skill](https://uxplanet.org/7-rules-for-creating-an-effective-claude-code-skill-2d81f61fc7cd) | Skills best practices | Audit de ton catalogue skills |
 
 ---
 
-## ⏭ Skip (mention rapide)
+## ⏭ Skip
 
-- Claude Routines / Cowork (YouTube) — déjà couvert digest 08/06
-- Shopify AI Toolkit (avril) — déjà couvert digest 08/06
-- Claude Skills Tutorial O_z9vDLgvoY — déjà vu (seen-urls)
-- "Claude Code 2026 Best Practices" (guSs80sefNo) — langue russe (hors fr/en)
-- "My Claude Code Workflow 2026" (sy65ARFI9Bg) — daté janvier, generic
-
----
-
-## 💡 Insights extraits (synthèse cross-sources)
-
-- **Convergence best-practices skills** : un job/skill · description = routing rule · code déterministe · companion files · exemples > règles · anti-mega-skill. → audit de ton catalogue recommandé.
-- **Agent Teams = nouvelle couche au-dessus des subagents** : orchestration multi-sessions qui se parlent, vs subagents isolés. Pertinent pour tes chantiers multi-étapes.
-- **Skill Creator officiel** : Anthropic industrialise la création de skills → moins de SKILL.md écrits à la main.
+- "FULL Claude Code Tutorial Beginners" (qYqIhX9hTQk) — mars 2026, trop vieux
+- "The ONLY Claude Code Tutorial 2026" (LlFgLsffbBs) — mars 2026, trop vieux
+- "Cold Email Playbook in Claude Code" (MGDlG4JyjVk) — hors scope
+- "Claude Fix Verification Code" (psHVruLiH8E) — hors scope
+- "MYTHOS Update von CLAUDE" (MGnvfvq_VBQ) — langue allemande (hors fr/en)
 
 ---
 
-## 📚 À capitaliser dans Obsidian
+## 🆕 Changelog Claude Code (9-15 juin)
 
-- [ ] **7 règles d'un skill efficace** → note `10-Concepts/claude-skill-rules.md`
-- [ ] **Agent Teams vs subagents vs workflows** → note `20-Workflows/claude-orchestration-layers.md`
-
-> Lancer `/obsidian-knowledge-base` pour capturer.
-
----
-
-## 🚀 Pipeline complet exécuté
-
-*(Phase 6 Gemini + Phase 7 skill-distiller lancées en parallèle — voir `claude-weekly/2026-06-15/analyses/` et `skills-proposed/`. Statut consolidé dans `_AU-REVEIL.md`.)*
+| Version | Date | Feature clé |
+|---------|------|-------------|
+| **2.1.176** | 12 juin | Titres session en langue de la conversation · hooks conditionnels fixés · Fable 5 fixes |
+| **2.1.175** | 12 juin | `enforceAvailableModels` — contrôle modèles autorisés en org |
+| **2.1.174** | 12 juin | `wheelScrollAccelerationEnabled` · sélecteur `/model` corrigé |
+| **2.1.173** | 11 juin | Normalisation noms Fable 5 avec suffixe `[1m]` |
+| **2.1.172** | 10 juin | **⭐ Sous-agents spawnen leurs propres sous-agents (5 niveaux)** · Marketplace plugins barre de recherche |
+| **2.1.170** | 9 juin | Introduction Claude Fable 5 dans Claude Code |
 
 ---
 
-## 🔁 Suite ?
+## 🔌 MCP officiel (modelcontextprotocol/servers)
 
-A) Voir le transcript d'une vidéo Must-watch → me dire le numéro
-B) Capitaliser dans Obsidian → `/obsidian-knowledge-base`
-C) Auditer mes skills vs les 7 règles → me dire "audit skills"
+- **5 juin** : Fix sécurité GitPython + urllib3 (vulnérabilités HIGH)
+- **4 juin** : Ajout cas de test URL Elicitation
+- **30 mai** : Annotations MCP sur les 9 outils du serveur Memory
+- Aucun nouveau serveur MCP officiel cette semaine
+
+---
+
+## 💡 Insights cross-sources
+
+1. **Fable 5 = game changer suspendu** — le modèle le plus capable jamais rendu public, retiré 3 jours après pour export-control. Quand il reviendra, priorise les tâches complexes longue durée.
+2. **Subagents 5 niveaux** (v2.1.172) = pipeline multi-agent natif. Tu peux orchestrer un agent TT qui délègue à des sous-agents qui redélèguent — sans hack.
+3. **Billing June 15 aujourd'hui** — usages API Claude Code facturés séparément. Vérifie dashboard.anthropic.com.
+4. **Shopify MCP mature** — 4 MCP servers natifs Shopify + AI Toolkit MIT. L'écosystème Claude × Shopify est officiellement supporté.
+
+---
+
+## 🚀 Skills proposés (3 — run matinale)
+
+1. **claude-context-optimizer** — Audit coûts tokens + MCP chargés inutilement par session
+2. **claude-subagents** — Orchestration sous-agents parallèles avec contextes isolés
+3. **webapp-tester** — Tests UI Playwright pilotés par Claude Code sur thèmes Shopify
+
+> ⚠️ Analyses Gemini indisponibles (503) sur les 3 nouvelles vidéos Fable 5 → pas de nouveaux skills proposés cette run. Valider les 3 skills existants manuellement avant déploiement.
+
+---
+
+## 📚 Actions recommandées pour Ivan
+
+- [ ] **Billing check** — ouvrir dashboard.anthropic.com aujourd'hui (changement billing effectif)
+- [ ] **Subagents nesting** — tester pipeline 5 niveaux sur chantier PURESOLE
+- [ ] **Fable 5 watchlist** — ajouter alerte pour réouverture d'accès
+- [ ] **Shopify MCP** — connecter Claude Code via toolkit officiel Shopify
+- [ ] **Skills review** — évaluer les 3 skills proposés (`claude-weekly/2026-06-15/skills-proposed/`)
