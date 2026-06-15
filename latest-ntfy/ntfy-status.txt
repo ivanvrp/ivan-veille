@@ -1,2 +1,1 @@
-NTFY_RESULT: ntfy.sh blocked by container network egress policy (host not in allowlist)
-NTFY_RETRY: 2x KO
+ntfy: BLOCKED — host not in allowlist (2x KO)

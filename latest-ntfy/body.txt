@@ -1,23 +1,21 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH (3 sur 5)
 ━━━━━━━━━━━━━━━
-1️⃣ 🛒 Shopify Summer '26 — Scripts off June 30!
-📌 150+ updates : Checkout Components GA (+22% conv pour Plus), AI Merch natif admin. Deadline Scripts→Functions = 30 juin, J-17. Aucune extension possible.
-💡 PURESOLE/TT sur Shopify → audit Scripts obligatoire cette semaine
-⚡ Admin Shopify → Apps → chercher "Scripts" → migrer si actif
+1️⃣ Claude Fable 5 + Mythos SHUTDOWN by US Gov!
+💡 Fable 5 suspendu par directive export-control US 3j après sa sortie
+⚡ Surveille la réouverture — meilleur modèle dispo quand ça reviendra
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta Andromeda — Creative = 56% de la perf
-📌 Broad targeting seul viable. 15-30 créas/mois = +65% ROAS. Advantage+ Shopping = -17% CPA vs manual.
-💡 TT/PURESOLE : campagnes segmentées = tu brident l'algo Andromeda
-⚡ Business Manager → consolider en 1 campagne ASC broad + 5 nouvelles créas UGC
+2️⃣ Claude Mythos is FINALLY here (Fable 5)
+💡 Mythos-class public : 1M ctx, $10/M, SWE-Bench 80.3%, long-horizon natif
+⚡ Tester pour tâches 2h+ (refonte TT, migration PURESOLE) quand dispo
 ━━━━━━━━━━━━━━━
-3️⃣ 🤖 Claude Code — Dynamic Workflows + sub-agents 5 niveaux
-📌 Dizaines d'agents parallèles dans une session, nested jusqu'à 5 niveaux, 2× rate limits (/workflows)
-💡 Solo founder : déléguer audits store/créa à une équipe de 30 agents en minutes
-⚡ Claude Code → /workflows → tester audit descriptions produits Shopify
+3️⃣ Claude Fable 5 is a freak
+💡 One-shot Minecraft, jeu mobile, animations — démos long-horizon concrètes
+⚡ Patterns à adapter : génération assets visuels TT, automation catalogue
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 TikTok GMV Max remplace VSA/PSA — activer si TikTok Shop actif
-🤖 Modèles Claude dépréciés le 15 juin — vérifier Make/Zapier avant demain!
-🧠 RAS (NotebookLM/Obsidian déjà couverts J-4)
-🛒 Guide migration Scripts→Functions avant 23 juin (digitalapplied.com)
-🔌 pdf-mcp : Claude lit tes PDFs lourds sans limite contexte (github.com/jztan/pdf-mcp)
+🚀 SKILLS PROPOSÉS : 3
+claude-context-optimizer · claude-subagents · webapp-tester
+━━━━━━━━━━━━━━━
+💡 Insight cross-vidéos :
+Fable 5 (le + puissant) lancé et retiré en 3j par export-control US — pendant ce temps v2.1.172 déploie les subagents 5 niveaux ET le billing change aujourd'hui : action requise dashboard.anthropic.com
+━━━━━━━━━━━━━━━
+⚠️ Gemini 503 sur 3 vidéos Fable 5 | Git push: success
