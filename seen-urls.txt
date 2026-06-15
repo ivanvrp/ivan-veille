@@ -205,3 +205,12 @@ https://aimaker.substack.com/p/notebooklm-mcp-claude-setup-guide-research-workfl
 https://www.crobenchmark.com/blog/ecommerce-cro-benchmarks-2026
 https://tslagency.co.uk/tiktok-shop-ad-creative-that-converts-in-2026-what-s-actually-working-now/
 https://motionapp.com/blog/how-to-build-a-high-volume-ad-production-system-for-meta-and-tiktok-in-2026
+https://www.kdnuggets.com/anthropics-complete-guide-to-claude-skills-building
+https://www.developersdigest.tech/blog/claude-code-agent-teams-subagents-2026
+https://www.youtube.com/watch?v=Xs942zwWfdY
+https://www.youtube.com/watch?v=uogzSxOw4LU
+https://uxplanet.org/7-rules-for-creating-an-effective-claude-code-skill-2d81f61fc7cd
+https://www.youtube.com/watch?v=oo1oADOiVmM
+https://composio.dev/content/top-claude-skills
+https://www.totalum.app/blog/claude-agent-sdk-totalum-2026
+https://shipyard.build/blog/claude-code-multi-agent/
