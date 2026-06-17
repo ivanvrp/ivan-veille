@@ -1,21 +1,23 @@
-🔥 MUST-WATCH (3 sur 5)
+🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ Claude Fable 5 + Mythos SHUTDOWN by US Gov!
-💡 Fable 5 suspendu par directive export-control US 3j après sa sortie
-⚡ Surveille la réouverture — meilleur modèle dispo quand ça reviendra
+1️⃣ 🛒 Shopify Summer '26 Editions : 150+ updates, Horizon theme, Rollouts
+📌 Thème Horizon gratuit + modulaire lancé AUJOURD'HUI. Rollouts = A/B testing natif. Checkout +50% rapide. Scripts deadline HARD 30 juin dans 13 jours.
+💡 TT/PURESOLE → Horizon = upgrade thème 0€. Scripts actifs = urgence migration Functions
+⚡ Admin > Thèmes > Horizon preview + vérifier scripts actifs avant J-13
 ━━━━━━━━━━━━━━━
-2️⃣ Claude Mythos is FINALLY here (Fable 5)
-💡 Mythos-class public : 1M ctx, $10/M, SWE-Bench 80.3%, long-horizon natif
-⚡ Tester pour tâches 2h+ (refonte TT, migration PURESOLE) quand dispo
+2️⃣ 🤖 US gov suspend Claude Fable 5 & Mythos 5 — 1er recall forcé frontier
+📌 Commerce Dept (Lutnick) a ordonné le 12/06 la coupure mondiale. Jailbreak invoqué. Opus 4.8 / Sonnet 4.6 non affectés.
+💡 Claude Code Sonnet 4.6 → non affecté. Si API Fable 5 → switcher Opus 4.8 maintenant
+⚡ Vérif .claude/settings.json → remplacer fable-5 par claude-opus-4-8 si présent
 ━━━━━━━━━━━━━━━
-3️⃣ Claude Fable 5 is a freak
-💡 One-shot Minecraft, jeu mobile, animations — démos long-horizon concrètes
-⚡ Patterns à adapter : génération assets visuels TT, automation catalogue
+3️⃣ 🔌 MCP memory : knowledge graph = MCP Resource natif (mergé aujourd'hui)
+📌 memory://knowledge-graph exposé en live avec subscriptions temps réel. Plus de polling.
+💡 Plus besoin de re-briefer TT/PURESOLE chaque session → mémoire persistante cross-runs
+⚡ npx @modelcontextprotocol/server-memory + ajouter mcp.json → 15min max
 ━━━━━━━━━━━━━━━
-🚀 SKILLS PROPOSÉS : 3
-claude-context-optimizer · claude-subagents · webapp-tester
-━━━━━━━━━━━━━━━
-💡 Insight cross-vidéos :
-Fable 5 (le + puissant) lancé et retiré en 3j par export-control US — pendant ce temps v2.1.172 déploie les subagents 5 niveaux ET le billing change aujourd'hui : action requise dashboard.anthropic.com
-━━━━━━━━━━━━━━━
-⚠️ Gemini 503 sur 3 vidéos Fable 5 | Git push: success
+📚 Autres axes (1 ligne) :
+📊 +12% CTR Meta AI creatives sur <100$ AOV — dropship PURESOLE segment favorable
+🤖 Claude Code W24 : nested sub-agents 5 niveaux + rate limits doublés
+🧠 Obsidian × Claude Code MCP : vault live workspace — Smart Connections RAG gratuit
+🛒 Scripts Shopify J-13 — deadline 30 juin non négociable, migration Functions urgente
+🔌 MCP Spec RC juillet 28 : stateless core + MCP Apps + Tasks — 97M downloads/mois

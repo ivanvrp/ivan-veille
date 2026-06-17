@@ -1,13 +1,3 @@
-https://www.anthropic.com/news/claude-design-anthropic-labs
-https://devtoolpicks.com/blog/anthropic-self-hosted-claude-agents-mcp-tunnels-indie-hackers-2026
-https://code.claude.com/docs/en/whats-new/2026-w20
-https://tslagency.co.uk/tiktok-shop-ad-creative-2026/
-https://mhigrowthengine.com/blog/how-to-scale-meta-ads-dtc-brands-2026/
-https://www.mindstudio.ai/blog/build-ai-second-brain-claude-code-obsidian
-https://www.geeky-gadgets.com/notebooklm-obsidian-workflow-2/
-https://cybersecuritynews.com/cve-mcp-server-and-claude/
-https://www.stackmatix.com/blog/tiktok-ad-creative-trends-2026
-https://tikadsuite.com/blog/tiktok-ads-for-fashion-brands/
 https://www.hyperfx.ai/blog/arcads-vs-creatify-vs-higgs-field-vs-hyper-2026
 https://www.digitalapplied.com/blog/code-with-claude-sandboxes-mcp-tunnels-launch
 https://litextension.com/blog/shopify-dawn-theme-review/
@@ -198,3 +188,13 @@ https://www.fudge.ai/guides/shopify-ai-toolkit-claude-code-setup/
 https://portermetrics.com/en/tutorial/claude/chat-shopify/
 https://www.clarista.io/blog/claude-code-mcp-plugins-guide
 https://code.claude.com/docs/en/changelog
+https://www.fudge.ai/blog/shopify-updates-june-2026/
+https://www.anthropic.com/news/fable-mythos-access
+https://github.com/modelcontextprotocol/servers/pull/3323
+https://www.digitalapplied.com/blog/ai-ad-creative-benchmark-2026-ctr-roas-data
+https://stormy.ai/blog/high-volume-tiktok-ads-strategy-ai-creative-testing
+https://www.innobu.com/en/articles/obsidian-claude-second-brain-knowledge-management.html
+https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/
+https://code.claude.com/docs/en/whats-new/2026-w24
+https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html
+https://www.icecubedigital.com/blog/shopify-summer-edition-2026/
