@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🧠 NotebookLM 2.0 — Agentic Research + Gemini 3.5
-📌 Source discovery (idée → sources auto) + code execution cloud + export PDF/PPTX
-💡 Ingestion veille → NotebookLM → briefing → export Obsidian automatique
-⚡ notebooklm.google.com → notebook "Veille TT" → source discovery → briefing
+1️⃣ 🤖 Claude Code Artifacts — sessions → pages web live
+📌 19 juin : tes sessions Claude Code deviennent des pages interactives shareables (dashboard, PR walkthrough, checklist). Beta Team/Enterprise, lien auto-généré.
+💡 Partager analyses TT/PURESOLE sans Notion — 0 setup
+⚡ CLI → "create artifact dashboard top products" → copier le lien
 ━━━━━━━━━━━━━━━
-2️⃣ 🤖 Claude Managed Agents — cron + vault credentials (beta publique)
-📌 Agents récurrents sans serveur, API keys injectées runtime (modèle ne voit pas les clés)
-💡 Remplacer RemoteTrigger par agent Claude hébergé avec vault Shopify/Klaviyo
-⚡ claude.ai → Settings → Agents → "Scheduled Agents" (beta Work) → tester cron lundi 9h
+2️⃣ 🛒 Shopify Spring '26 — UCP ON par défaut sur tous les stores
+📌 17 juin : Universal Commerce Protocol (Google+Amazon+Stripe) activé partout. Les agents IA shopping lisent ton catalogue auto. Qualité fiches = ranking IA.
+💡 TT + PURESOLE découvrables par ChatGPT Commerce & Perplexity dès maintenant
+⚡ Admin → Agentic Commerce → UCP ON → auditer top 5 fiches (desc >150 mots)
 ━━━━━━━━━━━━━━━
-3️⃣ 📊 TikTok → Meta dual-stack : -17% CAC blended
-📌 TikTok CPM 9-15$ vs Meta 14-22$ ; creative quality = 70% variation CPA TikTok
-💡 TikTok awareness + retargeting Meta J+7 = structure optimale pour budget limité
-⚡ 4 UGC hooks TikTok → audience custom Meta visiteurs J-7 → mesurer CAC J+14
+3️⃣ 📊 Arcads/Higgsfield : disclosure "AI Generated" LÉGALEMENT OBLIGATOIRE
+📌 NY depuis 9 juin + FTC juin 2026 : pubs vidéo IA sans label = $1-5k/violation. EU : €15M dès août.
+💡 Pubs PURESOLE avec avatars IA sur Meta/TikTok = risque légal actif
+⚡ Meta Ads Manager → toutes pubs actives → caption + "🤖 Vidéo générée par IA"
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta batch 5-7 créas/10-14j — Andromeda récompense vraie diversité d'angles
-🤖 Claude Platform AWS — IAM + WIF remplace clés API statiques
-🧠 Smart Connections → Smart Chat Pro (payant) — MCP Obsidian reste gratuit
-🛒 Dawn v15 17 juin — section Product Disclosures + Storefront Events natifs
-🔌 MCP 18 juin : diagramzu (diagrams archi), AgentRecall (mémoire persistante)
+📊 TikTok : raw talking-head CPM inférieurs vs polished — tester 1 créa brut/semaine
+🤖 Claude Code rate limits x2 + auto-safety (git reset --hard bloqué en mode auto)
+🧠 obsidian-claude-code-mcp : vault Obsidian via WebSocket port 22360 pour Claude Code
+🛒 Shopify Sidekick : analytics opérationnel ("top produits du mois?" avec graphiques)
+🔌 AWS MCP cross-account GA + CVE-2026-27735 patchée → npm update tes MCP locaux
