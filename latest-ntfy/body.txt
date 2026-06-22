@@ -1,23 +1,15 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH (2 cette semaine)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Code Artifacts — sessions → pages web live
-📌 19 juin : tes sessions Claude Code deviennent des pages interactives shareables (dashboard, PR walkthrough, checklist). Beta Team/Enterprise, lien auto-généré.
-💡 Partager analyses TT/PURESOLE sans Notion — 0 setup
-⚡ CLI → "create artifact dashboard top products" → copier le lien
+1️⃣ Artifacts in Claude Code — Anthropic officiel (18 juin)
+💡 Claude génère des rapports HTML interactifs partageables via lien public — dashboard funnel, maquettes A/B, analytics Shopify sans outils externes
+⚡ Regarder immédiatement — skill shopify-funnel-artifact proposé
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify Spring '26 — UCP ON par défaut sur tous les stores
-📌 17 juin : Universal Commerce Protocol (Google+Amazon+Stripe) activé partout. Les agents IA shopping lisent ton catalogue auto. Qualité fiches = ranking IA.
-💡 TT + PURESOLE découvrables par ChatGPT Commerce & Perplexity dès maintenant
-⚡ Admin → Agentic Commerce → UCP ON → auditer top 5 fiches (desc >150 mots)
+2️⃣ Code with Claude Tokyo 2026: Opening Keynote
+💡 1er événement Anthropic en APAC — subagents imbriqués 5 niveaux, /cd command, safe mode, fallbackModel
+⚡ À regarder pour anticiper la roadmap Anthropic
 ━━━━━━━━━━━━━━━
-3️⃣ 📊 Arcads/Higgsfield : disclosure "AI Generated" LÉGALEMENT OBLIGATOIRE
-📌 NY depuis 9 juin + FTC juin 2026 : pubs vidéo IA sans label = $1-5k/violation. EU : €15M dès août.
-💡 Pubs PURESOLE avec avatars IA sur Meta/TikTok = risque légal actif
-⚡ Meta Ads Manager → toutes pubs actives → caption + "🤖 Vidéo générée par IA"
+🚀 SKILLS PROPOSÉS : 1
+→ shopify-funnel-artifact : analyse funnel Shopify + artifact HTML partageable (claude-weekly/2026-06-22/skills-proposed/)
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 TikTok : raw talking-head CPM inférieurs vs polished — tester 1 créa brut/semaine
-🤖 Claude Code rate limits x2 + auto-safety (git reset --hard bloqué en mode auto)
-🧠 obsidian-claude-code-mcp : vault Obsidian via WebSocket port 22360 pour Claude Code
-🛒 Shopify Sidekick : analytics opérationnel ("top produits du mois?" avec graphiques)
-🔌 AWS MCP cross-account GA + CVE-2026-27735 patchée → npm update tes MCP locaux
+💡 Insight cross-vidéos :
+Anthropic bascule Claude Code vers l'artifact partageable comme output principal — le rapport live remplace le code comme livrable, idéal pour collaborer avec prestataires sans friction.
