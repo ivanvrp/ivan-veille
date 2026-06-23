@@ -1,15 +1,23 @@
-🔥 MUST-WATCH (2 cette semaine)
+🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ Artifacts in Claude Code — Anthropic officiel (18 juin)
-💡 Claude génère des rapports HTML interactifs partageables via lien public — dashboard funnel, maquettes A/B, analytics Shopify sans outils externes
-⚡ Regarder immédiatement — skill shopify-funnel-artifact proposé
+1️⃣ 🤖 WIF GA : plus de clés API statiques Claude
+📌 Claude API accepte AWS/GitHub/Okta tokens courts — fin des ANTHROPIC_API_KEY hardcodées dans secrets
+💡 Routines veille-360 GitHub Actions → remplacer PAT Anthropic par GitHub OIDC → sécurité prod
+⚡ Workflow GH Actions → `id-token: write` → config WIF Anthropic GitHub OIDC (15min)
 ━━━━━━━━━━━━━━━
-2️⃣ Code with Claude Tokyo 2026: Opening Keynote
-💡 1er événement Anthropic en APAC — subagents imbriqués 5 niveaux, /cd command, safe mode, fallbackModel
-⚡ À regarder pour anticiper la roadmap Anthropic
+2️⃣ 🛒 Shopify Summer '26 : AI Sort + Rollouts natifs
+📌 AI Collection Sort = produits réordonnés par conversion prédite. Rollouts = A/B test checkout sans app.
+💡 TT/PURESOLE → AI Sort best-sellers + test checkout, sans outil tiers payant, sans Plus
+⚡ Admin → Collections → top collection → AI Sort ON → lancer Rollout A/B (10min)
 ━━━━━━━━━━━━━━━
-🚀 SKILLS PROPOSÉS : 1
-→ shopify-funnel-artifact : analyse funnel Shopify + artifact HTML partageable (claude-weekly/2026-06-22/skills-proposed/)
+3️⃣ 🔌 Enterprise MCP Auth Okta : 7 connecteurs zero-touch
+📌 Admins provisionnent Asana/Figma/Linear via Okta — employees héritent l'accès sans OAuth consent.
+💡 Scale TT en équipe → onboarding MCP centralisé, plus d'OAuth par collaborateur
+⚡ Claude Team → Admin → Identity → Okta → provisionner 7 apps (15min)
 ━━━━━━━━━━━━━━━
-💡 Insight cross-vidéos :
-Anthropic bascule Claude Code vers l'artifact partageable comme output principal — le rapport live remplace le code comme livrable, idéal pour collaborer avec prestataires sans friction.
+📚 Autres axes (1 ligne) :
+📊 Andromeda 2026 : UGC +24% ROAS vs studio, tester 20+ créas/mois (Common Thread)
+🤖 Claude Code fallbackModel : 3 modèles backup si overload 529 (v2.1.169)
+🧠 Pipeline auto Claude Code→NotebookLM→Obsidian sans copier-coller (buildmvpfast)
+🛒 ⚠️ Shopify Scripts : J-7 avant suppression (30 juin) → migrer Functions maintenant
+🔌 RAS (EMA Okta couvert en Top 3)
