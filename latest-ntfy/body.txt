@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 WIF GA : plus de clés API statiques Claude
-📌 Claude API accepte AWS/GitHub/Okta tokens courts — fin des ANTHROPIC_API_KEY hardcodées dans secrets
-💡 Routines veille-360 GitHub Actions → remplacer PAT Anthropic par GitHub OIDC → sécurité prod
-⚡ Workflow GH Actions → `id-token: write` → config WIF Anthropic GitHub OIDC (15min)
+1️⃣ 🤖 Claude Tag sur Slack — Beta lancée aujourd'hui
+📌 @Claude membre permanent Slack, mémoire équipe, délègue tasks async. 65% code Anthropic déjà généré via Claude Tag.
+💡 TT/PURESOLE : déléguer briefs créa/analyse perf aux collabs via Slack sans re-briefer.
+⚡ Claude Admin → Integrations → Slack → activer Claude Tag → tester dans #ops-claude
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify Summer '26 : AI Sort + Rollouts natifs
-📌 AI Collection Sort = produits réordonnés par conversion prédite. Rollouts = A/B test checkout sans app.
-💡 TT/PURESOLE → AI Sort best-sellers + test checkout, sans outil tiers payant, sans Plus
-⚡ Admin → Collections → top collection → AI Sort ON → lancer Rollout A/B (10min)
+2️⃣ 📊 AI UGC Disclosure — EU deadline 2 août ⚠️
+📌 NY Synthetic Performer Law active depuis 9 juin. EU AI Act Art.50 enforced 2 août. TikTok rejette 35% ads non conformes. $5k/violation NY.
+💡 PURESOLE/Arcads : chaque avatar AI dans une pub = disclosure obligatoire avant le 2 août.
+⚡ Meta Ads Manager → cocher "Alter or synthetic media" · TikTok → toggle "AI-generated content"
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 Enterprise MCP Auth Okta : 7 connecteurs zero-touch
-📌 Admins provisionnent Asana/Figma/Linear via Okta — employees héritent l'accès sans OAuth consent.
-💡 Scale TT en équipe → onboarding MCP centralisé, plus d'OAuth par collaborateur
-⚡ Claude Team → Admin → Identity → Okta → provisionner 7 apps (15min)
+3️⃣ 🛒 Shopify OSE Mobile + Sidekick dans l'éditeur
+📌 Canvas visible en live sur mobile + Sidekick intégré pour edits par texte. iOS + Android redesigné.
+💡 Modifier stores TT/PURESOLE depuis smartphone sans desktop.
+⚡ Shopify Admin mobile → Online Store → Personnaliser → tester Sidekick dans l'éditeur
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Andromeda 2026 : UGC +24% ROAS vs studio, tester 20+ créas/mois (Common Thread)
-🤖 Claude Code fallbackModel : 3 modèles backup si overload 529 (v2.1.169)
-🧠 Pipeline auto Claude Code→NotebookLM→Obsidian sans copier-coller (buildmvpfast)
-🛒 ⚠️ Shopify Scripts : J-7 avant suppression (30 juin) → migrer Functions maintenant
-🔌 RAS (EMA Okta couvert en Top 3)
+📊 Hook Rate 3s = KPI #1 Meta 2026 — tester 40-50 hooks/semaine, refresh 7-10j (Motion App)
+🤖 Claude Code preview JetBrains + Fable 5/Mythos 5 suspendus directive US (Opus 4.8 dispo)
+🧠 Smart Connections Obsidian v4.5.3 + MCP integration — query vault depuis Claude Code
+🛒 Comptes clients Shopify redesignés mobile-first single-column
+🔌 RAS — aucun nouveau MCP serveur majeur (spec finale 28 juil.)
