@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Tag sur Slack — Beta lancée aujourd'hui
-📌 @Claude membre permanent Slack, mémoire équipe, délègue tasks async. 65% code Anthropic déjà généré via Claude Tag.
-💡 TT/PURESOLE : déléguer briefs créa/analyse perf aux collabs via Slack sans re-briefer.
-⚡ Claude Admin → Integrations → Slack → activer Claude Tag → tester dans #ops-claude
+1️⃣ 🤖 Claude Code W26: `!cmd` auto-répond sans 2e prompt
+📌 `! npm test` → Claude explique les erreurs auto (v2.1.186)
+💡 Dev TT/PURESOLE: loop test→debug sans copier-coller les logs
+⚡ CC → taper `! git log --oneline -10` et observer
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 AI UGC Disclosure — EU deadline 2 août ⚠️
-📌 NY Synthetic Performer Law active depuis 9 juin. EU AI Act Art.50 enforced 2 août. TikTok rejette 35% ads non conformes. $5k/violation NY.
-💡 PURESOLE/Arcads : chaque avatar AI dans une pub = disclosure obligatoire avant le 2 août.
-⚡ Meta Ads Manager → cocher "Alter or synthetic media" · TikTok → toggle "AI-generated content"
+2️⃣ 🛒 Shopify Scripts meurent dans 3 JOURS (30 juin)
+📌 Deadline DURE: tous les Scripts Plus cessent le 30/06/2026
+💡 Si TT ou PURESOLE a des Scripts actifs → checkout cassé J+3
+⚡ Admin Shopify → Apps → Script Editor → vérifier maintenant
 ━━━━━━━━━━━━━━━
-3️⃣ 🛒 Shopify OSE Mobile + Sidekick dans l'éditeur
-📌 Canvas visible en live sur mobile + Sidekick intégré pour edits par texte. iOS + Android redesigné.
-💡 Modifier stores TT/PURESOLE depuis smartphone sans desktop.
-⚡ Shopify Admin mobile → Online Store → Personnaliser → tester Sidekick dans l'éditeur
+3️⃣ 🔌 `claude mcp login <nom>` — OAuth MCP en 1 ligne
+📌 v2.1.186: auth MCP depuis terminal, sans menu /mcp interactif
+💡 Setup Shopify MCP, GitHub MCP 10× plus rapide à chaque machine
+⚡ `claude mcp list` puis `claude mcp login <serveur>`
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 Hook Rate 3s = KPI #1 Meta 2026 — tester 40-50 hooks/semaine, refresh 7-10j (Motion App)
-🤖 Claude Code preview JetBrains + Fable 5/Mythos 5 suspendus directive US (Opus 4.8 dispo)
-🧠 Smart Connections Obsidian v4.5.3 + MCP integration — query vault depuis Claude Code
-🛒 Comptes clients Shopify redesignés mobile-first single-column
-🔌 RAS — aucun nouveau MCP serveur majeur (spec finale 28 juil.)
+📚 Autres axes :
+📊 Meta ASC: 15-50 créatives actives requises pour l'algo Advantage+
+🤖 Claude Desktop full (chat+Code) sur AWS/GCP/Azure depuis 22/06
+🧠 NotebookLM+Obsidian: PDF→insights→vault, Claude lit les .md direct
+🛒 Shopify AI Collection Sort + A/B testing natif (Summer '26)
+🔌 MCP Tunnels: atteindre serveurs privés sans ouvrir le firewall
