@@ -1,23 +1,20 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH (3 cette semaine)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Mythos 5 restauré par US gov (26 juin)
-📌 Levée partielle ban : Mythos 5 dispo pour 100+ orgs US. Fable 5 attendu sous 72h (Pentagon/NSA OK imminent) — Axios confirme 27 juin.
-💡 Meilleur modèle pour code review complexe / agents → test sur migration Shopify Functions TT/PURESOLE
-⚡ Claude.ai → picker modèle → sélectionner Mythos 5 → tester révision code Shopify Functions
+1️⃣ Matthew Berman — How an amateur learned to loop
+💡 Patterns concrets pour looper Claude Code : planning, vérification, chaîner des agents
+⚡ Regarder + tester le skill shopify-product-loop proposé
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify Scripts meurent DEMAIN 30 juin — D-1
-📌 Minuit ce soir = 0 grace period. Checkout logic s'arrête sans backup. Subscription disclosure aussi mis à jour le 22 juin.
-💡 Si Scripts actifs sur TT ou PURESOLE → checkout cassé dans quelques heures
-⚡ Admin → Apps → Script Editor → vérifier count scripts actifs maintenant (< 5 min)
+2️⃣ Loop Library de Berman — EVERY Loop (Copy & Paste!)
+💡 26 loops prêts à l'emploi sur forwardfuture.com — copier-coller, zéro config
+⚡ Tester loop weekly analytics Shopify cette semaine
 ━━━━━━━━━━━━━━━
-3️⃣ 🧠 Claudian — Claude Code dans ton vault Obsidian
-📌 Plugin Obsidian (4 500+ stars, màj 26 juin) : vault = working dir Claude Code, @mention MCP servers depuis les notes.
-💡 Gérer veille TT/PURESOLE depuis Obsidian — Claude rédige, relie et file les notes directement
-⚡ Community Plugins → chercher Claudian → installer → ouvrir note → /help
+3️⃣ Claude Tag — Claude dans Slack comme coéquipier (23 juin)
+💡 Claude vit dans les canaux Slack, mémorise contexte, travaille en arrière-plan
+⚡ À surveiller pour scale TempleTwins (Team plan requis)
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 TikTok Symphony + Seedance 2.0 : vidéos produit AI depuis photo produit (TikTok World mai 2026, non couvert avant)
-🤖 Fable 5 imminente : Axios confirme retour "dans les jours" — meilleur modèle coding bientôt disponible
-🧠 Obsidian CLI officielle + Claude Code : auto-organise 5 ans de notes sans supervision
-🛒 CRO 2026 : conversion Shopify médiane 1.4%, top 10% = 4.7% — où se situent TT et PURESOLE ?
-🔌 Claudian @mention MCP servers depuis Obsidian : Shopify/GitHub MCP accessibles dans tes notes
+🚀 SKILLS PROPOSÉS : 2
+- shopify-product-loop : looper génération descriptions Shopify par batch
+- loop-library-shopify : adapter les 26 loops Berman au contexte e-com
+━━━━━━━━━━━━━━━
+💡 Insight cross-vidéos :
+Claude passe du mode "réponse ponctuelle" au mode "agent permanent" — loops + mémoire MCP + Claude Tag convergent. Boucler les tâches répétitives maintenant, avant que ça soit la norme.
