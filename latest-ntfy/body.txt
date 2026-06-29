@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Code W26: `!cmd` auto-répond sans 2e prompt
-📌 `! npm test` → Claude explique les erreurs auto (v2.1.186)
-💡 Dev TT/PURESOLE: loop test→debug sans copier-coller les logs
-⚡ CC → taper `! git log --oneline -10` et observer
+1️⃣ 🤖 Claude Mythos 5 restauré par US gov (26 juin)
+📌 Levée partielle ban : Mythos 5 dispo pour 100+ orgs US. Fable 5 attendu sous 72h (Pentagon/NSA OK imminent) — Axios confirme 27 juin.
+💡 Meilleur modèle pour code review complexe / agents → test sur migration Shopify Functions TT/PURESOLE
+⚡ Claude.ai → picker modèle → sélectionner Mythos 5 → tester révision code Shopify Functions
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify Scripts meurent dans 3 JOURS (30 juin)
-📌 Deadline DURE: tous les Scripts Plus cessent le 30/06/2026
-💡 Si TT ou PURESOLE a des Scripts actifs → checkout cassé J+3
-⚡ Admin Shopify → Apps → Script Editor → vérifier maintenant
+2️⃣ 🛒 Shopify Scripts meurent DEMAIN 30 juin — D-1
+📌 Minuit ce soir = 0 grace period. Checkout logic s'arrête sans backup. Subscription disclosure aussi mis à jour le 22 juin.
+💡 Si Scripts actifs sur TT ou PURESOLE → checkout cassé dans quelques heures
+⚡ Admin → Apps → Script Editor → vérifier count scripts actifs maintenant (< 5 min)
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 `claude mcp login <nom>` — OAuth MCP en 1 ligne
-📌 v2.1.186: auth MCP depuis terminal, sans menu /mcp interactif
-💡 Setup Shopify MCP, GitHub MCP 10× plus rapide à chaque machine
-⚡ `claude mcp list` puis `claude mcp login <serveur>`
+3️⃣ 🧠 Claudian — Claude Code dans ton vault Obsidian
+📌 Plugin Obsidian (4 500+ stars, màj 26 juin) : vault = working dir Claude Code, @mention MCP servers depuis les notes.
+💡 Gérer veille TT/PURESOLE depuis Obsidian — Claude rédige, relie et file les notes directement
+⚡ Community Plugins → chercher Claudian → installer → ouvrir note → /help
 ━━━━━━━━━━━━━━━
-📚 Autres axes :
-📊 Meta ASC: 15-50 créatives actives requises pour l'algo Advantage+
-🤖 Claude Desktop full (chat+Code) sur AWS/GCP/Azure depuis 22/06
-🧠 NotebookLM+Obsidian: PDF→insights→vault, Claude lit les .md direct
-🛒 Shopify AI Collection Sort + A/B testing natif (Summer '26)
-🔌 MCP Tunnels: atteindre serveurs privés sans ouvrir le firewall
+📚 Autres axes (1 ligne) :
+📊 TikTok Symphony + Seedance 2.0 : vidéos produit AI depuis photo produit (TikTok World mai 2026, non couvert avant)
+🤖 Fable 5 imminente : Axios confirme retour "dans les jours" — meilleur modèle coding bientôt disponible
+🧠 Obsidian CLI officielle + Claude Code : auto-organise 5 ans de notes sans supervision
+🛒 CRO 2026 : conversion Shopify médiane 1.4%, top 10% = 4.7% — où se situent TT et PURESOLE ?
+🔌 Claudian @mention MCP servers depuis Obsidian : Shopify/GitHub MCP accessibles dans tes notes
