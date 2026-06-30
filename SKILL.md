@@ -334,7 +334,7 @@ sur mobile (pas besoin d'attendre que Obsidian Git plugin sync).
 └── SKILL.md                  ← ce fichier
 
 # Local (clone du repo)
-~/Documents/_workspace/obsidian-vault/Veille/auto/
+~/Code/_workspace/ivan-veille/
 ├── YYYY-MM-DD-veille.md      ← un par run
 ├── seen-urls.txt             ← anti-doublons append-only
 └── README.md                 ← descriptif repo
