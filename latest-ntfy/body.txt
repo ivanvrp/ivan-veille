@@ -1,20 +1,23 @@
-🔥 MUST-WATCH (3 cette semaine)
+🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ Matthew Berman — How an amateur learned to loop
-💡 Patterns concrets pour looper Claude Code : planning, vérification, chaîner des agents
-⚡ Regarder + tester le skill shopify-product-loop proposé
+1️⃣ 🤖 Claude Sonnet 5 — default Claude Code, 1M ctx, $2/Mtok
+📌 Default Free+Pro depuis le 30/06. 1M tokens natif. Promo API $2/$10/Mtok jusqu'au 31 août.
+💡 Toutes tes routines passent à Sonnet 5 auto — fenêtre promo API à exploiter en volume
+⚡ claude update → /model pour confirmer
 ━━━━━━━━━━━━━━━
-2️⃣ Loop Library de Berman — EVERY Loop (Copy & Paste!)
-💡 26 loops prêts à l'emploi sur forwardfuture.com — copier-coller, zéro config
-⚡ Tester loop weekly analytics Shopify cette semaine
+2️⃣ 🛒 Shopify API 2026-07 — Collections variant-level + Channel Markets
+📌 Collections au niveau variant (plus seulement produit). Channel Markets : prix/dispo par canal.
+💡 Collections "coloris blanc only" possibles pour veravie/TT. Base multi-canal (FR/UK/CA).
+⚡ Note migration ruleSet → planifier avant fin 2027
 ━━━━━━━━━━━━━━━
-3️⃣ Claude Tag — Claude dans Slack comme coéquipier (23 juin)
-💡 Claude vit dans les canaux Slack, mémorise contexte, travaille en arrière-plan
-⚡ À surveiller pour scale TempleTwins (Team plan requis)
+3️⃣ 📊 TikTok GMV Max = campagne par défaut (migration terminée)
+📌 Spillover Reporting + Cost Metrics (affiliés+coupons). LIVE commerce : +20% GMV incrémental.
+💡 Structure à maîtriser avant d'ouvrir TikTok Ads Manager pour veravie/TT
+⚡ Lire guide Ecomdy GMV Max 2026 en 15min
 ━━━━━━━━━━━━━━━
-🚀 SKILLS PROPOSÉS : 2
-- shopify-product-loop : looper génération descriptions Shopify par batch
-- loop-library-shopify : adapter les 26 loops Berman au contexte e-com
-━━━━━━━━━━━━━━━
-💡 Insight cross-vidéos :
-Claude passe du mode "réponse ponctuelle" au mode "agent permanent" — loops + mémoire MCP + Claude Tag convergent. Boucler les tâches répétitives maintenant, avant que ça soit la norme.
+📚 Autres axes (1 ligne) :
+📊 Brandsearch 500+ créas Meta : pain-point = 71% gagnants 30j+ ; hooks question = 8% — à éviter
+🤖 Fable 5 redéployé global — 50% usage hebdo Pro jusqu'au 7 juillet (fenêtre cette semaine !)
+🧠 Obsidian + NLM : vault long terme + NLM synthèse projet — workflow validé 2026
+🛒 App Home 7 nouveaux Settings Intents (API 2026-07) pour navigation merchant
+🔌 MCP RC validation window active — SDK Tier 1 support attendu avant fin septembre
