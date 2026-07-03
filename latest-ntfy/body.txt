@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Sonnet 5 — default Claude Code, 1M ctx, $2/Mtok
-📌 Default Free+Pro depuis le 30/06. 1M tokens natif. Promo API $2/$10/Mtok jusqu'au 31 août.
-💡 Toutes tes routines passent à Sonnet 5 auto — fenêtre promo API à exploiter en volume
-⚡ claude update → /model pour confirmer
+1️⃣ 🛒 Shopify checkout : deadline 26 août
+📌 Le 26 août, Shopify supprime tous les Additional Scripts — Google Ads + Meta Pixel cessent de remonter les conversions. La boutique tourne mais le ROAS s'effondre.
+💡 Vérifier tracking avant que les campagnes s'optimisent à l'aveugle (TT, veravie, PURESOLE)
+⚡ Admin → Paramètres → Caisse → si éditeur de code visible → installer apps officielles Google & Meta
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify API 2026-07 — Collections variant-level + Channel Markets
-📌 Collections au niveau variant (plus seulement produit). Channel Markets : prix/dispo par canal.
-💡 Collections "coloris blanc only" possibles pour veravie/TT. Base multi-canal (FR/UK/CA).
-⚡ Note migration ruleSet → planifier avant fin 2027
+2️⃣ 🛒 Shopify Horizon : thème Pitch pour streetwear
+📌 Shopify Summer '26 : 10 thèmes gratuits dont Pitch (typo XXL, haute-contraste, conçu streetwear). Nested blocks 8 niveaux, Shopify Magic génère des blocs en langage naturel.
+💡 Pitch = TempleTwins natif — remplace PageFly + Boost Commerce
+⚡ Online Store → Add Theme → Horizon → choisir Pitch → tester en preview non-publié
 ━━━━━━━━━━━━━━━
-3️⃣ 📊 TikTok GMV Max = campagne par défaut (migration terminée)
-📌 Spillover Reporting + Cost Metrics (affiliés+coupons). LIVE commerce : +20% GMV incrémental.
-💡 Structure à maîtriser avant d'ouvrir TikTok Ads Manager pour veravie/TT
-⚡ Lire guide Ecomdy GMV Max 2026 en 15min
+3️⃣ 🔌 Meta Ads MCP officiel (29 outils, gratuit bêta)
+📌 Meta publie un MCP officiel : gérer campagnes FB/IG depuis Claude — pause ad sets, ajuste budgets, diagnostics Pixel, tout en langage naturel. Setup 5-7 min.
+💡 Croise tes données Shopify + Meta depuis Claude sans ouvrir Ads Manager
+⚡ claude mcp add --transport sse https://mcp.facebook.com/ads → tester "top 5 ad sets by ROAS"
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Brandsearch 500+ créas Meta : pain-point = 71% gagnants 30j+ ; hooks question = 8% — à éviter
-🤖 Fable 5 redéployé global — 50% usage hebdo Pro jusqu'au 7 juillet (fenêtre cette semaine !)
-🧠 Obsidian + NLM : vault long terme + NLM synthèse projet — workflow validé 2026
-🛒 App Home 7 nouveaux Settings Intents (API 2026-07) pour navigation merchant
-🔌 MCP RC validation window active — SDK Tier 1 support attendu avant fin septembre
+📊 Andromeda algo Meta score les text overlays vidéo — hooks identité > hooks question (8% survie)
+🤖 Claude Code agents background : auto-commit/push/PR sans intervention (< 48h)
+🧠 NotebookLM 2.0 Gemini 3.5 + cloud computer + recherche agentique (non couvert avant)
+🛒 AI Collection Sort natif Shopify remplace Boost Commerce — à tester sur best-sellers
+🔌 shopify-mcp communautaire (31 outils Admin API, gratuit) + Shipmail MCP SAV agents
