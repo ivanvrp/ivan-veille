@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🛒 Shopify checkout : deadline 26 août
-📌 Le 26 août, Shopify supprime tous les Additional Scripts — Google Ads + Meta Pixel cessent de remonter les conversions. La boutique tourne mais le ROAS s'effondre.
-💡 Vérifier tracking avant que les campagnes s'optimisent à l'aveugle (TT, veravie, PURESOLE)
-⚡ Admin → Paramètres → Caisse → si éditeur de code visible → installer apps officielles Google & Meta
+1️⃣ 🛒 Shopify New Collections API 2026-07
+📌 Toutes les collections unifiées (fini smart vs custom). Functions = membership par variant.
+💡 TT + PURESOLE : restructurer collections par capsule/thème sans contrainte technique.
+⚡ Admin Shopify → Collections → auditer + lire doc 2026-07 preview (15min)
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify Horizon : thème Pitch pour streetwear
-📌 Shopify Summer '26 : 10 thèmes gratuits dont Pitch (typo XXL, haute-contraste, conçu streetwear). Nested blocks 8 niveaux, Shopify Magic génère des blocs en langage naturel.
-💡 Pitch = TempleTwins natif — remplace PageFly + Boost Commerce
-⚡ Online Store → Add Theme → Horizon → choisir Pitch → tester en preview non-publié
+2️⃣ 📊 TikTok GMV Max Migration — Docs officiels
+📌 TikTok migre auto toutes campagnes Shop vers GMV Max (fini CPC/CPM manuels, IA pilote).
+💡 PURESOLE TikTok Shop = migration forcée à venir. Comprendre avant = avantage concurrentiel.
+⚡ TikTok Ads Manager → Campaigns → vérifier alerte migration GMV Max
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 Meta Ads MCP officiel (29 outils, gratuit bêta)
-📌 Meta publie un MCP officiel : gérer campagnes FB/IG depuis Claude — pause ad sets, ajuste budgets, diagnostics Pixel, tout en langage naturel. Setup 5-7 min.
-💡 Croise tes données Shopify + Meta depuis Claude sans ouvrir Ads Manager
-⚡ claude mcp add --transport sse https://mcp.facebook.com/ads → tester "top 5 ad sets by ROAS"
+3️⃣ 🤖 Claude Science Workbench Beta — Grant $30K
+📌 60+ skills pré-câblés sur Opus 4.8. 50 projets éligibles, jusqu'à $30K crédits API.
+💡 Pattern multi-agent à reproduire pour veille + analyse produit e-com. Deadline dans 10j.
+⚡ anthropic.com/news/claude-science → Apply for grants avant le 15 juillet
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Andromeda algo Meta score les text overlays vidéo — hooks identité > hooks question (8% survie)
-🤖 Claude Code agents background : auto-commit/push/PR sans intervention (< 48h)
-🧠 NotebookLM 2.0 Gemini 3.5 + cloud computer + recherche agentique (non couvert avant)
-🛒 AI Collection Sort natif Shopify remplace Boost Commerce — à tester sur best-sellers
-🔌 shopify-mcp communautaire (31 outils Admin API, gratuit) + Shipmail MCP SAV agents
+📊 TikTok E-com Playbook 2026 officiel : créas + budgets DTC TikTok Shop (PDF TikTok Biz)
+🤖 Claude Code v2.1.198-201 : subagents background + auto draft PR + Chrome GA
+🧠 NotebookLM → Obsidian Sync Skill : import research auto en wikilinks (MCPMarket)
+🛒 Shop User Metafields au checkout : loyalty + upsell ciblé pour PURESOLE (Functions)
+🔌 SEOcrawl AI MCP : audit SEO complet dans Claude agent (ajouté awesome-mcp juillet 4)
