@@ -1,1 +1,3 @@
-ntfy: BLOCKED — host not in allowlist (2x KO)
+NTFY_STATUS: BLOCKED — proxy policy denial ntfy.sh:443 (403 CONNECT), 2026-07-06
+BODY_SIZE: 1304
+NTFY_HTTP: 000

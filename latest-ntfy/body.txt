@@ -1,23 +1,22 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH (top 3)
 ━━━━━━━━━━━━━━━
-1️⃣ 🛒 Shopify checkout : deadline 26 août
-📌 Le 26 août, Shopify supprime tous les Additional Scripts — Google Ads + Meta Pixel cessent de remonter les conversions. La boutique tourne mais le ROAS s'effondre.
-💡 Vérifier tracking avant que les campagnes s'optimisent à l'aveugle (TT, veravie, PURESOLE)
-⚡ Admin → Paramètres → Caisse → si éditeur de code visible → installer apps officielles Google & Meta
+1️⃣ What Claude Code Can Do You Haven't Tried — NDC AI 2026
+💡 40 astuces avancées : audit claude.md, dumb-zone 40%, ultrathink, piping CLI
+⚡ Regarder en priorité — 9/10 pour Ivan
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify Horizon : thème Pitch pour streetwear
-📌 Shopify Summer '26 : 10 thèmes gratuits dont Pitch (typo XXL, haute-contraste, conçu streetwear). Nested blocks 8 niveaux, Shopify Magic génère des blocs en langage naturel.
-💡 Pitch = TempleTwins natif — remplace PageFly + Boost Commerce
-⚡ Online Store → Add Theme → Horizon → choisir Pitch → tester en preview non-publié
+2️⃣ Claude Code Just Killed Every Shopify Agency Ever
+💡 Build Shopify complet : HTML-first → Liquid, CLI Partner, skills images
+⚡ Direct TempleTwins/PURESOLE — workflow prototypage sans agence
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 Meta Ads MCP officiel (29 outils, gratuit bêta)
-📌 Meta publie un MCP officiel : gérer campagnes FB/IG depuis Claude — pause ad sets, ajuste budgets, diagnostics Pixel, tout en langage naturel. Setup 5-7 min.
-💡 Croise tes données Shopify + Meta depuis Claude sans ouvrir Ads Manager
-⚡ claude mcp add --transport sse https://mcp.facebook.com/ads → tester "top 5 ad sets by ROAS"
+3️⃣ This MCP Builds Entire Branded Websites in Claude Code
+💡 Higgsfield MCP : images produit + vidéos UGC + kits marque depuis brief
+⚡ Tester sur PURESOLE : assets dropship sans shooting photo
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 Andromeda algo Meta score les text overlays vidéo — hooks identité > hooks question (8% survie)
-🤖 Claude Code agents background : auto-commit/push/PR sans intervention (< 48h)
-🧠 NotebookLM 2.0 Gemini 3.5 + cloud computer + recherche agentique (non couvert avant)
-🛒 AI Collection Sort natif Shopify remplace Boost Commerce — à tester sur best-sellers
-🔌 shopify-mcp communautaire (31 outils Admin API, gratuit) + Shipmail MCP SAV agents
+🚀 SKILLS PROPOSÉS : 4
+• shopify-seo-product-description (descriptions SEO Shopify)
+• shopify-ui-prototyper (HTML avant Liquid)
+• ecommerce-asset-generator (Higgsfield MCP assets)
+• configure-sub-agent (agents spécialisés par projet)
+━━━━━━━━━━━━━━━
+💡 Insight cross-vidéos :
+Background subagents GA (v2.1.198) + toutes les vidéos convergent vers orchestration parallèle — lancer batch produits en background, continuer à gérer la boutique.
