@@ -1,22 +1,23 @@
-🔥 MUST-WATCH (top 3)
+🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ What Claude Code Can Do You Haven't Tried — NDC AI 2026
-💡 40 astuces avancées : audit claude.md, dumb-zone 40%, ultrathink, piping CLI
-⚡ Regarder en priorité — 9/10 pour Ivan
+1️⃣ 🤖 Claude Cowork sur mobile et web
+📌 Anthropic étend les agents background aux apps iOS/Android et web. Sessions persistantes après fermeture d'app, fichiers synchronisés cross-device. Plan Max en priorité.
+💡 Agents veille-360 et automation PURESOLE démarrables depuis le mobile — résultats asynchrones sans terminal ouvert.
+⚡ App Claude mobile → onglet Cowork → démarrer un agent ("résume commandes PURESOLE semaine") → fermer l'app et revenir plus tard
 ━━━━━━━━━━━━━━━
-2️⃣ Claude Code Just Killed Every Shopify Agency Ever
-💡 Build Shopify complet : HTML-first → Liquid, CLI Partner, skills images
-⚡ Direct TempleTwins/PURESOLE — workflow prototypage sans agence
+2️⃣ 🛒 Shopify AI Toolkit — 4 MCPs officiels Shopify
+📌 Shopify publie 4 serveurs MCP natifs (Storefront, Customer Account, Checkout, Dev). Contrôle prix, inventaire, thèmes en langage naturel depuis Claude Code.
+💡 "Baisse le prix de la collection Summer 2024 de 30%" sur PURESOLE depuis Claude, sans toucher l'admin Shopify.
+⚡ claude mcp add --from shopify dev + token Partner Dashboard → tester "top 5 best-sellers PURESOLE ce mois"
 ━━━━━━━━━━━━━━━
-3️⃣ This MCP Builds Entire Branded Websites in Claude Code
-💡 Higgsfield MCP : images produit + vidéos UGC + kits marque depuis brief
-⚡ Tester sur PURESOLE : assets dropship sans shooting photo
+3️⃣ 🤖 Claude Code v2.1.205 — anti-falsification + /doctor
+📌 Règle de sécurité contre injection transcript via contenu web, -400 MB RAM auto-updater, /doctor = diagnostic complet MCPs/hooks/session.
+💡 Protection directe des sessions veille-360 contre injections via pages fetchées. /doctor debug en 1 commande.
+⚡ claude update → lancer /doctor pour vérifier état MCPs et hooks actifs
 ━━━━━━━━━━━━━━━
-🚀 SKILLS PROPOSÉS : 4
-• shopify-seo-product-description (descriptions SEO Shopify)
-• shopify-ui-prototyper (HTML avant Liquid)
-• ecommerce-asset-generator (Higgsfield MCP assets)
-• configure-sub-agent (agents spécialisés par projet)
-━━━━━━━━━━━━━━━
-💡 Insight cross-vidéos :
-Background subagents GA (v2.1.198) + toutes les vidéos convergent vers orchestration parallèle — lancer batch produits en background, continuer à gérer la boutique.
+📚 Autres axes (1 ligne) :
+📊 TikTok creative shelf life 7-10j max → produire 20+ variantes/cycle, format 15-25s optimal
+🤖 MS365 connecteur Claude gagne écriture email+calendrier+OneDrive (juil 2026)
+🧠 MindStudio : guide second brain Claude Code + Obsidian 4 étapes, mise à jour horaire auto
+🛒 Draft Order Deposits Shopify Plus API 2026-07 : acomptes natifs sans app tierce
+🔌 LLM Bus MCP : coordination multi-agents Claude Code + Cursor + Codex sans collision fichiers
