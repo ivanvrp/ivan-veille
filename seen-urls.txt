@@ -1,11 +1,3 @@
-https://www.shopify.com/news/ai-commerce-at-scale
-https://www.adsx.com/blog/shopify-editions-2026-new-features
-https://coalitiontechnologies.com/blog/shopify-editions-spring-26
-https://www.ngram.com/blog/ai-video-disclosure-law-2026
-https://billo.app/blog/ugc-ai-compliance/
-https://humanadsai.com/blog/ftc-ai-generated-content-disclosure
-https://aws.amazon.com/about-aws/whats-new/2026/06/aws-mcp-server/
-https://aws.amazon.com/blogs/aws/the-aws-mcp-server-is-now-generally-available/
 https://www.stackmatix.com/blog/tiktok-ads-for-ecommerce-2026
 https://fluxnote.io/guides/higgsfield-ai-review
 https://github.com/iansinnott/obsidian-claude-code-mcp
@@ -198,3 +190,11 @@ https://thetechportal.com/2026/07/01/x-launches-hosted-mcp-server-to-offer-easie
 https://www.macrumors.com/2026/07/09/anthropic-reflect-claude-tracking/
 https://www.nbcnews.com/tech/tech-news/anthropic-will-make-claude-cowork-available-users-cloud-rcna353218
 https://etvbharat.com/en/technology/anthropic-launches-reflect-a-dashboard-that-shows-how-much-you-use-claude-enn26071101450
+https://github.com/YishenTu/claudian/releases/tag/v2.0.33
+https://shopify.dev/docs/agents
+https://brandmov.com/blog/best-dtc-meta-ad-hooks-2026/
+https://www.adamigo.ai/blog/meta-ads-roas-benchmarks-by-industry-2026
+https://www.digitalapplied.com/blog/anthropic-fable-5-access-extended-july-12-2026
+https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-video-overviews-studio-upgrades/
+https://shopify.dev/changelog/eu-import-customs-duty-2026-07
+https://claude.com/docs/cowork/changelog
