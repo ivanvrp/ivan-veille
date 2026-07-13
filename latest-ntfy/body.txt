@@ -1,23 +1,19 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH (3 cette semaine)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Reflect — dashboard habitudes IA en beta
-📌 Lancé le 9 juil. : topics les plus traités, pic d'activité, volume chats 1-12 mois. Mémoire requise.
-💡 Identifier les workflows répétitifs à automatiser (TT/PURESOLE)
-⚡ Settings > Reflect sur claude.ai → activer mémoire → analyser topics
+1️⃣ Claude Skills Tutorial: Build, Run & Share
+💡 Création assistée, cross-plateforme Chat/Cowork/Code, partage Org Skills Teams
+⚡ Créer /gen-fiche-produit-shopify ce weekend
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta supprime opt-out off-platform — CAPI boost juillet
-📌 Rollout US/UK actif. Pixels/CAPI matchent plus de conversions → Andromeda bidd mieux. Événements alimentent aussi feed + Meta AI.
-💡 TT/PURESOLE : CAPI <80% match rate = perdre face aux concurrents
-⚡ Events Manager → vérifier match rate purchase → app Shopify CAPI si <80%
+2️⃣ The NEW Way to Generate Leads (Claude Code)
+💡 Goal Mode, Agentic Cron Jobs daily, Open-Source Stack (Browser Use + Gemma 4)
+⚡ Tester Goal Mode pour sourcer 20 micro-influenceurs streetwear
 ━━━━━━━━━━━━━━━
-3️⃣ 📊 TikTok Shop GMV Max obligatoire — migrer les campagnes Sales
-📌 Video/Product/LIVE Shopping Ads plus créables. Succès = volume créatives fraîches + product feed propre.
-💡 PURESOLE TikTok Shop : campagnes Sales → read-only sans migration
-⚡ TikTok Ads Manager → créer campagne GMV Max → copier creatives existantes
+3️⃣ Build & Deploy Claude Skills + MCP Servers 2026
+💡 Architecture complète Skills+MCP, pattern: 1 MCP/système + Skills pour orchestrer
+⚡ À regarder avant de builder le MCP Shopify
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 Andromeda : hook-problem-solution-proof 3s = +20-35% ROAS (Naniza)
-🤖 Claude Code Sonnet 5 promo $2/Mtok → profiter avant le 31/08
-🧠 Inbox Obsidian → Claude Code → notes auto structurées en <5min
-🛒 Shopify Partners : vérif identité Stripe obligatoire imminente — compléter maintenant
-🔌 X MCP server hébergé : posts/tendances X dans Claude, zéro infra
+🚀 SKILLS PROPOSÉS : 3
+/gen-fiche-produit-shopify · /resum-fournisseur-dropship · /influencer-matchmaking-ecom
+━━━━━━━━━━━━━━━
+💡 Insight cross-vidéos :
+Les Skills s'imposent comme couche d'orchestration des MCPs — donner un objectif à Claude Code, laisser les agents paralléliser.NTFY_STATUS: BLOCKED_BY_PROXY (403 CONNECT ntfy.sh:443)
