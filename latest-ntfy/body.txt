@@ -1,23 +1,22 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Reflect — dashboard habitudes IA en beta
-📌 Lancé le 9 juil. : topics les plus traités, pic d'activité, volume chats 1-12 mois. Mémoire requise.
-💡 Identifier les workflows répétitifs à automatiser (TT/PURESOLE)
-⚡ Settings > Reflect sur claude.ai → activer mémoire → analyser topics
+1️⃣ 🧠 Claudian v2.0.33 — Claude Code dans Obsidian
+📌 Plugin Obsidian intégrant Claude Code directement : édition inline diff, Plan Mode, @fichiers vault, MCP stdio/SSE, 13.9k⭐ release aujourd'hui
+💡 Gérer KB produits TT/PURESOLE sans quitter le vault, chainable Shopify MCP
+⚡ Community Plugins → "Claudian" → installer → @fiche-produit → "enrichis avec 3 USP"
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta supprime opt-out off-platform — CAPI boost juillet
-📌 Rollout US/UK actif. Pixels/CAPI matchent plus de conversions → Andromeda bidd mieux. Événements alimentent aussi feed + Meta AI.
-💡 TT/PURESOLE : CAPI <80% match rate = perdre face aux concurrents
-⚡ Events Manager → vérifier match rate purchase → app Shopify CAPI si <80%
+2️⃣ 🛒 Shopify UCP actif — boutiques visibles dans Google AI Mode
+📌 Universal Commerce Protocol actif sur tous les stores : produits lus par Google AI Mode, Gemini, ChatGPT sans configuration
+💡 TT/PURESOLE déjà indexés par les agents AI — optimiser les titres produit avant les concurrents
+⚡ Reformuler 3 titres produit top : [Adjectif]+[Produit]+[Bénéfice] lisible par agent IA
 ━━━━━━━━━━━━━━━
-3️⃣ 📊 TikTok Shop GMV Max obligatoire — migrer les campagnes Sales
-📌 Video/Product/LIVE Shopping Ads plus créables. Succès = volume créatives fraîches + product feed propre.
-💡 PURESOLE TikTok Shop : campagnes Sales → read-only sans migration
-⚡ TikTok Ads Manager → créer campagne GMV Max → copier creatives existantes
+3️⃣ 📊 9 hooks Meta DTC gagnants 2026 (4 994 ads analysées)
+📌 Hook rate <25% = créatif mort. Streetwear : POV try-on OOTD. Dropship : outcome-first 3 panels
+💡 KPI mesurable dans Ads Manager — applicable TT (OOTD) et PURESOLE (DR)
+⚡ Ads Manager → Taux lecture 3s → pauserc pubs <25% → scripter 3 hooks via Claude
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Andromeda : hook-problem-solution-proof 3s = +20-35% ROAS (Naniza)
-🤖 Claude Code Sonnet 5 promo $2/Mtok → profiter avant le 31/08
-🧠 Inbox Obsidian → Claude Code → notes auto structurées en <5min
-🛒 Shopify Partners : vérif identité Stripe obligatoire imminente — compléter maintenant
-🔌 X MCP server hébergé : posts/tendances X dans Claude, zéro infra
+📊 Meta Advantage+ ROAS 4.52x vs 3.70x manuel (+22%) — calibrer budget ASC 60-70%
+🤖 Fable 5 access étendu jusqu'au 19/07 — fenêtre 6j sans surcoût sur plans payants
+🛒 EU customs duty €3 actif 1er juil — vérifier config Taxes & Duties PURESOLE urgent
+🔌 mcp-seo-audit ajouté awesome-mcp-servers + Claude Code browser intégré (juil 2026)
