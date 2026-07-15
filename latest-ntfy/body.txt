@@ -1,22 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🧠 Claudian v2.0.33 — Claude Code dans Obsidian
-📌 Plugin Obsidian intégrant Claude Code directement : édition inline diff, Plan Mode, @fichiers vault, MCP stdio/SSE, 13.9k⭐ release aujourd'hui
-💡 Gérer KB produits TT/PURESOLE sans quitter le vault, chainable Shopify MCP
-⚡ Community Plugins → "Claudian" → installer → @fiche-produit → "enrichis avec 3 USP"
+1️⃣ 🔌 Claude Code — fuite mémoire MCP stdio fixée
+📌 64 MB/serveur accumulé en silence → lags + crashs sessions longues. Fix v2.1.207 hier.
+💡 Runs veille-360 + Shopify MCP directement touchés
+⚡ terminal → `claude update` → `claude doctor`
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify UCP actif — boutiques visibles dans Google AI Mode
-📌 Universal Commerce Protocol actif sur tous les stores : produits lus par Google AI Mode, Gemini, ChatGPT sans configuration
-💡 TT/PURESOLE déjà indexés par les agents AI — optimiser les titres produit avant les concurrents
-⚡ Reformuler 3 titres produit top : [Adjectif]+[Produit]+[Bénéfice] lisible par agent IA
+2️⃣ 🛒 Shopify Market-Driven Shipping — feature preview actif
+📌 Tarifs livraison dynamiques par marché (EU/US/monde) sans app tierce, natif Settings.
+💡 PURESOLE dropship EU+US : tarifs enfin cohérents par marché = CVR checkout up
+⚡ Admin → Shipping & Delivery → Feature Preview → activer
 ━━━━━━━━━━━━━━━
-3️⃣ 📊 9 hooks Meta DTC gagnants 2026 (4 994 ads analysées)
-📌 Hook rate <25% = créatif mort. Streetwear : POV try-on OOTD. Dropship : outcome-first 3 panels
-💡 KPI mesurable dans Ads Manager — applicable TT (OOTD) et PURESOLE (DR)
-⚡ Ads Manager → Taux lecture 3s → pauserc pubs <25% → scripter 3 hooks via Claude
+3️⃣ 📊 Meta CPM spike Prime Day — AUJOURD'HUI 15-16 juillet
+📌 Amazon Prime Day injecte dans l'enchère Meta → CPM apparel +20-30% ces 48h.
+💡 TT + PURESOLE brûlent du budget maintenant sans action ce soir
+⚡ Ads Manager → prospecting × 0.5 budget → reprendre jeudi 17 matin
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta Advantage+ ROAS 4.52x vs 3.70x manuel (+22%) — calibrer budget ASC 60-70%
-🤖 Fable 5 access étendu jusqu'au 19/07 — fenêtre 6j sans surcoût sur plans payants
-🛒 EU customs duty €3 actif 1er juil — vérifier config Taxes & Duties PURESOLE urgent
-🔌 mcp-seo-audit ajouté awesome-mcp-servers + Claude Code browser intégré (juil 2026)
+📊 Meta ASC + 10-20 créas + refresh si freq >3.0 = structure gagnante 2026
+🤖 Cache-read Claude API ne compte plus dans ITPM — pipelines longs débloqués
+🧠 NotebookLM+Obsidian sync réel → 2-3h/sem récupérées (XDA tuto)
+🛒 Shopify Collection Sources API (2026-07) remplace smart collections
+🔌 MCP Spec RC 28 juillet — core stateless + Tasks + MCP Apps
