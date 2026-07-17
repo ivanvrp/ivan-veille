@@ -1,22 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🧠 Claudian v2.0.33 — Claude Code dans Obsidian
-📌 Plugin Obsidian intégrant Claude Code directement : édition inline diff, Plan Mode, @fichiers vault, MCP stdio/SSE, 13.9k⭐ release aujourd'hui
-💡 Gérer KB produits TT/PURESOLE sans quitter le vault, chainable Shopify MCP
-⚡ Community Plugins → "Claudian" → installer → @fiche-produit → "enrichis avec 3 USP"
+1️⃣ 🛒 Shopify New Collections API 2026-07
+📌 Model smart/custom remplacé par "Collection Sources" composables. Apps de merchandising à vérifier — collections vides sans migration.
+💡 Apps collections TT/PURESOLE à auditer avant conflit silencieux
+⚡ Admin → Apps → vérifier outils collections, contacter support si incompatible
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify UCP actif — boutiques visibles dans Google AI Mode
-📌 Universal Commerce Protocol actif sur tous les stores : produits lus par Google AI Mode, Gemini, ChatGPT sans configuration
-💡 TT/PURESOLE déjà indexés par les agents AI — optimiser les titres produit avant les concurrents
-⚡ Reformuler 3 titres produit top : [Adjectif]+[Produit]+[Bénéfice] lisible par agent IA
+2️⃣ 📊 Meta Andromeda — Creative Similarity score live
+📌 Ads Manager déploie le score similarité créa : trop de créatifs identiques = CPM monte. Fatigue réduite à 2-3 semaines.
+💡 TT + PURESOLE : diversifier angles visuels pour éviter pénalité Andromeda
+⚡ Ads Manager → Columns → ajouter "Creative Similarity" → auditer campagnes
 ━━━━━━━━━━━━━━━
-3️⃣ 📊 9 hooks Meta DTC gagnants 2026 (4 994 ads analysées)
-📌 Hook rate <25% = créatif mort. Streetwear : POV try-on OOTD. Dropship : outcome-first 3 panels
-💡 KPI mesurable dans Ads Manager — applicable TT (OOTD) et PURESOLE (DR)
-⚡ Ads Manager → Taux lecture 3s → pauserc pubs <25% → scripter 3 hooks via Claude
+3️⃣ 🤖 Claude for Teachers — Cowork inclus, pattern solo builder
+📌 Anthropic offre accès premium gratuit K-12 US + Cowork + Claude Code. Lancement 14 juillet.
+💡 Pattern "routine autonome quotidienne" → adapter pour briefs PURESOLE H+0
+⚡ Cowork → créer routine "3 fiches produit enrichies chaque soir à 20h"
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta Advantage+ ROAS 4.52x vs 3.70x manuel (+22%) — calibrer budget ASC 60-70%
-🤖 Fable 5 access étendu jusqu'au 19/07 — fenêtre 6j sans surcoût sur plans payants
-🛒 EU customs duty €3 actif 1er juil — vérifier config Taxes & Duties PURESOLE urgent
-🔌 mcp-seo-audit ajouté awesome-mcp-servers + Claude Code browser intégré (juil 2026)
+📊 Meta Juillet : opt-out off-platform supprimé + Advantage+ Catalog upgrade — auditer compte
+🤖 Claude for Government beta : Code scanne 466M lignes en 20h — auto-mode production-ready
+🧠 NotebookLM graphe → export Obsidian via Claude Code — pipeline setup <15min
+🛒 ⚠️ Checkout deadline J-40 : Additional Scripts cessent 26/08 — vérifier TT + PURESOLE
+🔌 Markifact Google Ads MCP : hosted write+approval — analyser Google Ads depuis Claude
