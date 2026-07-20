@@ -1,23 +1,23 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH (2 vidéos · Gemini 9/10 chacune)
 ━━━━━━━━━━━━━━━
-1️⃣ 🔌 MCP 2026-07-28 RC — protocole stateless
-📌 Fin des sessions persistantes dans MCP. N'importe quelle requête peut atteindre n'importe quelle instance. MCP Apps (UIs HTML) + Tasks async + auth OAuth 2.0.
-💡 Tous tes MCP servers Claude Code (Shopify, analytics) devront migrer avant le 28 juillet.
-⚡ Ouvrir blog.modelcontextprotocol.io → lister les 3 MCPs actifs → créer note Obsidian migration.
+1️⃣ Build Website + App IA avec Claude Code (Base44)
+💡 Construire une app full-stack via prompts structurés : portfolio + calorie tracker IA en <30min
+⚡ Tester prompt portfolio pour landing page TempleTwins
 ━━━━━━━━━━━━━━━
-2️⃣ 🤖 Claude Code — /fork background + health check auto-repair
-📌 /fork lance une session autonome background. Health check détecte MCPs inutilisés + coût context. Cap 200 WebSearch/session.
-💡 Audit gratuit installation Claude Code + libère la session principale pour agents longs.
-⚡ Taper `claude doctor` → désinstaller 2-3 MCPs coûteux → mesurer réduction tokens/session.
+2️⃣ J'ai testé 5 Side Hustles Claude AI — Voilà ceux qui rapportent
+💡 YouTube = moteur trafic · Claude réduit prod contenu 15h→2h · 4 prompts verbatim dans l'analyse
+⚡ Utiliser Niche Validator prompt pour valider axe YouTube TempleTwins/PURESOLE
 ━━━━━━━━━━━━━━━
-3️⃣ 🛒 Shopify API 2026-07 — fin du split smart/custom Collections
-📌 Collections désormais composables (sources multiples). ruleSet déprécié. Apps sur API <2026-07 ne voient plus les nouvelles collections.
-💡 Apps merchandising TT/PURESOLE à vérifier si elles supportent l'API 2026-07.
-⚡ Admin Shopify → Apps → vérifier apps de collections → ticket support si API non migrée.
+⚙️ CLAUDE CODE CETTE SEMAINE (v2.1.207→2.1.215)
+/fork = session bg indépendante · /subtask = sous-agent in-session
+Auto mode sans opt-in sur Bedrock/Vertex/Foundry (v2.1.207)
+MCP auto-bg après 2min · Cap 200 subagents/session
+⚠️ v2.1.215 : /verify et /code-review ne s'auto-lancent plus
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 Meta ASC 4.5x ROAS vs 3.7x manuel — 60+ créatifs/mois = 2.8x ROAS (Skale Strategy 2026)
-🤖 Claude for Teachers lancé 14/07 + M365 connector écriture activée + Opus 4.1 retire 5/08
-🧠 obsidian-second-brain v0.12 — 44 cmds, stress test 32 agents, install marketplace Claude Code
-🛒 Shopify self-serve cancellations — acheteurs peuvent annuler commandes (config fenêtre PURESOLE)
-🔌 RAS (MCP déjà couvert en TOP 1)
+🚀 SKILLS PROPOSÉS : 3
+→ niche-multi-monetisation (Niche Validator + monétisation en couches)
+→ youtube-autorite-pipeline (30 titres authority + 5 scripts 12min)
+→ ecommerce-page-prototyper (brief → prompt ready-to-paste pour dev IA)
+━━━━━━━━━━━━━━━
+💡 Insight cross-vidéos :
+Le solo founder 2026 ne code plus et ne cherche plus le viral — il prompte des apps et construit une audience YouTube "quiet monopoly" à haute valeur par spectateur.

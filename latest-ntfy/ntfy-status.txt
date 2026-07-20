@@ -1,3 +1,2 @@
-NTFY_STATUS: BLOCKED — proxy policy denial ntfy.sh:443 (403 CONNECT), 2026-07-06
-BODY_SIZE: 1304
-NTFY_HTTP: 000
+NTFY_BLOCKED_403: ntfy.sh refusé par egress proxy session. Fallback: body sauvegardé dans latest-ntfy/body.txt
+2026-07-20
