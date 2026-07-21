@@ -1,9 +1,3 @@
-https://claude.com/blog/artifacts-in-claude-code
-https://www.anthropic.com/news/claude-fable-5-mythos-5
-https://code.claude.com/docs/en/whats-new/2026-w24
-https://tessl.io/blog/anthropic-adds-routines-to-claude-code-for-scheduled-agent-tasks/
-https://www.techtimes.com/articles/318691/20260619/claude-code-artifacts-turns-ai-coding-sessions-live-shareable-browser-pages.htm
-https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises
 https://github.com/modelcontextprotocol/servers/pull/3323
 https://claude.com/code-with-claude/tokyo
 https://claude.com/blog/workload-identity-federation
@@ -198,3 +192,9 @@ https://www.shopify-customize.com/blog/shopify-updates-you-need-to-know-july-202
 https://brandmov.com/blog/best-dtc-meta-ad-hooks-2026/
 https://www.adamigo.ai/blog/meta-ads-roas-benchmarks-by-industry-2026
 https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-video-overviews-studio-upgrades/
+https://changelog.shopify.com/posts/collections-now-support-multi-source-and-variants
+https://shopify.dev/changelog/shopify-flow-changes-to-action-extensions-result-in-fewer-breaking-changes
+https://shopify.dev/changelog/pos-extensions-now-supports-a-background-extension-target
+https://blog.modelcontextprotocol.io/posts/sdk-betas-2026-07-28/
+https://eva.guru/blog/promoting-tiktok-shop-products-with-tiktok-spark-ads/
+https://www.creativemilkshake.com/blog/tiktok-ad-strategy

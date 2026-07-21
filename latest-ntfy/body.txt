@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🔌 MCP 2026-07-28 RC — protocole stateless
-📌 Fin des sessions persistantes dans MCP. N'importe quelle requête peut atteindre n'importe quelle instance. MCP Apps (UIs HTML) + Tasks async + auth OAuth 2.0.
-💡 Tous tes MCP servers Claude Code (Shopify, analytics) devront migrer avant le 28 juillet.
-⚡ Ouvrir blog.modelcontextprotocol.io → lister les 3 MCPs actifs → créer note Obsidian migration.
+1️⃣ 🔌 MCP spec 2026-07-28 — stateless + Apps + Tasks
+📌 Plus grand changement MCP depuis le lancement. Sessions supprimées, architecture stateless, extensions MCP Apps (UI HTML) et Tasks. Betas TS/Python disponibles. Spec finale dans 7 jours.
+💡 Vérifier si les MCPs installés dans Claude Code risquent de casser le 28/07.
+⚡ Ouvrir blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/ → lire "Breaking changes" → noter les MCPs à mettre à jour.
 ━━━━━━━━━━━━━━━
-2️⃣ 🤖 Claude Code — /fork background + health check auto-repair
-📌 /fork lance une session autonome background. Health check détecte MCPs inutilisés + coût context. Cap 200 WebSearch/session.
-💡 Audit gratuit installation Claude Code + libère la session principale pour agents longs.
-⚡ Taper `claude doctor` → désinstaller 2-3 MCPs coûteux → mesurer réduction tokens/session.
+2️⃣ 🛒 Shopify Collections multi-source + variants (16 juil.)
+📌 Collections buildées depuis plusieurs sources, variants spécifiques ciblables, réutilisation d'autres collections. Officiel Shopify changelog.
+💡 PURESOLE : collection "Best-sellers taille M" cross-produits sans règles manuelles.
+⚡ Admin Shopify → Collections → Créer → explorer multi-source sur PURESOLE ou TT.
 ━━━━━━━━━━━━━━━
-3️⃣ 🛒 Shopify API 2026-07 — fin du split smart/custom Collections
-📌 Collections désormais composables (sources multiples). ruleSet déprécié. Apps sur API <2026-07 ne voient plus les nouvelles collections.
-💡 Apps merchandising TT/PURESOLE à vérifier si elles supportent l'API 2026-07.
-⚡ Admin Shopify → Apps → vérifier apps de collections → ticket support si API non migrée.
+3️⃣ 🤖 Claude Code v2.1.211 — subagent insights forwarding (15 juil.)
+📌 Les sous-agents remontent leurs insights structurés au workflow parent. + EndConversation tool + progress heartbeats pour tâches longues.
+💡 Workflows veille-360 ou fiches produit PURESOLE : résultats remontent proprement.
+⚡ claude update → /workflows → tester forwarding sur prochain run.
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta ASC 4.5x ROAS vs 3.7x manuel — 60+ créatifs/mois = 2.8x ROAS (Skale Strategy 2026)
-🤖 Claude for Teachers lancé 14/07 + M365 connector écriture activée + Opus 4.1 retire 5/08
-🧠 obsidian-second-brain v0.12 — 44 cmds, stress test 32 agents, install marketplace Claude Code
-🛒 Shopify self-serve cancellations — acheteurs peuvent annuler commandes (config fenêtre PURESOLE)
-🔌 RAS (MCP déjà couvert en TOP 1)
+📊 TikTok Spark Ads : +142% engagement vs In-Feed — combo avec GMV Max pour PURESOLE TikTok Shop.
+🤖 Claude Reflect (9 juil.) : dashboard analytics usage IA, beta gratuite si Memory activée.
+🧠 obsidian-second-brain v0.14 "Harvest" : 45 cmds, agents planifiés, /obsidian-ingest URLs/PDFs.
+🛒 Shopify Flow : Action extensions moins de breaking changes lors des MAJ apps (7 juil.).
+🔌 MCP filesystem : patch sécu CVE-2026-48526 pyjwt — mettre à jour si installé.
