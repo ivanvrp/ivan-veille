@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🔌 MCP 2026-07-28 RC — protocole stateless
-📌 Fin des sessions persistantes dans MCP. N'importe quelle requête peut atteindre n'importe quelle instance. MCP Apps (UIs HTML) + Tasks async + auth OAuth 2.0.
-💡 Tous tes MCP servers Claude Code (Shopify, analytics) devront migrer avant le 28 juillet.
-⚡ Ouvrir blog.modelcontextprotocol.io → lister les 3 MCPs actifs → créer note Obsidian migration.
+1️⃣ 🔌 MCP 2026-07-28 stateless — DANS 5 JOURS
+📌 Le protocole supprime sessions + handshake le 28 juillet. Serveurs existants = 12 mois de grâce, SDK Tier 1 doivent migrer sous 10 semaines.
+💡 Si tu utilises Shopify MCP ou Higgsfield MCP → vérifier versions SDK avant fin juillet.
+⚡ Claude Desktop > Settings > MCP Servers > noter les noms/versions, check repo GitHub pour issue migration.
 ━━━━━━━━━━━━━━━
-2️⃣ 🤖 Claude Code — /fork background + health check auto-repair
-📌 /fork lance une session autonome background. Health check détecte MCPs inutilisés + coût context. Cap 200 WebSearch/session.
-💡 Audit gratuit installation Claude Code + libère la session principale pour agents longs.
-⚡ Taper `claude doctor` → désinstaller 2-3 MCPs coûteux → mesurer réduction tokens/session.
+2️⃣ 🤖 Fable 5 permanent sur Max/Team Premium (20 juil.)
+📌 Fable 5 inclus définitivement dans Max à 50% quota hebdo, sans credits. Pro reçoit $100 one-time puis billing API.
+💡 Si abonné Max → accès permanent au modèle le plus puissant pour audits PURESOLE & strat TT.
+⚡ claude.ai > sélecteur modèle > tester Fable 5 sur prochain prompt complexe.
 ━━━━━━━━━━━━━━━
-3️⃣ 🛒 Shopify API 2026-07 — fin du split smart/custom Collections
-📌 Collections désormais composables (sources multiples). ruleSet déprécié. Apps sur API <2026-07 ne voient plus les nouvelles collections.
-💡 Apps merchandising TT/PURESOLE à vérifier si elles supportent l'API 2026-07.
-⚡ Admin Shopify → Apps → vérifier apps de collections → ticket support si API non migrée.
+3️⃣ 🛒 Shopify Managed Markets : prix TTC dès fiche produit
+📌 Prix droits+TVA+conversion inclus dès la page produit pour buyers UE. Shopify couvre la différence douanière.
+💡 PURESOLE dropship cross-border : fin seuil €150 UE le 1er juil. → cette feature réduit l'abandon panier UE.
+⚡ Admin Shopify > Markets > Managed pricing > activer pour markets UE > tester IP UE navprivée.
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta ASC 4.5x ROAS vs 3.7x manuel — 60+ créatifs/mois = 2.8x ROAS (Skale Strategy 2026)
-🤖 Claude for Teachers lancé 14/07 + M365 connector écriture activée + Opus 4.1 retire 5/08
-🧠 obsidian-second-brain v0.12 — 44 cmds, stress test 32 agents, install marketplace Claude Code
-🛒 Shopify self-serve cancellations — acheteurs peuvent annuler commandes (config fenêtre PURESOLE)
-🔌 RAS (MCP déjà couvert en TOP 1)
+📊 TikTok AI+UGC : 3 hooks sur même clip, lancer $20-50 chacun 48h, scaler le gagnant (4x CTR vs studio)
+🤖 Claude Reflect : mémoire par entrée éditable + recap mensuel en beta (Settings > Reflect)
+🧠 NotebookLM → Claude Skill : distiller un notebook en .md installable comme skill permanent
+🛒 USPS +11.8% au 12 juil + EU duty €3/ligne tarifaire → ajuster marges shipping PURESOLE
+🔌 MCP migration guide : _meta par request, erreur -32002 → -32602, deprecation sampling/roots
