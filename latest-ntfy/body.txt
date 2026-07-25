@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🔌 MCP 2026-07-28 stateless — DANS 5 JOURS
-📌 Le protocole supprime sessions + handshake le 28 juillet. Serveurs existants = 12 mois de grâce, SDK Tier 1 doivent migrer sous 10 semaines.
-💡 Si tu utilises Shopify MCP ou Higgsfield MCP → vérifier versions SDK avant fin juillet.
-⚡ Claude Desktop > Settings > MCP Servers > noter les noms/versions, check repo GitHub pour issue migration.
+1️⃣ 🤖 Claude Opus 5 — $5/M tokens, effort toggle
+📌 Lancé hier. Moitié du prix de Fable 5, dépasse sur coding.
+💡 Budget API ÷2 pour veille-360 + agents PURESOLE/TT
+⚡ claude.ai → Settings → basculer sur Opus 5
 ━━━━━━━━━━━━━━━
-2️⃣ 🤖 Fable 5 permanent sur Max/Team Premium (20 juil.)
-📌 Fable 5 inclus définitivement dans Max à 50% quota hebdo, sans credits. Pro reçoit $100 one-time puis billing API.
-💡 Si abonné Max → accès permanent au modèle le plus puissant pour audits PURESOLE & strat TT.
-⚡ claude.ai > sélecteur modèle > tester Fable 5 sur prochain prompt complexe.
+2️⃣ 📊 Meta supprime opt-out off-platform data
+📌 Custom Audiences grossissent automatiquement en juillet 2026.
+💡 Retargeting TT/PURESOLE: + visiteurs touchés, même budget
+⚡ Ads Manager → Audiences → noter taille → revérifier dans 48h
 ━━━━━━━━━━━━━━━
-3️⃣ 🛒 Shopify Managed Markets : prix TTC dès fiche produit
-📌 Prix droits+TVA+conversion inclus dès la page produit pour buyers UE. Shopify couvre la différence douanière.
-💡 PURESOLE dropship cross-border : fin seuil €150 UE le 1er juil. → cette feature réduit l'abandon panier UE.
-⚡ Admin Shopify > Markets > Managed pricing > activer pour markets UE > tester IP UE navprivée.
+3️⃣ 🔌 NotebookLM MCP — Claude parle à tes notebooks
+📌 Setup <10 min. Cross-notebook synthesis depuis Claude.
+💡 Unifie NotebookLM + Obsidian + Claude sans switcher d'app
+⚡ npm install notebooklm-mcp-2026 + config claude_desktop
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 TikTok AI+UGC : 3 hooks sur même clip, lancer $20-50 chacun 48h, scaler le gagnant (4x CTR vs studio)
-🤖 Claude Reflect : mémoire par entrée éditable + recap mensuel en beta (Settings > Reflect)
-🧠 NotebookLM → Claude Skill : distiller un notebook en .md installable comme skill permanent
-🛒 USPS +11.8% au 12 juil + EU duty €3/ligne tarifaire → ajuster marges shipping PURESOLE
-🔌 MCP migration guide : _meta par request, erreur -32002 → -32602, deprecation sampling/roots
+📊 Meta Ads: 3 changements faussent tes rapports juillet 2026
+🤖 Claude Voice Mode: Opus/Sonnet/Haiku, Gmail+Slack, multilingue
+🧠 Second Brain: Claude Code + Obsidian wiki auto-enrichi (mindwiredai)
+🛒 Shopify: vérification partenaires Stripe bientôt obligatoire
+🔌 PulseMCP: 22 311 serveurs MCP au 16 juil. (+60% depuis mai)
