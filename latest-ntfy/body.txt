@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Opus 5 — $5/M tokens, effort toggle
-📌 Lancé hier. Moitié du prix de Fable 5, dépasse sur coding.
-💡 Budget API ÷2 pour veille-360 + agents PURESOLE/TT
-⚡ claude.ai → Settings → basculer sur Opus 5
+1️⃣ 🛒 Shopify Liquid {% block %} & {% partial %} — dev preview
+📌 2 nouveaux tags Liquid : blocs composables + refresh HTML partiel sans JS. Annoncé 21 juil. (shopify.dev officiel)
+💡 Thèmes TT/PURESOLE avec sections dynamiques 100% Liquid, lisibles par Claude Code
+⚡ Créer dev store "Liquid July 26 preview" → tester {% partial %} sur section cart
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta supprime opt-out off-platform data
-📌 Custom Audiences grossissent automatiquement en juillet 2026.
-💡 Retargeting TT/PURESOLE: + visiteurs touchés, même budget
-⚡ Ads Manager → Audiences → noter taille → revérifier dans 48h
+2️⃣ 🔌 GitHub MCP Server stateless — spec 2026-07-28 live dès maintenant
+📌 GitHub MCP officiel bascule stateless (sans session ID, sans initialize). Annoncé 23 juil. (GitHub Changelog officiel)
+💡 Claude Code + GitHub MCP plus rapide et fiable pour projets TT/PURESOLE
+⚡ /config Claude Code → vérifier version GitHub MCP → mettre à jour si ancienne
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 NotebookLM MCP — Claude parle à tes notebooks
-📌 Setup <10 min. Cross-notebook synthesis depuis Claude.
-💡 Unifie NotebookLM + Obsidian + Claude sans switcher d'app
-⚡ npm install notebooklm-mcp-2026 + config claude_desktop
+3️⃣ 📊 Meta EU location fees — ROAS faux depuis le 1er juil.
+📌 UK+2%, FR/IT/ES+3%, AT/TR+5% sur chaque € dépensé — frais sur facture, invisibles dans Ads Manager
+💡 Budget €50k EU = ~€1 330/mois de surcoût caché à corriger avant de scaler TT/PURESOLE
+⚡ Exporter facture Meta juil. → ligne "Location Fees" → calculer ROAS corrigé
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta Ads: 3 changements faussent tes rapports juillet 2026
-🤖 Claude Voice Mode: Opus/Sonnet/Haiku, Gmail+Slack, multilingue
-🧠 Second Brain: Claude Code + Obsidian wiki auto-enrichi (mindwiredai)
-🛒 Shopify: vérification partenaires Stripe bientôt obligatoire
-🔌 PulseMCP: 22 311 serveurs MCP au 16 juil. (+60% depuis mai)
+📊 Meta legacy metrics supprimés — dashboards pré/post juillet non comparables
+🤖 Claude CLI v2.1.220 (26 juil.) + sandbox.strictAllowlist + DirectoryAdded hook
+🧠 NotebookLM → Gemini Notebook : 100+ skills, code exec, exports PDF/PPTX/CSV
+🛒 Shopify POS : activity log nommé + remote logout terminaux (juil. 2026)
+🔌 Gate402 MCP : LLM inference + x402 micropayments Base (25 juil.)
