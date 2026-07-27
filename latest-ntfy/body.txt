@@ -1,23 +1,21 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH (3 sur 5)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Opus 5 — $5/M tokens, effort toggle
-📌 Lancé hier. Moitié du prix de Fable 5, dépasse sur coding.
-💡 Budget API ÷2 pour veille-360 + agents PURESOLE/TT
-⚡ claude.ai → Settings → basculer sur Opus 5
+1️⃣ Claude Skills Just Fixed MCP's Biggest Problem
+💡 Skills = MCP 2.0 : progressive disclosure réduit contexte de 90%
+⚡ Créer skill brand-context TempleTwins → économie tokens massive
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta supprime opt-out off-platform data
-📌 Custom Audiences grossissent automatiquement en juillet 2026.
-💡 Retargeting TT/PURESOLE: + visiteurs touchés, même budget
-⚡ Ads Manager → Audiences → noter taille → revérifier dans 48h
+2️⃣ We Tested Claude Opus 5. Frustrating with Flashes of Brilliance.
+💡 Ne pas migrer Fable → Opus 5 immédiatement. Effort "medium" > "max"
+⚡ Tester 2-3 semaines avant de basculer tes workflows existants
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 NotebookLM MCP — Claude parle à tes notebooks
-📌 Setup <10 min. Cross-notebook synthesis depuis Claude.
-💡 Unifie NotebookLM + Obsidian + Claude sans switcher d'app
-⚡ npm install notebooklm-mcp-2026 + config claude_desktop
+3️⃣ Claude Code Subagents are Absolutely Insane
+💡 10 agents en parallèle : contexte principal passe de 30% à 16%
+⚡ Lancer batch 10 agents Haiku → descriptions PURESOLE en parallèle
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 Meta Ads: 3 changements faussent tes rapports juillet 2026
-🤖 Claude Voice Mode: Opus/Sonnet/Haiku, Gmail+Slack, multilingue
-🧠 Second Brain: Claude Code + Obsidian wiki auto-enrichi (mindwiredai)
-🛒 Shopify: vérification partenaires Stripe bientôt obligatoire
-🔌 PulseMCP: 22 311 serveurs MCP au 16 juil. (+60% depuis mai)
+🚀 SKILLS PROPOSÉS : 3
+- product-description-writer (SEO TempleTwins/PURESOLE par ton de marque)
+- shopify-parallel-audit (N agents thème Shopify : sécurité/perf/SEO)
+- claude-effort-optimizer (low→max selon tâche, économie 40-60%)
+━━━━━━━━━━━━━━━
+💡 Insight cross-vidéos :
+Skills légers + sub-agents concurrents (depth 3) = le workflow solo founder gagnant cette semaine — déléguer intelligemment plutôt que surcharger un seul contexte.
