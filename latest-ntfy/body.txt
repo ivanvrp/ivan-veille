@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Opus 5 — $5/M tokens, effort toggle
-📌 Lancé hier. Moitié du prix de Fable 5, dépasse sur coding.
-💡 Budget API ÷2 pour veille-360 + agents PURESOLE/TT
-⚡ claude.ai → Settings → basculer sur Opus 5
+1️⃣ 🔌 MCP 2026-07-28 stable : protocole stateless
+📌 Handshake init supprimé, serverless natif, OAuth 2.1, Tunnels réseau privé. 400M SDK/mois.
+💡 Agents Claude Code sur serverless — hébergement MCP divisé, outils internes sans IP publique
+⚡ npm update @modelcontextprotocol/sdk → vérifier aucun session init dans tes serveurs
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta supprime opt-out off-platform data
-📌 Custom Audiences grossissent automatiquement en juillet 2026.
-💡 Retargeting TT/PURESOLE: + visiteurs touchés, même budget
-⚡ Ads Manager → Audiences → noter taille → revérifier dans 48h
+2️⃣ 🛒 Shopify × StockX : vends TempleTwins sur le marketplace streetwear premium
+📌 App native Shopify. Sync UPC, orders dans admin, inventory temps réel. Fees 9,5%→8%.
+💡 Accès à 30M+ acheteurs authentifiés sans gérer deux stocks séparément
+⚡ Admin Shopify → Apps → StockX → installer → mapper 3-5 SKUs TT avec leur UPC
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 NotebookLM MCP — Claude parle à tes notebooks
-📌 Setup <10 min. Cross-notebook synthesis depuis Claude.
-💡 Unifie NotebookLM + Obsidian + Claude sans switcher d'app
-⚡ npm install notebooklm-mcp-2026 + config claude_desktop
+3️⃣ 🧠 Gemini Notebook (NotebookLM) : Python dans tes notes — charts, Excel depuis CSV
+📌 "Antigravity" code exec : analyse CSV, génère Excel/charts depuis tes sources. Live AI Ultra.
+💡 Upload export Shopify → graphique ventes par SKU sans passer par Claude manuellement
+⚡ Vérifier plan Google One → si AI Ultra : tester avec un export CSV Shopify
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta Ads: 3 changements faussent tes rapports juillet 2026
-🤖 Claude Voice Mode: Opus/Sonnet/Haiku, Gmail+Slack, multilingue
-🧠 Second Brain: Claude Code + Obsidian wiki auto-enrichi (mindwiredai)
-🛒 Shopify: vérification partenaires Stripe bientôt obligatoire
-🔌 PulseMCP: 22 311 serveurs MCP au 16 juil. (+60% depuis mai)
+📊 AdBeacon benchmarks : hook rate e-com 31%, 5% des créas gagnent — augmenter le volume
+🤖 Claude Code v2.1.219 : subagents depth 3, sandbox réseau strict (25 juil. officiel)
+🧠 Obsilo Agent : 55 outils IA + MCP connectors dans Obsidian, open-source gratuit
+🛒 ⚠️ URGENT : checkout scripts Shopify wipés le 26 août — auditer Additional Scripts NOW
+🔌 Oviond MCP : 60+ sources (Meta Ads + GA4 + Shopify) en reporting Claude (28 juil.)
