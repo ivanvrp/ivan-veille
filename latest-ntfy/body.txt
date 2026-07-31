@@ -1,23 +1,22 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Opus 5 — $5/M tokens, effort toggle
-📌 Lancé hier. Moitié du prix de Fable 5, dépasse sur coding.
-💡 Budget API ÷2 pour veille-360 + agents PURESOLE/TT
-⚡ claude.ai → Settings → basculer sur Opus 5
+1️⃣ 🔌 MCP spec 2026-07-28 : protocole stateless officiel
+📌 Release finale MCP 28 juil : sessions HTTP supprimées, breaking changes — tous serveurs non mis à jour cessent de fonctionner
+💡 Tes MCP Claude Code/Desktop vont migrer — tester compatibilité MAINTENANT
+⚡ claude mcp list → vérifier version @modelcontextprotocol/sdk sur chaque repo
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta supprime opt-out off-platform data
-📌 Custom Audiences grossissent automatiquement en juillet 2026.
-💡 Retargeting TT/PURESOLE: + visiteurs touchés, même budget
-⚡ Ads Manager → Audiences → noter taille → revérifier dans 48h
+2️⃣ 🛒 Shopify Liquid Dev Preview juil 2026 : page structure en .liquid
+📌 Structure page directement dans fichier .liquid sans JSON imbriqué — moins de fichiers à maintenir
+💡 Thèmes TT/PURESOLE plus lisibles, compatible migration Horizon
+⚡ shopify.dev/changelog → activer preview sur store dev → tester 1 section
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 NotebookLM MCP — Claude parle à tes notebooks
-📌 Setup <10 min. Cross-notebook synthesis depuis Claude.
-💡 Unifie NotebookLM + Obsidian + Claude sans switcher d'app
-⚡ npm install notebooklm-mcp-2026 + config claude_desktop
+3️⃣ 📊 Meta Advantage+ Creative : statics → vidéos auto (-40% coûts créa)
+📌 Meta génère des variantes vidéo depuis tes images ASC automatiquement, -40% coûts créa reportés
+💡 Tester sur catalogue TT ou PURESOLE sans passer par Arcads/Higgsfield
+⚡ Ads Manager → Advantage+ Sales → activer Advantage+ Creative → 3-5 images produit
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta Ads: 3 changements faussent tes rapports juillet 2026
-🤖 Claude Voice Mode: Opus/Sonnet/Haiku, Gmail+Slack, multilingue
-🧠 Second Brain: Claude Code + Obsidian wiki auto-enrichi (mindwiredai)
-🛒 Shopify: vérification partenaires Stripe bientôt obligatoire
-🔌 PulseMCP: 22 311 serveurs MCP au 16 juil. (+60% depuis mai)
+🤖 Claude API beta : mid-conversation tool changes sans casser le prompt cache (24 juil)
+🧠 NotebookLM → Gemini Notebook : rebranding officiel, rollout Workspace en cours
+🛒 Shopify GraphQL 2026-10 : filtres metafield invalides → erreur explicite (breaking)
+🔌 Context Firewall MCP : filtrage contexte partagé aux modèles (sécurité agents)
