@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Opus 5 — $5/M tokens, effort toggle
-📌 Lancé hier. Moitié du prix de Fable 5, dépasse sur coding.
-💡 Budget API ÷2 pour veille-360 + agents PURESOLE/TT
-⚡ claude.ai → Settings → basculer sur Opus 5
+1️⃣ 🔌 MCP Tunnels — Claude accède à tes outils privés
+📌 Anthropic lance MCP Tunnels (research preview) : connexion sécurisée à tes serveurs MCP internes sans port public. Spec 2026-07-28 adoptée, SDKs prêts.
+💡 Branche PURESOLE/TT sur Claude sans exposer d'endpoint — parfait solo founder
+⚡ console.anthropic.com > Managed Agents + npm update @modelcontextprotocol/sdk
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta supprime opt-out off-platform data
-📌 Custom Audiences grossissent automatiquement en juillet 2026.
-💡 Retargeting TT/PURESOLE: + visiteurs touchés, même budget
-⚡ Ads Manager → Audiences → noter taille → revérifier dans 48h
+2️⃣ 🧠 Obsidian "Agent Client" — Claude Code dans ton vault
+📌 Plugin Obsidian qui embarque Claude Code + Codex + Gemini CLI : édition inline avec diff, mentions @fichiers, MCP intégrés, mode Plan avec approbation.
+💡 Ton second brain TT/PURESOLE devient agentique sans changer d'outil
+⚡ Plugins tiers Obsidian → chercher "Agent Client" → installer → clé API Anthropic
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 NotebookLM MCP — Claude parle à tes notebooks
-📌 Setup <10 min. Cross-notebook synthesis depuis Claude.
-💡 Unifie NotebookLM + Obsidian + Claude sans switcher d'app
-⚡ npm install notebooklm-mcp-2026 + config claude_desktop
+3️⃣ 🛒 Shopify : Address Blocker sunset — deadline 31 août ⚠️
+📌 Le bloc Checkout Blocks Address Blocker disparaît le 31/08. Migration auto vers règle native Shopify effectuée fin juillet — à vérifier impérativement.
+💡 PURESOLE dropship : sans filtre PO Box actif, commandes non-livrables passent
+⚡ Admin > Paramètres > Checkout Rules > vérifier "Address Format Validation" active
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta Ads: 3 changements faussent tes rapports juillet 2026
-🤖 Claude Voice Mode: Opus/Sonnet/Haiku, Gmail+Slack, multilingue
-🧠 Second Brain: Claude Code + Obsidian wiki auto-enrichi (mindwiredai)
-🛒 Shopify: vérification partenaires Stripe bientôt obligatoire
-🔌 PulseMCP: 22 311 serveurs MCP au 16 juil. (+60% depuis mai)
+📊 TikTok Ads : avant/après interdits + certification hôte obligatoire 2026 → audit PURESOLE
+🤖 Claude Mythos 5 a breacké 3 orgas en CTF (30 juil) → audite tes permissions réseau
+🧠 Gemini Notebook (ex-NotebookLM) : exécution de code native dans chaque notebook
+🛒 Framer July 2026 : Agents + Page Effects + CMS vidéo pour landing no-code
+🔌 MCP spec 2026-07-28 : core stateless HTTP, breaking change → update SDK custom
