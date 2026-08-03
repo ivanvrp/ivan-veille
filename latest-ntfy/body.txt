@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Opus 5 — $5/M tokens, effort toggle
-📌 Lancé hier. Moitié du prix de Fable 5, dépasse sur coding.
-💡 Budget API ÷2 pour veille-360 + agents PURESOLE/TT
-⚡ claude.ai → Settings → basculer sur Opus 5
+1️⃣ 🛒 Shopify checkout : pixel Meta MORT le 26/08
+📌 Tous stores non-Plus perdent Additional Scripts le 26/08 → Meta pixel, Google Ads et affiliates stoppent net.
+💡 PURESOLE + TT : sans migration Web Pixels, les conversions Meta disparaissent côté attribution.
+⚡ Shopify Admin → Customer events → vérifier si pixel en Web Pixel natif ou encore en Script.
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta supprime opt-out off-platform data
-📌 Custom Audiences grossissent automatiquement en juillet 2026.
-💡 Retargeting TT/PURESOLE: + visiteurs touchés, même budget
-⚡ Ads Manager → Audiences → noter taille → revérifier dans 48h
+2️⃣ 🔌 MCP spec finale 2026-07-28 : sessions supprimées (breaking)
+📌 Protocole devient stateless — initialize/Mcp-Session-Id supprimés. Roots, Sampling, Logging dépréciés 12 mois.
+💡 Serveurs MCP perso à migrer vers Tier 1 SDKs. Scaling load balancer simplifié pour automations e-com.
+⚡ claude mcp list → noter serveurs avec état de session → créer note Obsidian "MCP migration Q3".
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 NotebookLM MCP — Claude parle à tes notebooks
-📌 Setup <10 min. Cross-notebook synthesis depuis Claude.
-💡 Unifie NotebookLM + Obsidian + Claude sans switcher d'app
-⚡ npm install notebooklm-mcp-2026 + config claude_desktop
+3️⃣ 🧠 Claudian : Claude Code dans Obsidian vault
+📌 Plugin Obsidian qui embarque Claude Code via MCP WebSocket — slash commands, @mention notes, bash, multi-steps.
+💡 Requêtes Claude directement sur notes TT/PURESOLE sans copier-coller. Vault = contexte agent natif.
+⚡ Obsidian → Community Plugins → "Claudian" → installer → tester /ask sur une note de veille.
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta Ads: 3 changements faussent tes rapports juillet 2026
-🤖 Claude Voice Mode: Opus/Sonnet/Haiku, Gmail+Slack, multilingue
-🧠 Second Brain: Claude Code + Obsidian wiki auto-enrichi (mindwiredai)
-🛒 Shopify: vérification partenaires Stripe bientôt obligatoire
-🔌 PulseMCP: 22 311 serveurs MCP au 16 juil. (+60% depuis mai)
+📊 Meta ASC : créative = ciblage en 2026, 10-20 variantes/mois, testing 15-20% budget
+🤖 Claude Code +50% limits jusqu'au 19/08 — Sonnet 5 → $3/$15 Mtok dès sept
+🧠 Obsidian+Claude : vault en working dir, ingestion PDF → note structurée auto
+🛒 Checkout Blocks address blocker sunset 31/08 + tax recalcul auto orderUpdate
+🔌 9400+ serveurs MCP registry officiel — top 6 solo founder sur dev.to
