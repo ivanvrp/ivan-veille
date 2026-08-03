@@ -1,23 +1,20 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH (3 prioritaires)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Opus 5 — $5/M tokens, effort toggle
-📌 Lancé hier. Moitié du prix de Fable 5, dépasse sur coding.
-💡 Budget API ÷2 pour veille-360 + agents PURESOLE/TT
-⚡ claude.ai → Settings → basculer sur Opus 5
+1️⃣ These 5 Claude Skills Run My Shopify Store
+💡 5 SKILL.md custom : segmentation clients, forecast stocks, agent CRO
+⚡ À regarder en priorité — cas concret TempleTwins/PURESOLE
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta supprime opt-out off-platform data
-📌 Custom Audiences grossissent automatiquement en juillet 2026.
-💡 Retargeting TT/PURESOLE: + visiteurs touchés, même budget
-⚡ Ads Manager → Audiences → noter taille → revérifier dans 48h
+2️⃣ Claude Code (Opus 5) = Insane Website Workflow
+💡 Claude Code + Opus 5 pour builder/modifier sites web rapidement
+⚡ Test sur thème Shopify — landing pages campagnes en minutes
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 NotebookLM MCP — Claude parle à tes notebooks
-📌 Setup <10 min. Cross-notebook synthesis depuis Claude.
-💡 Unifie NotebookLM + Obsidian + Claude sans switcher d'app
-⚡ npm install notebooklm-mcp-2026 + config claude_desktop
+3️⃣ System Card: Claude Opus 5 (Anthropic officiel)
+💡 Opus 5 : 1M tokens, 96% SWE-bench, pensée par défaut, $5/$25/Mtok
+⚡ Référence pour intégrer Opus 5 dans tes workflows
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 Meta Ads: 3 changements faussent tes rapports juillet 2026
-🤖 Claude Voice Mode: Opus/Sonnet/Haiku, Gmail+Slack, multilingue
-🧠 Second Brain: Claude Code + Obsidian wiki auto-enrichi (mindwiredai)
-🛒 Shopify: vérification partenaires Stripe bientôt obligatoire
-🔌 PulseMCP: 22 311 serveurs MCP au 16 juil. (+60% depuis mai)
+🚀 SKILLS PROPOSÉS : 2
+• shopify-skills-architect : génère des SKILL.md Shopify sur brief
+• shopify-theme-dev-agent : agent Claude Code pour thème Liquid
+━━━━━━━━━━━━━━━
+💡 Insight cross-vidéos :
+Opus 5 + SKILL.md + MCP Shopify = agent autonome par domaine métier — le stack 2026 pour solo founder e-com.

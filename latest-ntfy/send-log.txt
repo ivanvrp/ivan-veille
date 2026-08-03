@@ -1,0 +1,1 @@
+2026-08-03: ntfy.sh blocked by proxy (CONNECT 403) - body saved in body.txt

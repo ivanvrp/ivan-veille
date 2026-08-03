@@ -1,1 +1,2 @@
-Veille 360 — 2026-07-25
+Claude Weekly — 2026-08-03
+NTFY_HTTP=403_proxy_blocked
