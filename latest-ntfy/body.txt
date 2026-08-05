@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Opus 5 — $5/M tokens, effort toggle
-📌 Lancé hier. Moitié du prix de Fable 5, dépasse sur coding.
-💡 Budget API ÷2 pour veille-360 + agents PURESOLE/TT
-⚡ claude.ai → Settings → basculer sur Opus 5
+1️⃣ 🤖 Sonnet 5 : fin promo 31 août → +50% API
+📌 Tarif $2/$10 → $3/$15 /M tokens au 1er sept. Tokeniseur +35% en plus.
+💡 Tous les scripts Claude TT/PURESOLE coûteront 50-85% plus cher
+⚡ Audit console.anthropic.com → Usage → estimer delta sept.
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta supprime opt-out off-platform data
-📌 Custom Audiences grossissent automatiquement en juillet 2026.
-💡 Retargeting TT/PURESOLE: + visiteurs touchés, même budget
-⚡ Ads Manager → Audiences → noter taille → revérifier dans 48h
+2️⃣ 🛒 Shopify Checkout Extensibility — deadline 26 août
+📌 Non-Plus stores : checkout.liquid et scripts legacy désactivés le 26/08.
+💡 Si TT ou PURESOLE ont upsell/trust badge checkout → risque rupture
+⚡ Admin Shopify → Settings → Checkout → vérifier scripts legacy
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 NotebookLM MCP — Claude parle à tes notebooks
-📌 Setup <10 min. Cross-notebook synthesis depuis Claude.
-💡 Unifie NotebookLM + Obsidian + Claude sans switcher d'app
-⚡ npm install notebooklm-mcp-2026 + config claude_desktop
+3️⃣ 📊 Meta Andromeda : 1 CBO + 8-12 creatives = nouveau standard
+📌 Algo lit le créatif comme ciblage. Hooks problem-aware battent hooks produit.
+💡 Structure segmentée actuelle anti-Andromeda = CPM gonflé TT/PURESOLE
+⚡ Ads Manager → test CBO broad + 5 creatives problem-aware cette semaine
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta Ads: 3 changements faussent tes rapports juillet 2026
-🤖 Claude Voice Mode: Opus/Sonnet/Haiku, Gmail+Slack, multilingue
-🧠 Second Brain: Claude Code + Obsidian wiki auto-enrichi (mindwiredai)
-🛒 Shopify: vérification partenaires Stripe bientôt obligatoire
-🔌 PulseMCP: 22 311 serveurs MCP au 16 juil. (+60% depuis mai)
+📊 AI UGC : Arcads/Higgsfield — batch variantes hooks en <1h
+🤖 Claude Code Focus View : toggle Ctrl+Alt+F — masque tool calls
+🧠 NotebookLM MCP v0.4.3 — brancher Claude Desktop sur notebooks
+🛒 Shopify Oxygen sur dev stores (3 août) — tester Hydrogen headless gratuit
+🔌 MCP Tunnels preview — MCPs réseau privé sans firewall, tester npx @anthropic/mcp-tunnel
