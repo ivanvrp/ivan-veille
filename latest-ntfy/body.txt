@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🛒 Shopify Checkout deadline : 26 août
-📌 Le 26/08 Shopify supprime les Additional Scripts pour non-Plus. Meta Pixel + Google Ads conversion cessent immédiatement si pas migré.
-💡 PURESOLE/TT sur plan standard → tout ton tracking pub lâche si tu n'agis pas.
-⚡ Shopify Admin > Settings > Checkout > vérifier Additional Scripts maintenant.
+1️⃣ 🤖 Claude Code Self-Hosted Environments
+📌 Sessions Claude Code sur ta propre infra (Team/Enterprise) — secrets, repos privés restent chez toi. Beta ouverte le 6 août.
+💡 Brancher PURESOLE/TT repos internes sans fuite données
+⚡ Settings > Environments dans Claude.ai → activer runner beta
 ━━━━━━━━━━━━━━━
-2️⃣ 🔌 MCP spec 2026-07-28 : stateless + MCP Apps
-📌 Plus grosse révision MCP depuis le lancement. Protocole stateless, nouvelles extensions Tasks/Apps, OAuth renforcé. SDK TS/Python/Go/C# mis à jour.
-💡 Tes MCPs Shopify+analytics peuvent casser si tu upgrades les SDK sans lire le guide.
-⚡ Vérifier versions SDK MCP dans Claude Code avant tout upgrade.
+2️⃣ 🛒 Shopify Checkout Extensibility — J-17 (deadline 26 août)
+📌 Au 26/08 : Google Ads tag, Meta pixel et GTM dans "Additional Scripts" stoppent net → ROAS à zéro overnight.
+💡 PURESOLE + TT = stores non-Plus → tracking campagnes Meta/TikTok cassé
+⚡ Admin Shopify > Settings > Checkout → bandeau jaune → installer Managed Pixels
 ━━━━━━━━━━━━━━━
-3️⃣ 🤖 Claude Code v2.1.223 — Opus 5 par défaut
-📌 Opus 5 (1M context, 128k output) devient le modèle Opus default. Subagents imbriqués améliorés. Sécurité renforcée.
-💡 Tes workflows veille + génération contenu TT/PURESOLE gagnent en qualité sans surcoût.
-⚡ claude --version → si < 2.1.223 : npm update -g @anthropic-ai/claude-code
+3️⃣ 🔌 MCP 2026-07-28 — Protocol passe en stateless
+📌 Plus de session ID ni d'handshake : chaque requête = HTTP POST autonome. Deploy serverless/edge possible. 400M dl/mois SDK.
+💡 MCP servers actuels OK 12 mois, mais next-gen (Stripe, Notion, Vercel off.) arrivent stateless
+⚡ claude mcp list → vérifier versions → check changelogs github/stripe MCP
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta ASC 4.5x ROAS vs 3.7x manuel — besoin 20-50 créatives pour perfs optimales
-🤖 Mid-conversation tool changes beta sur Opus 5 — add/remove tools entre turns
-🧠 Obsidian 1.5M users : notes dual-audience humain+LLM = second brain 2026
-🛒 Shop Pay lève CVR de 50% — à activer en priorité sur PURESOLE
-🔌 Shopify MCP stack : GeLi2001/shopify-mcp + Storefront + Catalog pour admin ops
+📊 Meta 3-2-2 framework : 3 concepts × 2 formats × 2 hooks = 12 ads/campagne, hook rate >25% = KPI clé
+🤖 Claude Code v2.1.226 (8 août) — nested subagents + MCP sandbox améliorés
+🧠 NotebookLM rebrand → Gemini Notebook (juil.) — même workflow, plus intégré Gemini
+🛒 Campaign Autopilot → Microsoft Ads (Bing, Copilot, Edge) disponible
+🔌 Registre MCP officiel : 9 400+ serveurs — Stripe MCP à installer pour PURESOLE
