@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 📊 Meta Advantage+ réécrit le texte ds vos images
-📌 Actif depuis 6 août : 8 variantes auto de vos overlays texte (prix, promos) sans accord. Rolling out tous comptes.
-💡 PURESOLE/TT : vérifier/désactiver avant que Meta réécrive vos hooks produit
-⚡ Ads Manager → Edit → Advantage+ Creative → désactiver "Text improvements"
+1️⃣ 🤖 Claude Code Auto Mode → défaut DEMAIN 14 août
+📌 Anthropic active le mode auto pour Pro/Max/Team : moins de permission prompts, nouveaux safeguards anti-fuite activés
+💡 Ton workflow Claude Code TT/PURESOLE devient plus fluide dès demain
+⚡ Ouvrir /config dans Claude Code, vérifier mode auto activé
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify : 20% sub + 0.1% GMV partenaires (dès auj.)
-📌 Nouveau modèle partenaire effectif 10 août. $1M GMV marchand = $1k/an pour Ivan en plus des 20% abonnement.
-💡 Si compte Partenaire Shopify → accepter les nouveaux termes aujourd'hui
-⚡ partners.shopify.com → accepter termes → éligible 0.1% GMV sur nouveaux marchands
+2️⃣ 📊 Meta Advantage+ génère des vidéos depuis tes photos produit
+📌 Advantage+ Creative = vidéo auto depuis statics, ROAS 4.5x vs 3.7x manuel, CPA -32%
+💡 Photos PURESOLE/TT → vidéos ads sans Higgsfield ni Arcads, directement dans Meta
+⚡ Créer Advantage+ Sales Campaign, uploader 3-5 photos, activer Creative auto
 ━━━━━━━━━━━━━━━
-3️⃣ 🤖 Claude : hypothèse Riemann 41.6%→67.2% (60 agents)
-📌 Version research Claude Code (60 subagents, 31M tokens) dépasse décennies de math humaine en 2 sessions.
-💡 Le même pattern multi-agents s'applique : audit catalogue, research fournisseurs PURESOLE
-⚡ Lire anthropic.com/research/riemann-zeta → identifier 1 tâche research à pipeliner
+3️⃣ 🛒 Shopify Aug 26 : pixels Meta + Google Ads s'éteignent dans 13j
+📌 Non-Plus stores : Additional Scripts, GTM, Meta Pixel SUPPRIMÉS le 26 août sans migration
+💡 PURESOLE sur Shopify Basic/Shopify = tracking mort si pas migré vers Customer Events
+⚡ Admin → Settings → Customer Events → ajouter Web Pixels Meta et Google
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta Muse Image : IA génère background lifestyle autour de votre photo produit — test sneakers PURESOLE
-🤖 Claude Code 2.1.224 : self-hosted runner Team/Enterprise, sessions sur votre propre infra
-🧠 claude-obsidian (GitHub) : second brain auto-organisé, drop source → graph Markdown local
-🛒 ⚠️ J-15 Shopify checkout deadline 26/08 — migrer Web Pixels URGENT
-🔌 MCP Tunnels : connecter Claude à réseau privé sans firewall entrant (research preview)
+📊 AI UGC 2026 : Arcads actor ads (110$/mo), Higgsfield cinéma (9$/mo), Creatify volume
+🤖 Claude watermarks invisibles EU AI Act compliance depuis 2 août
+🧠 obsidian-claude ZanderRuss : 29 commandes, 16 agents, research workflow complet
+🛒 Shopify Cart Attributes API : event shopify:cart:attributes-update août 2026
+🔌 Polar Analytics MCP : ShopifyQL + auto-refresh, brancher PURESOLE sur Claude Code
