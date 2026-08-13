@@ -1,11 +1,3 @@
-https://www.youtube.com/watch?v=D6Cfjy83MQA
-https://forwardfuture.com/
-https://github.com/anthropics/launch-your-agent
-https://www.anthropic.com/news/self-hosted-sandboxes
-https://code.claude.com/docs/en/whats-new/2026-w26
-https://www.youtube.com/watch?v=1iIOGpJXSgQ
-https://www.youtube.com/watch?v=9QaD8Avfu2Q
-https://www.youtube.com/watch?v=Bex_292yJfU
 https://www.youtube.com/watch?v=aTPTUYC44ds
 https://www.youtube.com/watch?v=RzLV8sfFdMM
 https://www.youtube.com/watch?v=QOf8Z4iS8pk
@@ -198,3 +190,11 @@ https://www.codilar.com/blog/shopify-checkout-extensibility-2026/
 https://cryptobriefing.com/claude-riemann-zeta-lower-bound-67-percent/
 https://enterprisedna.co/resources/news/anthropic-claude-code-self-hosted-runner-enterprise-2026/
 https://claude.com/blog/run-claude-code-sessions-on-your-own-compute
+https://mezha.net/eng/bukvy/1ad90c40_anthropic_will_make/
+https://madgicx.com/blog/new-advantage-updates
+https://moeedbuilds.dev/blog/shopify-checkout-migration-non-plus-stores/
+https://gizmodo.com/anthropics-claude-will-start-adding-invisible-watermarks-to-ai-generated-text-2000797759
+https://github.com/ZanderRuss/obsidian-claude
+https://yournextstore.com/blog/mcp-servers-for-ecommerce
+https://thesocialoutline.com/blog/best-ai-ugc-tools-2026
+https://www.firstpier.com/resources/shopify-new-features
