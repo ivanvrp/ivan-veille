@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 📊 Meta Advantage+ réécrit le texte ds vos images
-📌 Actif depuis 6 août : 8 variantes auto de vos overlays texte (prix, promos) sans accord. Rolling out tous comptes.
-💡 PURESOLE/TT : vérifier/désactiver avant que Meta réécrive vos hooks produit
-⚡ Ads Manager → Edit → Advantage+ Creative → désactiver "Text improvements"
+1️⃣ 🛒 Shopify Aug 26 : migrer pixels Meta/GA4 (11j)
+📌 Le 26/08, Additional Scripts est coupé — pixels Meta, GA4, TikTok meurent silencieusement. TT & PURESOLE = attribution zéro.
+💡 Vos campagnes paid social aveugles dès le 26/08 si pas migré
+⚡ Admin → Customer Events → Add Meta Pixel custom pixel (10 min)
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify : 20% sub + 0.1% GMV partenaires (dès auj.)
-📌 Nouveau modèle partenaire effectif 10 août. $1M GMV marchand = $1k/an pour Ivan en plus des 20% abonnement.
-💡 Si compte Partenaire Shopify → accepter les nouveaux termes aujourd'hui
-⚡ partners.shopify.com → accepter termes → éligible 0.1% GMV sur nouveaux marchands
+2️⃣ 🔌 Upwork MCP : recruter sans quitter Claude Code
+📌 MCP officiel gratuit : poster un job, trouver un freelance, rédiger une offre depuis ta session Claude — escrow inclus.
+💡 Solo founder : zéro context-switch pour dev Liquid / copy / photo
+⚡ claude mcp add upwork --transport http https://mcp.upwork.com/mcp
 ━━━━━━━━━━━━━━━
-3️⃣ 🤖 Claude : hypothèse Riemann 41.6%→67.2% (60 agents)
-📌 Version research Claude Code (60 subagents, 31M tokens) dépasse décennies de math humaine en 2 sessions.
-💡 Le même pattern multi-agents s'applique : audit catalogue, research fournisseurs PURESOLE
-⚡ Lire anthropic.com/research/riemann-zeta → identifier 1 tâche research à pipeliner
+3️⃣ 🤖 Claude Code Auto Mode : default depuis le 14/08
+📌 Classifieur 2-couches approuve les tool calls sans confirmation — 89% détection commandes dangereuses vs 13,6% humain.
+💡 Build + pipelines veille plus fluides, moins d'interruptions
+⚡ claude config show → vérifier autoMode + permissions critiques
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta Muse Image : IA génère background lifestyle autour de votre photo produit — test sneakers PURESOLE
-🤖 Claude Code 2.1.224 : self-hosted runner Team/Enterprise, sessions sur votre propre infra
-🧠 claude-obsidian (GitHub) : second brain auto-organisé, drop source → graph Markdown local
-🛒 ⚠️ J-15 Shopify checkout deadline 26/08 — migrer Web Pixels URGENT
-🔌 MCP Tunnels : connecter Claude à réseau privé sans firewall entrant (research preview)
+📊 Meta : Messenger Stories supprimé 27/08 + test Facebook full-screen vidéo
+🤖 Sonnet 5 $2/$10/MTok permanent — pas de hausse sept.
+🧠 Gemini Notebook (ex-NotebookLM) : code, mind maps, vidéo natifs
+🛒 Managed Markets : fin DDU le 24/08 — agir si marchés EU
+🔌 Xnurta MCP : piloter Amazon/Walmart Ads depuis Claude (bêta)
