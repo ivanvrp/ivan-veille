@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 📊 Meta Advantage+ réécrit le texte ds vos images
-📌 Actif depuis 6 août : 8 variantes auto de vos overlays texte (prix, promos) sans accord. Rolling out tous comptes.
-💡 PURESOLE/TT : vérifier/désactiver avant que Meta réécrive vos hooks produit
-⚡ Ads Manager → Edit → Advantage+ Creative → désactiver "Text improvements"
+1️⃣ 🤖 Claude Code auto mode par défaut — fini les interruptions
+📌 Depuis Aug 14, sessions Pro/Max/Team en mode auto. Claude approuve lui-même les permissions. 89% commandes dangereuses bloquées auto vs 14% humain.
+💡 Pipelines veille + analyses Shopify sans stops — pour TT/PURESOLE
+⚡ Lance 1 tâche longue Claude Code, observe 0 interruptions
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify : 20% sub + 0.1% GMV partenaires (dès auj.)
-📌 Nouveau modèle partenaire effectif 10 août. $1M GMV marchand = $1k/an pour Ivan en plus des 20% abonnement.
-💡 Si compte Partenaire Shopify → accepter les nouveaux termes aujourd'hui
-⚡ partners.shopify.com → accepter termes → éligible 0.1% GMV sur nouveaux marchands
+2️⃣ 🤖 Sonnet 5 $2/$10 permanent — hausse Sep 1 annulée
+📌 Tarif introductif Claude Sonnet 5 figé définitivement. La hausse à $3/$15 du 1er sep 2026 n'aura pas lieu. Économie 33% sur tokens output.
+💡 Budget API stable — scale veille-360 + analyses catalogue PURESOLE
+⚡ Supprimer projections hausse API. Ajouter 1 run veille/semaine
 ━━━━━━━━━━━━━━━
-3️⃣ 🤖 Claude : hypothèse Riemann 41.6%→67.2% (60 agents)
-📌 Version research Claude Code (60 subagents, 31M tokens) dépasse décennies de math humaine en 2 sessions.
-💡 Le même pattern multi-agents s'applique : audit catalogue, research fournisseurs PURESOLE
-⚡ Lire anthropic.com/research/riemann-zeta → identifier 1 tâche research à pipeliner
+3️⃣ 🔌 Decile MCP — analytics e-com en NL depuis Claude (Aug 12)
+📌 Premier MCP connectant données clients Shopify à Claude. Segmentation, LTV, cohortes en langage naturel + création audiences retargeting directe.
+💡 Remplace heures d'export/analyse dashboard — PURESOLE/TT
+⚡ decile.co → demo MCP → qualifier connecteur Shopify (10 min)
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta Muse Image : IA génère background lifestyle autour de votre photo produit — test sneakers PURESOLE
-🤖 Claude Code 2.1.224 : self-hosted runner Team/Enterprise, sessions sur votre propre infra
-🧠 claude-obsidian (GitHub) : second brain auto-organisé, drop source → graph Markdown local
-🛒 ⚠️ J-15 Shopify checkout deadline 26/08 — migrer Web Pixels URGENT
-🔌 MCP Tunnels : connecter Claude à réseau privé sans firewall entrant (research preview)
+📊 Meta GenReco LLM punit répétition créa +8.3% CTR — diversifier angles ad sets
+🤖 Claude watermark invisible EU sur tout output API — API détection bientôt
+🧠 NotebookLM MCP 32 actions depuis Claude Code CLI — setup 20 min
+🛒 ⚠️ J-9 Shopify checkout 26/08 — migrer Additional Scripts MAINTENANT
+🔌 Python MCP SDK réécriture majeure — pip install --upgrade mcp
