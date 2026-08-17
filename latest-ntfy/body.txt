@@ -1,23 +1,21 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH (3)
 ━━━━━━━━━━━━━━━
-1️⃣ 📊 Meta Advantage+ réécrit le texte ds vos images
-📌 Actif depuis 6 août : 8 variantes auto de vos overlays texte (prix, promos) sans accord. Rolling out tous comptes.
-💡 PURESOLE/TT : vérifier/désactiver avant que Meta réécrive vos hooks produit
-⚡ Ads Manager → Edit → Advantage+ Creative → désactiver "Text improvements"
+1️⃣ Claude Code Just Changed Forever (6 NEW Rules)
+💡 6 shifts Anthropic : règles → jugement, exemples → interfaces, upfront → progressive. Score Gemini 9/10.
+⚡ Auditer tes SKILL.md, supprimer NEVER/ALWAYS, créer brand-templetwins.html
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify : 20% sub + 0.1% GMV partenaires (dès auj.)
-📌 Nouveau modèle partenaire effectif 10 août. $1M GMV marchand = $1k/an pour Ivan en plus des 20% abonnement.
-💡 Si compte Partenaire Shopify → accepter les nouveaux termes aujourd'hui
-⚡ partners.shopify.com → accepter termes → éligible 0.1% GMV sur nouveaux marchands
+2️⃣ NEW Claude Code Update (cross-session messaging v2.1.232)
+💡 Sessions IA qui se parlent via SendMessage. Pipeline SEO/e-com 100% auto. Score Gemini 8/10.
+⚡ Nommer sessions : tt-research, tt-content, tt-ops, ps-sourcing…
 ━━━━━━━━━━━━━━━
-3️⃣ 🤖 Claude : hypothèse Riemann 41.6%→67.2% (60 agents)
-📌 Version research Claude Code (60 subagents, 31M tokens) dépasse décennies de math humaine en 2 sessions.
-💡 Le même pattern multi-agents s'applique : audit catalogue, research fournisseurs PURESOLE
-⚡ Lire anthropic.com/research/riemann-zeta → identifier 1 tâche research à pipeliner
+3️⃣ Creator of Claude Code on Odd Lots (Bloomberg)
+💡 Interview longue forme du créateur de Claude Code. Vision insider produit. ~1h à bloquer.
+⚡ À regarder manuellement (trop long pour Gemini free tier)
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 Meta Muse Image : IA génère background lifestyle autour de votre photo produit — test sneakers PURESOLE
-🤖 Claude Code 2.1.224 : self-hosted runner Team/Enterprise, sessions sur votre propre infra
-🧠 claude-obsidian (GitHub) : second brain auto-organisé, drop source → graph Markdown local
-🛒 ⚠️ J-15 Shopify checkout deadline 26/08 — migrer Web Pixels URGENT
-🔌 MCP Tunnels : connecter Claude à réseau privé sans firewall entrant (research preview)
+🚀 SKILLS PROPOSÉS : 3
+/calibrate-store : capitalise apprentissages fin de session Shopify
+/doctor-context : audit santé système agentique selon 6 shifts Anthropic
+/shopify-pipeline : pipeline multi-agent research→content→ops→report
+━━━━━━━━━━━━━━━
+💡 Insight cross-vidéos :
+Claude 5 délègue le jugement plutôt qu'appliquer des règles — moins de prompts rigides, plus de mémoire auto et sessions multiples qui se coordonnent seules.
