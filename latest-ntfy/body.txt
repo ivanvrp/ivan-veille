@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 📊 Meta Advantage+ réécrit le texte ds vos images
-📌 Actif depuis 6 août : 8 variantes auto de vos overlays texte (prix, promos) sans accord. Rolling out tous comptes.
-💡 PURESOLE/TT : vérifier/désactiver avant que Meta réécrive vos hooks produit
-⚡ Ads Manager → Edit → Advantage+ Creative → désactiver "Text improvements"
+1️⃣ 🤖 Claude Code 2.1.238 — Mode Concise + memory fix
+📌 Mode "Concise" (résultats d'abord, zéro préambule) + fix fuite mémoire sessions longues + Remote Control sync multi-devices. 25 bugs corrigés en 24h.
+💡 Outil central veille-360 — impacte sessions multi-agents PURESOLE/TT
+⚡ claude --version → update → /config → Output style → Concise
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify : 20% sub + 0.1% GMV partenaires (dès auj.)
-📌 Nouveau modèle partenaire effectif 10 août. $1M GMV marchand = $1k/an pour Ivan en plus des 20% abonnement.
-💡 Si compte Partenaire Shopify → accepter les nouveaux termes aujourd'hui
-⚡ partners.shopify.com → accepter termes → éligible 0.1% GMV sur nouveaux marchands
+2️⃣ 🛒 Shopify Checkout Deadline J-5 (26 août)
+📌 Additional Scripts/GTM/Meta Pixel coupés automatiquement pour stores non-Plus le 26/08. Google Ads + Meta Pixel + affiliés = silence total sans migration.
+💡 PURESOLE/TT probablement impactés — campagnes aveugles si non migré
+⚡ Admin Shopify → Settings → Checkout → vérifier Additional Scripts → migrer
 ━━━━━━━━━━━━━━━
-3️⃣ 🤖 Claude : hypothèse Riemann 41.6%→67.2% (60 agents)
-📌 Version research Claude Code (60 subagents, 31M tokens) dépasse décennies de math humaine en 2 sessions.
-💡 Le même pattern multi-agents s'applique : audit catalogue, research fournisseurs PURESOLE
-⚡ Lire anthropic.com/research/riemann-zeta → identifier 1 tâche research à pipeliner
+3️⃣ 🔌 Shopify MCP cart tools sunset (31 août)
+📌 get_cart/update_cart Storefront MCP dépréciés → migrer vers UCP Cart MCP /api/ucp/mcp avant le 31/08.
+💡 Agents Claude sur Shopify cassent le 31/08 sans migration endpoint
+⚡ Inventorier .mcp.json → migrer /api/ucp/mcp + meta.ucp-agent.profile
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta Muse Image : IA génère background lifestyle autour de votre photo produit — test sneakers PURESOLE
-🤖 Claude Code 2.1.224 : self-hosted runner Team/Enterprise, sessions sur votre propre infra
-🧠 claude-obsidian (GitHub) : second brain auto-organisé, drop source → graph Markdown local
-🛒 ⚠️ J-15 Shopify checkout deadline 26/08 — migrer Web Pixels URGENT
-🔌 MCP Tunnels : connecter Claude à réseau privé sans firewall entrant (research preview)
+📊 Meta Advantage+ Leads global + Threads Carousel Ads + pLTV 30 events/sem
+🤖 Claude Code 2.1.234 auto-continue session après reset limite usage (17/08)
+🧠 Gemini Notebook : copie notebook complet incl. Studio artefacts (17/08)
+🛒 Hydrogen Aug 18 : Shop Pay SSR + cart session attribution + local HTTPS
+🔌 CatchAll MCP : interroger presse/actualité via agents Claude (17/08)
