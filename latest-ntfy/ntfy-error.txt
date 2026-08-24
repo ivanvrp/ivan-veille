@@ -1,2 +1,1 @@
-NTFY_KO: proxy 403 - ntfy.sh bloqué par politique réseau remote
-ntfy FAILED - proxy 403 - Thu Jul 23 07:16:55 UTC 2026
+NTFY 2x KO — logged and continued per fallback rule

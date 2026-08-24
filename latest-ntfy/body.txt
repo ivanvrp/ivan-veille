@@ -1,23 +1,23 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude agent stack GA — Files + Skills + Computer Use
-📌 Computer use, browser use, Skills API et Files API (1TB/org) passent en GA le 20/08. Un agent peut naviguer Shopify, charger ton SOP, stocker ses outputs — en 1 requête.
-💡 Builder des agents opé pour PURESOLE/TT sans re-envoyer données
-⚡ platform.claude.com → activer Computer Use → créer 1 skill SOP sourcing
+1️⃣ Matt Pocock's Claude Skills Beat Superpowers Now
+💡 Skills modulaires (grill-me → to-spec → to-tickets → implement TDD) battent les frameworks agentiques monolithiques
+⚡ Installe : npx skills add mattpocock/skills — teste grill-me sur ta prochaine feature Shopify
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify DDU supprimé DEMAIN — basculement DDP automatique
-📌 Le 24/08, Managed Markets bascule tous tes marchés DDU en DDP : droits de douane au checkout plutôt qu'à la livraison. Action requise ce soir si tu veux rester DDU.
-💡 PURESOLE livraisons EU/UK : prix checkout change pour tes clients
-⚡ Admin → Settings → Markets → Managed Markets → vérifier DDU actif
+2️⃣ Claude Cowork débarque dans Chrome side panel
+💡 Skills + plugins + connecteurs actifs dans le browser. Démo Anthropic : month-end close en lisant les onglets factures ouverts
+⚡ Active Cowork dans Chrome (Max/Team dispo) — teste "Run my month-end close on these tabs"
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 Claude envoie maintenant tes emails Gmail + gère Drive
-📌 Write actions GA le 19/08 : send/reply/forward Gmail, move/share/trash Drive. Approbation par défaut, mode auto possible. Dispo tous plans payants.
-💡 Réponses fournisseurs, SAV, rangement factures Drive en 30s
-⚡ claude.ai → Settings → Connectors → Google Workspace → activer write
+3️⃣ Multi-Agent Workflows : Navigator/Driver TDD + handoffs
+💡 2 subagents Claude Code + handoff files markdown pour audit trail. Navigator écrit tests (RED), Driver code (GREEN)
+⚡ À implémenter pour toute nouvelle intégration Shopify critique (payment, shipping)
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 TikTok Collage Carousel : 4 produits cliquables en frame 1, sans swipe (US)
-🤖 Claude Academy : 22 cours gratuits dont Agent Skills — academy.claude.com
-🧠 NotebookLM MCP + Claude : pipeline 10 PDF fournisseurs → fiches en 20min
-🛒 ⚠️ Checkout Extensibility J-3 : 26/08 fin Additional Scripts non-Plus
-🔌 Tous connectors Claude.ai auto-dispo dans Claude Code depuis le 05/08
+🚀 SKILLS PROPOSÉS : 5
+- solo-founder-ideation (grill-me e-com)
+- rapport-financier-ecom (Cowork month-end)
+- ecom-feature-builder-tdd (Navigator/Driver)
+- shopify-product-description-stylist
+- dropship-product-analyzer
+━━━━━━━━━━━━━━━
+💡 Insight cross-vidéos :
+Fin des frameworks agentiques monolithiques — Anthropic supprime 80% du system prompt Opus 5. Construis 5-10 petits skills ultra-focus (1 job = 1 skill) plutôt qu'UN méga-skill "e-commerce assistant". Mots-guides > garde-fous rigides.
