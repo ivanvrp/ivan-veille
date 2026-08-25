@@ -1,23 +1,23 @@
-🔥 MUST-WATCH
+🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ Matt Pocock's Claude Skills Beat Superpowers Now
-💡 Skills modulaires (grill-me → to-spec → to-tickets → implement TDD) battent les frameworks agentiques monolithiques
-⚡ Installe : npx skills add mattpocock/skills — teste grill-me sur ta prochaine feature Shopify
+1️⃣ 🛒 Shopify checkout — DEADLINE DEMAIN 26/08
+📌 Non-Plus stores : checkout.liquid retiré demain. Sans migration vers checkout UI extensions, tes perso checkout disparaissent silencieusement.
+💡 Critique si PURESOLE/TT ont des scripts ou upsells dans le checkout
+⚡ Shopify Admin → Online Store → Themes → Checkout → vérifier migration (5 min)
 ━━━━━━━━━━━━━━━
-2️⃣ Claude Cowork débarque dans Chrome side panel
-💡 Skills + plugins + connecteurs actifs dans le browser. Démo Anthropic : month-end close en lisant les onglets factures ouverts
-⚡ Active Cowork dans Chrome (Max/Team dispo) — teste "Run my month-end close on these tabs"
+2️⃣ 🤖 Claude Code fork mode + auto-continue (v2.1.232+)
+📌 Fork mode on par défaut : sous-agents héritent du contexte complet. Auto-continue reprend la session après reset usage. Bonus : +50% crédits jusqu'au 31/08.
+💡 Tes routines agentic PURESOLE/veille roulent sans interruption manuelle
+⚡ /subtask dans une session active → tester le fork sur une tâche (10 min)
 ━━━━━━━━━━━━━━━
-3️⃣ Multi-Agent Workflows : Navigator/Driver TDD + handoffs
-💡 2 subagents Claude Code + handoff files markdown pour audit trail. Navigator écrit tests (RED), Driver code (GREEN)
-⚡ À implémenter pour toute nouvelle intégration Shopify critique (payment, shipping)
+3️⃣ 📊 AI UGC TikTok — CPA -75% via Creatify
+📌 Creatify : colle l'URL produit → script + avatar IA → vidéo TikTok prête en minutes. 12x engagement vs static. Stratégie : AI pour tester angles, créateur réel pour scaler.
+💡 Test rapide sur 1 SKU PURESOLE ou pièce TempleTwins
+⚡ creatify.ai → compte free → importer 1 URL produit (15 min)
 ━━━━━━━━━━━━━━━
-🚀 SKILLS PROPOSÉS : 5
-- solo-founder-ideation (grill-me e-com)
-- rapport-financier-ecom (Cowork month-end)
-- ecom-feature-builder-tdd (Navigator/Driver)
-- shopify-product-description-stylist
-- dropship-product-analyzer
-━━━━━━━━━━━━━━━
-💡 Insight cross-vidéos :
-Fin des frameworks agentiques monolithiques — Anthropic supprime 80% du system prompt Opus 5. Construis 5-10 petits skills ultra-focus (1 job = 1 skill) plutôt qu'UN méga-skill "e-commerce assistant". Mots-guides > garde-fous rigides.
+📚 Autres axes (1 ligne) :
+📊 Meta: tester 15-25 créas/mois, hook social proof chiffré = max ROAS
+🤖 Sonnet 5 pricing PERMANENT $2/$10M (pas de deadline — correction J-2)
+🧠 Notes LLM-native : rendre le contexte explicite pour que Claude exploite Obsidian
+🛒 Shopify: WhatsApp consent in Forms + Microsoft Ads dans Campaign Autopilot
+🔌 MCP Python fix: mcp>=1.29.0,<2 requis pour serveurs fetch/git/time (màj si besoin)

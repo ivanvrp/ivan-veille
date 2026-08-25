@@ -1,1 +1,2 @@
-NTFY 2x KO — logged and continued per fallback rule
+NTFY_KO: ntfy.sh blocked by egress proxy (HTTP 403 on CONNECT tunnel). 2x retry attempted.
+2026-08-25 07:20:04 UTC
