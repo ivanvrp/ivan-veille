@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🛒 Shopify UCP Cart MCP — DEADLINE 31 AOÛT
-📌 Les outils cart du Storefront MCP /api/mcp cessent de fonctionner dans 4 jours. Migration obligatoire vers /api/ucp/mcp. Format requête changé (ucp-agent meta, full line items).
-💡 Tout agent IA ou app Hydrogen avec panier custom casse le 31/08.
-⚡ Chercher "/api/mcp" dans le code du store → guide migration weaverse.io
+1️⃣ 🤖 Claude Cowork : navigateur intégré desktop (26 août)
+📌 Claude ouvre ses propres onglets dans un panneau latéral — navigue, clique, extrait sans toucher à ton browser perso. Pro/Max/Team en rollout.
+💡 Solo founder : scraper concurrents, remplir formulaires fournisseurs, surveiller pages Shopify sans extension
+⚡ Desktop → Paramètres → Cowork → activer navigateur intégré → tester avec une recherche prix concurrents PURESOLE
 ━━━━━━━━━━━━━━━
-2️⃣ 🤖 Claude Code Aug 25 — /usage + model picker + 2× faster startup
-📌 Nouveau /usage avec breakdown tokens par session/modèle. Model picker avec prix en temps réel. Démarrage 2× plus rapide. Boost 50% limites prolongé jusqu'au 31/08.
-💡 Optimiser les routines veille/génération contenu PURESOLE avant reset du 31/08.
-⚡ Taper /usage dans Claude Code → identifier la tâche qui brûle le plus de tokens
+2️⃣ 📊 Meta Advantage+ : Muse Image + réécriture headlines visuels
+📌 Meta réécrit le texte baked dans tes images si tu n'opt-out. Volume créatif attendu doublé : 15-50+ actives min.
+💡 Risque immédiat sur split-tests PURESOLE/TT si headlines font partie du design visuel
+⚡ Business Manager → chaque créatif Advantage+ → Modifications créatives → cocher "Exclure modifications texte"
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 Claude Workspace — Gmail send + Drive write actifs (18 août)
-📌 Claude peut envoyer mails Gmail et modifier fichiers Drive en ton nom. Approbation par défaut. Disponible via Connectors dans Claude.ai.
-💡 Automatiser briefs créas freelances PURESOLE + archivage Drive sans quitter Claude.
-⚡ Claude.ai → Connectors → Google Workspace → tester "envoie-moi un résumé par mail"
+3️⃣ 🛒 Shopify Agentic Storefronts : tes produits dans ChatGPT/Gemini/Copilot
+📌 Canal de vente Shopify qui syndique ton catalogue vers les AI agents. Q1 2026 : commandes IA ×13 YoY. Zéro frais transaction.
+💡 PURESOLE/TempleTwins discoverables quand un acheteur demande à ChatGPT des sneakers ou streetwear
+⚡ Admin → Canaux de vente → Agentic Storefronts → activer ou rejoindre waitlist
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Motion : système 200+ créas/semaine Meta+TikTok — 5 variations/concept, cycle test 3j
-🤖 Anthropic Wellbeing Grants $5M (25 août) — signal long terme, pas actionnable
-🧠 NotebookLM+Obsidian workflow Part 2 — NLM synthèse active, Obsidian knowledge base
-🛒 Shopify script tags deprecated — mutations stop oct 2026, injection stop mars 2027
-🔌 Claude Code fix MCP OAuth redirect URI — update Claude Code si MCP Slack en prod
+📊 TikTok : hook <2sec = +41% completion — créer 3 hooks "problème soudain" pour TikTok Shop PURESOLE
+🤖 Claude Code --restricted : retire WebFetch+shell pour déploiements sécurisés (pipelines prod)
+🧠 Obsidian+Claude : Claude lit wikilinks/frontmatter natif — automatiser inbox Obsidian hebdo
+🛒 Shopify DHL labels directs admin pour UK/DE/FR/IT/ES — check si pertinent TempleTwins EU
+🔌 MCP mid-conversation tool injection (Opus 4.8/5) — agents qui chargent MCPs selon phase
