@@ -1,23 +1,27 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH (2 cette semaine)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Code --restricted : lockdown cron
-📌 Mode lockdown v2.1.248 (28 août) : retire shell+WebFetch, confine au CWD
-💡 Sécurise les routines veille-360 et agents auto TempleTwins/PURESOLE
-⚡ Tester CLAUDE_CODE_RESTRICTED=1 sur la prochaine veille cron
+1️⃣ Code with Claude 2026 — Opening Keynote (SF)
+💡 Routines Shopify + Advisor/Executor pattern + Dreaming agents — Anthropic officiel
+⚡ Regarder timestamp 22:18 (Advisor/Executor) et 37:00 (Routines webhooks)
 ━━━━━━━━━━━━━━━
-2️⃣ 🧠 claude-obsidian : vault Obsidian auto-organisé
-📌 Drop une source → Claude link+file dans graphe Markdown local (27 août, GitHub Trending)
-💡 Transforme les recherches TT/PURESOLE en KB structurée sans cloud
-⚡ git clone AgriciDaniel/claude-obsidian, tester avec 3 digests veille
+2️⃣ Code with Claude Tokyo 2026 — Opening Keynote
+💡 Use-cases prod Managed Agents + partenariats Asia-Pac — Anthropic officiel
+⚡ À regarder pour compléter SF keynote (analyse Gemini échec — voir manuellement)
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 MCP 2026-07-28 stateless : 400M DL, sur Claude
-📌 Core stateless (serverless-ready), OAuth durci, extensions Apps+Tasks
-💡 MCP Shopify pour PURESOLE déployable sur Vercel sans sessions
-⚡ Vérifier version MCP Shopify → migrer si < 2026-07-28
+3️⃣ Claude Code: Auto Mode Defaulting — Explained (14 août)
+💡 Auto mode = défaut depuis le 14/08 sur Pro/Max/Team — vérifier tes sessions
+⚡ Check /permissions sur tes routines de veille
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 Arcads meilleur UGC IA $500+/mois Meta/TikTok (adskull.io)
-🤖 Auto mode défaut Claude Code 14 août (89% actions bloquées)
-🧠 obsidian-second-brain : 45 cmds, agents nocturnes vault
-🛒 ⚠️ Storefront MCP cart DEAD aujourd'hui → migrer /api/ucp/mcp
-🔌 MCP servers: security fixes filesystem+containers (28-30 août)
+🚀 SKILLS PROPOSÉS : 2
+1. advisor-executor-shopify — Sonnet Executor + Opus Advisor pour décisions dropship critiques
+2. shopify-routine-ops — Routines stock/report/alertes Shopify via schedule ou webhook
+━━━━━━━━━━━━━━━
+💡 Insight cross-sources :
+Claude Code devient une plateforme d'orchestration autonome — Fork mode default + cross-session + Routines + PreModelSwitch hooks = systèmes qui se surveillent eux-mêmes. Levier Ivan : Routines Shopify sans coder.
+━━━━━━━━━━━━━━━
+⚙️ CHANGELOG SEMAINE
+• v2.1.251 PreModelSwitch/PostModelSwitch hooks
+• v2.1.248 --restricted mode (sandbox agents)
+• v2.1.247 /claude-api cost-optimize skill
+• MCP memory atomic writes + filesystem fixes
+• ⚠️ Sonnet 5 : $3/$15/Mtok dès ce soir minuit
