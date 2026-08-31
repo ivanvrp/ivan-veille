@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🛒 Shopify UCP Cart MCP — DEADLINE 31 AOÛT
-📌 Les outils cart du Storefront MCP /api/mcp cessent de fonctionner dans 4 jours. Migration obligatoire vers /api/ucp/mcp. Format requête changé (ucp-agent meta, full line items).
-💡 Tout agent IA ou app Hydrogen avec panier custom casse le 31/08.
-⚡ Chercher "/api/mcp" dans le code du store → guide migration weaverse.io
+1️⃣ 🤖 Claude Code --restricted : lockdown cron
+📌 Mode lockdown v2.1.248 (28 août) : retire shell+WebFetch, confine au CWD
+💡 Sécurise les routines veille-360 et agents auto TempleTwins/PURESOLE
+⚡ Tester CLAUDE_CODE_RESTRICTED=1 sur la prochaine veille cron
 ━━━━━━━━━━━━━━━
-2️⃣ 🤖 Claude Code Aug 25 — /usage + model picker + 2× faster startup
-📌 Nouveau /usage avec breakdown tokens par session/modèle. Model picker avec prix en temps réel. Démarrage 2× plus rapide. Boost 50% limites prolongé jusqu'au 31/08.
-💡 Optimiser les routines veille/génération contenu PURESOLE avant reset du 31/08.
-⚡ Taper /usage dans Claude Code → identifier la tâche qui brûle le plus de tokens
+2️⃣ 🧠 claude-obsidian : vault Obsidian auto-organisé
+📌 Drop une source → Claude link+file dans graphe Markdown local (27 août, GitHub Trending)
+💡 Transforme les recherches TT/PURESOLE en KB structurée sans cloud
+⚡ git clone AgriciDaniel/claude-obsidian, tester avec 3 digests veille
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 Claude Workspace — Gmail send + Drive write actifs (18 août)
-📌 Claude peut envoyer mails Gmail et modifier fichiers Drive en ton nom. Approbation par défaut. Disponible via Connectors dans Claude.ai.
-💡 Automatiser briefs créas freelances PURESOLE + archivage Drive sans quitter Claude.
-⚡ Claude.ai → Connectors → Google Workspace → tester "envoie-moi un résumé par mail"
+3️⃣ 🔌 MCP 2026-07-28 stateless : 400M DL, sur Claude
+📌 Core stateless (serverless-ready), OAuth durci, extensions Apps+Tasks
+💡 MCP Shopify pour PURESOLE déployable sur Vercel sans sessions
+⚡ Vérifier version MCP Shopify → migrer si < 2026-07-28
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Motion : système 200+ créas/semaine Meta+TikTok — 5 variations/concept, cycle test 3j
-🤖 Anthropic Wellbeing Grants $5M (25 août) — signal long terme, pas actionnable
-🧠 NotebookLM+Obsidian workflow Part 2 — NLM synthèse active, Obsidian knowledge base
-🛒 Shopify script tags deprecated — mutations stop oct 2026, injection stop mars 2027
-🔌 Claude Code fix MCP OAuth redirect URI — update Claude Code si MCP Slack en prod
+📊 Arcads meilleur UGC IA $500+/mois Meta/TikTok (adskull.io)
+🤖 Auto mode défaut Claude Code 14 août (89% actions bloquées)
+🧠 obsidian-second-brain : 45 cmds, agents nocturnes vault
+🛒 ⚠️ Storefront MCP cart DEAD aujourd'hui → migrer /api/ucp/mcp
+🔌 MCP servers: security fixes filesystem+containers (28-30 août)
