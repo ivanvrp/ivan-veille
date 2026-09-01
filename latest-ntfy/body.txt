@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Code --restricted : lockdown cron
-📌 Mode lockdown v2.1.248 (28 août) : retire shell+WebFetch, confine au CWD
-💡 Sécurise les routines veille-360 et agents auto TempleTwins/PURESOLE
-⚡ Tester CLAUDE_CODE_RESTRICTED=1 sur la prochaine veille cron
+1️⃣ 🤖 Claude in Chrome — GA tous plans Max
+📌 Navigation autonome dans Chrome, safety classifier anti-injection, disponible maintenant
+💡 Automatise admin Shopify PURESOLE sans scripts (stocks, descriptions)
+⚡ Activer Claude for Chrome → tester sur admin Shopify PURESOLE
 ━━━━━━━━━━━━━━━
-2️⃣ 🧠 claude-obsidian : vault Obsidian auto-organisé
-📌 Drop une source → Claude link+file dans graphe Markdown local (27 août, GitHub Trending)
-💡 Transforme les recherches TT/PURESOLE en KB structurée sans cloud
-⚡ git clone AgriciDaniel/claude-obsidian, tester avec 3 digests veille
+2️⃣ 🛒 Shopify Script Tags — Deadline oct 2026
+📌 createScriptTag bloqué 1er oct, scripts stoppés 1er mars 2027, toutes API versions
+💡 Apps tracking/chat/upsell TT+PURESOLE peuvent casser silencieusement
+⚡ Admin → Apps → vérifier les apps ScriptTags, contacter éditeurs
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 MCP 2026-07-28 stateless : 400M DL, sur Claude
-📌 Core stateless (serverless-ready), OAuth durci, extensions Apps+Tasks
-💡 MCP Shopify pour PURESOLE déployable sur Vercel sans sessions
-⚡ Vérifier version MCP Shopify → migrer si < 2026-07-28
+3️⃣ 📊 AI+Human UGC — Coût test créa -70%
+📌 AI pour tester 15-30 hooks/mois, créateurs réels pour scaler les winners
+💡 PURESOLE: 10 hooks AI à $50, 1 vrai creator à $200 sur le winner
+⚡ Créer compte Arcads trial → 3 hooks best-seller → test $5/j 3 jours
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Arcads meilleur UGC IA $500+/mois Meta/TikTok (adskull.io)
-🤖 Auto mode défaut Claude Code 14 août (89% actions bloquées)
-🧠 obsidian-second-brain : 45 cmds, agents nocturnes vault
-🛒 ⚠️ Storefront MCP cart DEAD aujourd'hui → migrer /api/ucp/mcp
-🔌 MCP servers: security fixes filesystem+containers (28-30 août)
+📊 Arcads OmniHuman 1.5 — full-body gestures, idéal hooks TikTok <400 chars
+🤖 Sonnet 5 prix stabilisé $2/$10/MTok — pas d'augmentation 1er sept
+🧠 AI Context Pack Obsidian — exporte vault vers Claude/NotebookLM en 1 clic
+🛒 Shopify Retail Roundup Q3 — POS Printing API + B2B discounts nouveaux stores
+🔌 Front MCP listé répertoire Claude — SAV PURESOLE connecté à Claude Code

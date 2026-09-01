@@ -1,11 +1,3 @@
-https://www.aljazeera.com/economy/2026/7/1/us-lifts-restrictions-on-powerful-ai-models-fable-mythos-anthropic-says
-https://www.statnews.com/2026/06/30/anthropic-release-claude-science-ceo-dario-amodei/
-https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding
-https://9to5mac.com/2026/07/07/anthropic-expanding-claude-cowork-to-mobile-and-web-details-here/
-https://code.claude.com/docs/en/changelog
-https://shopify.dev/docs/apps/build/ai-toolkit
-https://www.modernmarketinginstitute.com/blog/12-advanced-meta-ads-strategies-that-profitable-brands-are-using-in-2026
-https://sociavault.com/blog/tiktok-ad-creative-trends-2026
 https://blog.mean.ceo/startup-news-tiktok-ad-creative-shelf-life-2026-guide-tips-mistakes/
 https://aiadvantageagency.com/facebook-ads-creative-testing/
 https://www.mindstudio.ai/blog/build-ai-second-brain-claude-code-obsidian
@@ -198,3 +190,11 @@ https://github.com/eugeniughelbur/obsidian-second-brain
 https://sherocommerce.com/blogs/commerce-jam/commerce-jam-august-2026
 https://community.shopify.dev/t/after-aug-31-will-the-deprecated-storefront-mcp-cart-tools-stop-responding-or-just-be-unsupported/37178
 https://creatify.ai/blog/tiktok-ads-complete-guide-to-creating-high-performing-creatives-in-2026
+https://anthropic.com/news/claude-for-chrome
+https://shopify.dev/changelog/online-store-script-tags-deprecation
+https://www.hyperfx.ai/blog/best-ai-ugc-tools-for-ads-2026
+https://aifunnelinsider.com/arcads-ai-review-2026/
+https://www.scriptbyai.com/anthropic-claude-timeline/
+https://community.obsidian.md/plugins/context-pack-for-notebooklm
+https://www.shopify.com/blog/retail-release-roundup
+https://community.front.com/beta-mcp-server-83/the-mcp-server-is-now-listed-in-the-claude-directory-3995
