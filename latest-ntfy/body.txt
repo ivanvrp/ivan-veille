@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Code --restricted : lockdown cron
-📌 Mode lockdown v2.1.248 (28 août) : retire shell+WebFetch, confine au CWD
-💡 Sécurise les routines veille-360 et agents auto TempleTwins/PURESOLE
-⚡ Tester CLAUDE_CODE_RESTRICTED=1 sur la prochaine veille cron
+1️⃣ 🤖 Claude Fable 5.1 + Mythos 5.1 lancés
+📌 Nouveaux modèles Anthropic GA (1er sept). Claude Code : cost optimization API, keyless sign-in Console, feedback drafting.
+💡 Passer à claude-fable-5-1 réduit la facture API de tes agents TT/PURESOLE
+⚡ Remplace le model ID dans tes configs Claude Code (5min)
 ━━━━━━━━━━━━━━━
-2️⃣ 🧠 claude-obsidian : vault Obsidian auto-organisé
-📌 Drop une source → Claude link+file dans graphe Markdown local (27 août, GitHub Trending)
-💡 Transforme les recherches TT/PURESOLE en KB structurée sans cloud
-⚡ git clone AgriciDaniel/claude-obsidian, tester avec 3 digests veille
+2️⃣ 🛒 Shopify AI Toolkit — Dev MCP dans Claude Code
+📌 MCP officiel Shopify : 7 outils (doc search, GraphQL validation, Admin API). Install one-liner.
+💡 Modifie tes produits PURESOLE et TT en langage naturel depuis le terminal
+⚡ claude mcp add --transport stdio shopify-dev-mcp -- npx -y @shopify/dev-mcp@latest
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 MCP 2026-07-28 stateless : 400M DL, sur Claude
-📌 Core stateless (serverless-ready), OAuth durci, extensions Apps+Tasks
-💡 MCP Shopify pour PURESOLE déployable sur Vercel sans sessions
-⚡ Vérifier version MCP Shopify → migrer si < 2026-07-28
+3️⃣ 🔌 MCP Roadmap 2026 — Stateless + DPoP
+📌 MCP devient stateless (scale horizontal sans état). Roadmap : HTTP-native, identité agent DPoP, Tasks extension.
+💡 Comprendre la direction avant d'intégrer des patterns dépréciés dans 2 releases
+⚡ Lis le roadmap MCP (10min) → identifie tes MCPs encore stateful
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Arcads meilleur UGC IA $500+/mois Meta/TikTok (adskull.io)
-🤖 Auto mode défaut Claude Code 14 août (89% actions bloquées)
-🧠 obsidian-second-brain : 45 cmds, agents nocturnes vault
-🛒 ⚠️ Storefront MCP cart DEAD aujourd'hui → migrer /api/ucp/mcp
-🔌 MCP servers: security fixes filesystem+containers (28-30 août)
+📊 UGC IA : $11/vidéo vs $500 humain, 4x CTR Meta — tester Arcads Pro pour TT
+🤖 Claude Academy lancée — hub formation IA avec cours et badges Anthropic
+🧠 NotebookLM + Claude combo : NLM workspace transient → notes atomiques Obsidian
+🛒 Shopify Knowledge Base App : optimiser données pour AI shopping agents (ChatGPT, Meta AI)
+🔌 Cloudflare MCP v2 : hosting natif Workers pour serveurs MCP stateless zero-config
