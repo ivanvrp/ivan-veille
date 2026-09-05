@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Code --restricted : lockdown cron
-📌 Mode lockdown v2.1.248 (28 août) : retire shell+WebFetch, confine au CWD
-💡 Sécurise les routines veille-360 et agents auto TempleTwins/PURESOLE
-⚡ Tester CLAUDE_CODE_RESTRICTED=1 sur la prochaine veille cron
+1️⃣ 🤖 Claude Fable 5.1 : cache -75%, perf x2
+📌 Fable 5.1 devance Opus 5 sur toutes catégories. Cache reads à 1/4 du coût. Bêta : effort adjustment mid-session.
+💡 Routines veille-360 et agents PURESOLE : coût des runs auto divisé par 4
+⚡ Remplacer claude-fable-5 → claude-fable-5-1 dans la config veille
 ━━━━━━━━━━━━━━━
-2️⃣ 🧠 claude-obsidian : vault Obsidian auto-organisé
-📌 Drop une source → Claude link+file dans graphe Markdown local (27 août, GitHub Trending)
-💡 Transforme les recherches TT/PURESOLE en KB structurée sans cloud
-⚡ git clone AgriciDaniel/claude-obsidian, tester avec 3 digests veille
+2️⃣ 🛒 Commerce Agents Blueprint (Apache-2.0)
+📌 Anthropic publie shopping agent + merchant agent open-source. Shopify live. Paniers +35%, conversion +60%.
+💡 Blueprint clé en main pour un assistant PURESOLE catalogue en langage naturel
+⚡ Cloner le repo + lire README du shopping agent pour connexion Shopify UCP
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 MCP 2026-07-28 stateless : 400M DL, sur Claude
-📌 Core stateless (serverless-ready), OAuth durci, extensions Apps+Tasks
-💡 MCP Shopify pour PURESOLE déployable sur Vercel sans sessions
-⚡ Vérifier version MCP Shopify → migrer si < 2026-07-28
+3️⃣ 🔌 MCP Roadmap : agent identity + HTTP-native
+📌 5 priorités next-spec : server push, HTTP unifié, OAuth agent sans API key partagée.
+💡 Agents PURESOLE pourront s'authentifier Shopify via OAuth/OIDC proprement
+⚡ Lire section "Agent identity" sur blog.modelcontextprotocol.io
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Arcads meilleur UGC IA $500+/mois Meta/TikTok (adskull.io)
-🤖 Auto mode défaut Claude Code 14 août (89% actions bloquées)
-🧠 obsidian-second-brain : 45 cmds, agents nocturnes vault
-🛒 ⚠️ Storefront MCP cart DEAD aujourd'hui → migrer /api/ucp/mcp
-🔌 MCP servers: security fixes filesystem+containers (28-30 août)
+📊 Meta Advantage+ : AI Dubbing + Predictive Budget +8-15% ROAS
+🤖 Claude Code sept. : feedback drafting + batch mode auto-suggéré
+🧠 Agent Client plugin Obsidian : Claude Code dans la sidebar du vault
+🛒 Shopify API 2026-10 : lastIncompleteCheckout supprimé — migrer avant oct.
+🔌 Cloudflare MCP v2 : edge-native, Workers, OAuth natif
