@@ -1,23 +1,21 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH (3 cette semaine)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Fable 5.1 : cache -75%, perf x2
-📌 Fable 5.1 devance Opus 5 sur toutes catégories. Cache reads à 1/4 du coût. Bêta : effort adjustment mid-session.
-💡 Routines veille-360 et agents PURESOLE : coût des runs auto divisé par 4
-⚡ Remplacer claude-fable-5 → claude-fable-5-1 dans la config veille
+1️⃣ Claude Fable 5.1 — game changer for agents
+💡 Score agent doublé, cache reads -75% (0.25$/M tokens)
+⚡ Switcher vers claude-fable-5-1 dans Claude Code
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Commerce Agents Blueprint (Apache-2.0)
-📌 Anthropic publie shopping agent + merchant agent open-source. Shopify live. Paniers +35%, conversion +60%.
-💡 Blueprint clé en main pour un assistant PURESOLE catalogue en langage naturel
-⚡ Cloner le repo + lire README du shopping agent pour connexion Shopify UCP
+2️⃣ Claude Commerce Agents Blueprint (Apache 2.0)
+💡 Agents shopper + merchant open-source, Shopify Day-1
+⚡ Lire blueprint → identifier 2-3 workflows PURESOLE
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 MCP Roadmap : agent identity + HTTP-native
-📌 5 priorités next-spec : server push, HTTP unifié, OAuth agent sans API key partagée.
-💡 Agents PURESOLE pourront s'authentifier Shopify via OAuth/OIDC proprement
-⚡ Lire section "Agent identity" sur blog.modelcontextprotocol.io
+3️⃣ /skill-doctor — Audit skills inutilisés (Claude Code 4 sept)
+💡 Nouvelle commande pour purger skills obsolètes
+⚡ Lancer /skill-doctor sur tous tes projets Claude Code
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 Meta Advantage+ : AI Dubbing + Predictive Budget +8-15% ROAS
-🤖 Claude Code sept. : feedback drafting + batch mode auto-suggéré
-🧠 Agent Client plugin Obsidian : Claude Code dans la sidebar du vault
-🛒 Shopify API 2026-10 : lastIncompleteCheckout supprimé — migrer avant oct.
-🔌 Cloudflare MCP v2 : edge-native, Workers, OAuth natif
+🚀 SKILLS PROPOSÉS : 3
+• shopify-debug-master — diagnostique bugs Liquid/JS
+• ecom-trend-explorer — opportunités produits streetwear
+• dropship-supply-optimizer — supply chain PURESOLE
+━━━━━━━━━━━━━━━
+💡 Insight cross-vidéos :
+Fable 5.1 + Commerce Agents + managedMcpServers = l'agent e-commerce 24/7 devient viable pour un solo founder cette semaine
