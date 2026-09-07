@@ -1,23 +1,18 @@
-🔥 TOP 3 (à actionner)
+🔥 TOP 2 (seuil score ≥7 atteint sur 2 items seulement)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Fable 5.1 : cache -75%, perf x2
-📌 Fable 5.1 devance Opus 5 sur toutes catégories. Cache reads à 1/4 du coût. Bêta : effort adjustment mid-session.
-💡 Routines veille-360 et agents PURESOLE : coût des runs auto divisé par 4
-⚡ Remplacer claude-fable-5 → claude-fable-5-1 dans la config veille
+1️⃣ 🤖 Claude API mid-conv tool changes beta
+📌 Ajoute/retire des tools entre turns sans invalider le cache prompt — header beta 2026-07-01, dispo Fable 5.1
+💡 Pourquoi Ivan : veille-360 active WebFetch uniquement pendant l'enrichissement Top 3 → économie cache directe
+⚡ Lire platform.claude.com/docs/en/build-with-claude/mid-conversation-system-messages
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Commerce Agents Blueprint (Apache-2.0)
-📌 Anthropic publie shopping agent + merchant agent open-source. Shopify live. Paniers +35%, conversion +60%.
-💡 Blueprint clé en main pour un assistant PURESOLE catalogue en langage naturel
-⚡ Cloner le repo + lire README du shopping agent pour connexion Shopify UCP
-━━━━━━━━━━━━━━━
-3️⃣ 🔌 MCP Roadmap : agent identity + HTTP-native
-📌 5 priorités next-spec : server push, HTTP unifié, OAuth agent sans API key partagée.
-💡 Agents PURESOLE pourront s'authentifier Shopify via OAuth/OIDC proprement
-⚡ Lire section "Agent identity" sur blog.modelcontextprotocol.io
+2️⃣ 🛒 Shopify Hydrogen 2 sept : cart refresh + HTTPS local
+📌 Cart.refresh() synchronise le panier après modifs server-side ; HTTPS local Customer Account en 1 commande
+💡 Pourquoi Ivan : corrige le bug PURESOLE panier non mis à jour après discount server-side
+⚡ npx shopify hydrogen dev --preview → tester cart.refresh() dans la PDP locale
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta Advantage+ : AI Dubbing + Predictive Budget +8-15% ROAS
-🤖 Claude Code sept. : feedback drafting + batch mode auto-suggéré
-🧠 Agent Client plugin Obsidian : Claude Code dans la sidebar du vault
-🛒 Shopify API 2026-10 : lastIncompleteCheckout supprimé — migrer avant oct.
-🔌 Cloudflare MCP v2 : edge-native, Workers, OAuth natif
+📊 Meta Brand Memory AI entraîne gen créa sur 18 mois d'ads (pilot WPP, rollout "soon")
+🤖 Claude Code batch auto-suggest quand session dépasse seuil coût (sept. 2026)
+🧠 Skill notebooklm-to-obsidian-sync : graph Obsidian en 3 commandes terminal
+🛒 Mobile CVR 1.8% vs desktop 3.9% — PDP mobile = priorité CRO #1
+🔌 Pipedrive MCP natif OAuth $9/mois — CRM langage naturel dans Claude
