@@ -1,13 +1,3 @@
-https://releasebot.io/updates/shopify
-https://www.anthropic.com/news/reflect-with-claude
-https://www.trackbee.io/blog/meta-off-platform-data-opt-out
-https://commonthreadco.com/blogs/coachs-corner/meta-off-platform-data-change-july-2026-ecommerce
-https://ads.tiktok.com/help/article/gmv-max-migration-tiktok-shop-ads
-https://www.china-dropshipping-agent.com/posts/tiktok-shop-gmv-max-becomes-mandatory-advertising-changes-for-dropshippers-explained
-https://naniza.io/blog/how-to-scale-meta-ads-for-ecommerce-in-2026
-https://www.stackmatix.com/blog/tiktok-creative-center-guide
-https://www.anthropic.com/news/claude-corps
-https://aimaker.substack.com/p/ai-second-brain-obsidian
 https://shopify.dev/changelog/identity-verification-for-partners
 https://www.huptechweb.com/blogs/shopify-changelog-guide
 https://www.shopify-customize.com/blog/shopify-updates-you-need-to-know-july-2026
@@ -198,3 +188,13 @@ https://github.com/deivid11/obsidian-claude-code-plugin
 https://blog.cloudflare.com/mcp-v2/
 https://windowsforum.com/threads/shopify-2026-agentic-commerce-catalog-ucp-checkout-and-ai-shopping-power.427954/
 https://www.firstpier.com/resources/shopify-new-features
+https://www.youtube.com/shorts/yeMhldEJLN4
+https://claude.com/blog/claude-for-commerce-agents
+https://code.claude.com/docs/en/changelog
+https://www.youtube.com/watch?v=OVm2AGTxYuE
+https://www.youtube.com/watch?v=RRW4S7lVMFc
+https://dev.to/williamwangai/claude-code-skills-vs-mcp-servers-what-to-use-how-to-install-and-the-best-ones-in-2026-548k
+https://okhlopkov.com/claude-code-setup-mcp-hooks-skills-2026/
+https://claudefa.st/blog/tools/mcp-extensions/shopify-ai-toolkit
+https://9to5mac.com/2026/09/01/anthropic-upgrades-claude-with-new-fable-5-1-model-details-here/
+https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/
