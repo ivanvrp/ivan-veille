@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Enterprise Frontier Safeguards — Anthropic
-📌 Logs Claude stockés dans TON cloud (S3/Azure/GCS), monitoring auto sans accès humain Anthropic. Gratuit Enterprise, rollout automne 2026.
-💡 TT/PURESOLE → API Claude Enterprise = RGPD-compliant sans friction client
-⚡ Lire anthropic.com/news/enterprise-frontier-safeguards + noter éligibilité dans Obsidian
+1️⃣ 🛒 Shopify stocks = quantité physique réelle (sep 1)
+📌 Rapports inventaire passent de "available" à "on-hand" — chiffres gonflés vs avant. Comparaisons historiques faussées si tu traverses le 1er sept.
+💡 TT/PURESOLE : re-baseline ABC analysis & days remaining maintenant
+⚡ Admin → Analytics → Inventory → noter valeurs actuelles tag #baseline-sept-2026
 ━━━━━━━━━━━━━━━
-2️⃣ 🤖 Claude Code Function Hooks TypeScript — early access
-📌 Flag CLAUDE_CODE_ENABLE_FUNCTION_HOOKS=1 (build 2.1.260). Module TS wrappe le moteur Claude Code, style Express. UI, questions, outils custom en un hook.
-💡 Automatiser workflow TT sans bash — checklist Shopify pre-push, format commit prod
-⚡ export CLAUDE_CODE_ENABLE_FUNCTION_HOOKS=1 → lancer /plugin-types
+2️⃣ 🤖 Claude Inference Hooks beta — DLP temps réel
+📌 Chaque prompt envoyé à un webhook sécu externe (allow/deny) avant Claude. Compatible Zscaler, Palo Alto. Protocol open spec.
+💡 Scale Claude Enterprise sur données clients PURESOLE sans risque fuite RGPD
+⚡ Lire blog Check Point (inference hooks) + vérifier éligibilité beta Enterprise
 ━━━━━━━━━━━━━━━
-3️⃣ 🛒 Shopify Hydrogen Sep 2 — HTTPS local auto + cart refresh
-📌 Certs HTTPS locaux créés auto pour Customer Account tests. Plus de config manuelle. Cart refresh API ajoutée pour reload panier server-side.
-💡 Dev cycle Hydrogen TT/PURESOLE : login local en 1 commande maintenant
-⚡ npm install @shopify/hydrogen@latest → shopify hydrogen dev
+3️⃣ 🧠 obsidian-knowledge-ai : NbLM-style RAG local dans Obsidian
+📌 Plugin open-source : chat IA + citations sur vault entier, retrieval hybride BM25+vector, multi-format MD/PDF/DOCX/XLS
+💡 Vault Veille/auto/ devient interrogeable localement — zéro cloud
+⚡ Cloner github.com/david46liu/obsidian-knowledge-ai + pointer sur vault veille
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Hook rate benchmarks 2026 : Meta ≥30%, TikTok ≥35% — KPI #1 à checker sur tes campagnes actives
-🤖 Claude Code sept. : PreModelSwitch hook + duration_ms dans PostToolUse
-🧠 Pipeline YouTube→NotebookLM→infographic en 1 cmd Claude Code (@monokern)
-🛒 Agentic Storefronts Shopify : ×13 commandes IA Q1 — vérifier produits dans Catalog
-🔌 18 MCP Servers pour solo founder avec cmds install (swanbase.co)
+📊 Meta fashion ROAS median 2.18x (top 6x) — recalibrer KPIs campagnes TT/PURESOLE
+🤖 Apple Xcode 26.3 + Claude Agent SDK natif — agentic coding iOS sans quitter l'IDE
+🧠 XDA : NbLM + Obsidian combo terrain — < 20min/j pour capter et connecter notes
+🛒 Shopify changeFromQuantity API — compare-and-swap inventaire sans race condition
+🔌 Claude Code managedMcpServers — déployer MCPs orga en 1 ligne settings
