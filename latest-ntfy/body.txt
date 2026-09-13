@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Enterprise Frontier Safeguards — Anthropic
-📌 Logs Claude stockés dans TON cloud (S3/Azure/GCS), monitoring auto sans accès humain Anthropic. Gratuit Enterprise, rollout automne 2026.
-💡 TT/PURESOLE → API Claude Enterprise = RGPD-compliant sans friction client
-⚡ Lire anthropic.com/news/enterprise-frontier-safeguards + noter éligibilité dans Obsidian
+1️⃣ 📊 Meta Advantage+ : vidéo auto depuis tes photos produit
+📌 Upload photos PURESOLE → Meta génère vidéos Stories/Reels auto. Réduit coûts créa de 40%.
+💡 PURESOLE passe au video-first sans shooting ni montage
+⚡ Ads Manager → Advantage+ → "Creative enhancements" → upload 3 photos → preview vidéo
 ━━━━━━━━━━━━━━━
-2️⃣ 🤖 Claude Code Function Hooks TypeScript — early access
-📌 Flag CLAUDE_CODE_ENABLE_FUNCTION_HOOKS=1 (build 2.1.260). Module TS wrappe le moteur Claude Code, style Express. UI, questions, outils custom en un hook.
-💡 Automatiser workflow TT sans bash — checklist Shopify pre-push, format commit prod
-⚡ export CLAUDE_CODE_ENABLE_FUNCTION_HOOKS=1 → lancer /plugin-types
+2️⃣ 🤖 Xcode 26.3 intègre Claude Agent SDK natif (Anthropic officiel)
+📌 Subagents + plugins Swift dans Xcode. Claude voit les previews SwiftUI et corrige en boucle.
+💡 Dev app mobile TT/PURESOLE sans quitter l'IDE
+⚡ Mettre à jour Xcode v26.3 → activer "Claude Agent" → tester sur un fichier SwiftUI
 ━━━━━━━━━━━━━━━
-3️⃣ 🛒 Shopify Hydrogen Sep 2 — HTTPS local auto + cart refresh
-📌 Certs HTTPS locaux créés auto pour Customer Account tests. Plus de config manuelle. Cart refresh API ajoutée pour reload panier server-side.
-💡 Dev cycle Hydrogen TT/PURESOLE : login local en 1 commande maintenant
-⚡ npm install @shopify/hydrogen@latest → shopify hydrogen dev
+3️⃣ 🔌 managedMcpServers : Claude Code push MCP à toute l'org
+📌 v2.1.259 : les admins poussent HTTP/SSE MCP à tous sans .mcp.json. Headless mode = crons sans interruption.
+💡 1 MCP Shopify Analytics → toute l'équipe l'hérite automatiquement
+⚡ Ajouter managedMcpServers dans .claude/settings.json org-level
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Hook rate benchmarks 2026 : Meta ≥30%, TikTok ≥35% — KPI #1 à checker sur tes campagnes actives
-🤖 Claude Code sept. : PreModelSwitch hook + duration_ms dans PostToolUse
-🧠 Pipeline YouTube→NotebookLM→infographic en 1 cmd Claude Code (@monokern)
-🛒 Agentic Storefronts Shopify : ×13 commandes IA Q1 — vérifier produits dans Catalog
-🔌 18 MCP Servers pour solo founder avec cmds install (swanbase.co)
+📊 TikTok Live co-hosted streams : 7,8% CVR — flash sales 11,2% → tester avec créateur
+🤖 Claude API mid-conv tool changes beta — ajouter/retirer outils sans casser le cache
+🧠 NotebookLM MCP (GitHub PleasePrompto) — agents Claude interrogent tes notebooks avec citations
+🛒 CRO Shopify : post-purchase upsell = surface la plus sous-exploitée 2026
+🔌 Shopify MCP GA Plus : catalogue structuré = plus de reco par agents IA
