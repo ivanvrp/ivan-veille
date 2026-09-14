@@ -1,0 +1,1 @@
+NTFY_FAIL: proxy 403 Forbidden - ntfy.sh bloqué par egress proxy - Mon Sep 14 07:22:00 UTC 2026

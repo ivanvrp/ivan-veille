@@ -1,23 +1,22 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH (3 analysés Gemini)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Enterprise Frontier Safeguards — Anthropic
-📌 Logs Claude stockés dans TON cloud (S3/Azure/GCS), monitoring auto sans accès humain Anthropic. Gratuit Enterprise, rollout automne 2026.
-💡 TT/PURESOLE → API Claude Enterprise = RGPD-compliant sans friction client
-⚡ Lire anthropic.com/news/enterprise-frontier-safeguards + noter éligibilité dans Obsidian
+1️⃣ GOING DEEPER with CLAUDE — Skills, MCP, Scheduled Tasks
+💡 Skills = packs réutilisables, MCP = USB-C IA, best practices Claude Code concrets
+⚡ Tester /skill-creator pour créer ton 1er skill e-com en 5 min
 ━━━━━━━━━━━━━━━
-2️⃣ 🤖 Claude Code Function Hooks TypeScript — early access
-📌 Flag CLAUDE_CODE_ENABLE_FUNCTION_HOOKS=1 (build 2.1.260). Module TS wrappe le moteur Claude Code, style Express. UI, questions, outils custom en un hook.
-💡 Automatiser workflow TT sans bash — checklist Shopify pre-push, format commit prod
-⚡ export CLAUDE_CODE_ENABLE_FUNCTION_HOOKS=1 → lancer /plugin-types
+2️⃣ What Claude Code Can Do That You Haven't Tried (NDC AI)
+💡 96 commandes slash dont 90% inconnues — /btw, /loop, /batch, /compact, /remote-control
+⚡ Auditer CLAUDE.md avec les 3 questions → -20% coût immédiat
 ━━━━━━━━━━━━━━━
-3️⃣ 🛒 Shopify Hydrogen Sep 2 — HTTPS local auto + cart refresh
-📌 Certs HTTPS locaux créés auto pour Customer Account tests. Plus de config manuelle. Cart refresh API ajoutée pour reload panier server-side.
-💡 Dev cycle Hydrogen TT/PURESOLE : login local en 1 commande maintenant
-⚡ npm install @shopify/hydrogen@latest → shopify hydrogen dev
+3️⃣ Claude Code MCP — How to Add MCP Servers Full Tutorial
+💡 GUI + CLI pour connecter Shopify/Klaviyo/GA4 à Claude en <5 min
+⚡ claude mcp add -s user --transport http <nom> <url-api>
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 Hook rate benchmarks 2026 : Meta ≥30%, TikTok ≥35% — KPI #1 à checker sur tes campagnes actives
-🤖 Claude Code sept. : PreModelSwitch hook + duration_ms dans PostToolUse
-🧠 Pipeline YouTube→NotebookLM→infographic en 1 cmd Claude Code (@monokern)
-🛒 Agentic Storefronts Shopify : ×13 commandes IA Q1 — vérifier produits dans Catalog
-🔌 18 MCP Servers pour solo founder avec cmds install (swanbase.co)
+🚀 SKILLS PROPOSÉS : 4
+1. /shopify-sales-summarizer — résumé ventes daily via MCP
+2. /shopify-ops-monitor — alertes ntfy stock/CPA/commandes bloquées
+3. /claude-md-auditor — optimise CLAUDE.md → perf + coût
+4. /ecommerce-mcp-connector — onboarding MCP guidé <5 min
+━━━━━━━━━━━━━━━
+💡 Insight cross-vidéos :
+Skills + MCP + Hooks = le trio du solo founder agentique — connecte un MCP Shopify + 1 skill ventes pour libérer 20-30h/semaine de boulot répétitif.
