@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Enterprise Frontier Safeguards — Anthropic
-📌 Logs Claude stockés dans TON cloud (S3/Azure/GCS), monitoring auto sans accès humain Anthropic. Gratuit Enterprise, rollout automne 2026.
-💡 TT/PURESOLE → API Claude Enterprise = RGPD-compliant sans friction client
-⚡ Lire anthropic.com/news/enterprise-frontier-safeguards + noter éligibilité dans Obsidian
+1️⃣ 🤖 Claude Code `plugin eval` — Week 37
+📌 Mesure la contribution réelle de ton plugin : scores avec vs sans, JSON + HTML report. `claude plugin eval init` génère les cas de test.
+💡 Tester tes plugins TT/PURESOLE avant déploiement prod
+⚡ cd ton-plugin && claude plugin eval init
 ━━━━━━━━━━━━━━━
-2️⃣ 🤖 Claude Code Function Hooks TypeScript — early access
-📌 Flag CLAUDE_CODE_ENABLE_FUNCTION_HOOKS=1 (build 2.1.260). Module TS wrappe le moteur Claude Code, style Express. UI, questions, outils custom en un hook.
-💡 Automatiser workflow TT sans bash — checklist Shopify pre-push, format commit prod
-⚡ export CLAUDE_CODE_ENABLE_FUNCTION_HOOKS=1 → lancer /plugin-types
+2️⃣ 🛒 Shopify WhatsApp consent au checkout (10 sept.)
+📌 Opt-in WhatsApp capturé à la commande, direct en CRM. Taux ouverture ×3-5 vs email.
+💡 Canal CRM gratuit pour relances PURESOLE post-achat
+⚡ Settings → Checkout → Marketing opt-in → WhatsApp
 ━━━━━━━━━━━━━━━
-3️⃣ 🛒 Shopify Hydrogen Sep 2 — HTTPS local auto + cart refresh
-📌 Certs HTTPS locaux créés auto pour Customer Account tests. Plus de config manuelle. Cart refresh API ajoutée pour reload panier server-side.
-💡 Dev cycle Hydrogen TT/PURESOLE : login local en 1 commande maintenant
-⚡ npm install @shopify/hydrogen@latest → shopify hydrogen dev
+3️⃣ 🤖 Claude Code 14 sept. — omitClaudeMd + allowed_domains
+📌 Lance des sous-agents propres sans polluer avec tes CLAUDE.md locaux. Per-cmd allowed_domains réduit les prompts de permission.
+💡 Agents spécialisés TT sans instructions parasites
+⚡ Ajouter omitClaudeMd: true dans frontmatter de tes agents
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Hook rate benchmarks 2026 : Meta ≥30%, TikTok ≥35% — KPI #1 à checker sur tes campagnes actives
-🤖 Claude Code sept. : PreModelSwitch hook + duration_ms dans PostToolUse
-🧠 Pipeline YouTube→NotebookLM→infographic en 1 cmd Claude Code (@monokern)
-🛒 Agentic Storefronts Shopify : ×13 commandes IA Q1 — vérifier produits dans Catalog
-🔌 18 MCP Servers pour solo founder avec cmds install (swanbase.co)
+📊 TikTok: broad targeting > interest stacks, ≥50$/j, 2-3x ROAS niches impulse
+🤖 maxEffortLevel: cap effort level par provider (Bedrock/GCP/Foundry) v2.1.269
+🧠 Second Brain 2026 Playbook (dev.to) — Obsidian + Claude Code setup complet
+🛒 Multi-currency payouts AU+FR (13-18 devises), WhatsApp Forms aussi dispo
+🔌 Anthropic MCP Slack server archivé (9 sept.) — migrer vers fork communautaire
