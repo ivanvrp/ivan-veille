@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Code `plugin eval` — Week 37
-📌 Mesure la contribution réelle de ton plugin : scores avec vs sans, JSON + HTML report. `claude plugin eval init` génère les cas de test.
-💡 Tester tes plugins TT/PURESOLE avant déploiement prod
-⚡ cd ton-plugin && claude plugin eval init
+1️⃣ 🤖 Claude Code v2.1.274 — Transcript auto-heal
+📌 Sessions bloquées sur erreur 400 corrigées automatiquement. CLAUDE_CODE_MCP_STARTUP_WAIT_MS pour contrôler l'init MCP. 40+ fixes MCP.
+💡 Pipelines cron TT/PURESOLE ne planteront plus sur sessions longues avec MCPs
+⚡ claude update → ajouter CLAUDE_CODE_MCP_STARTUP_WAIT_MS=10000 dans settings.json
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify WhatsApp consent au checkout (10 sept.)
-📌 Opt-in WhatsApp capturé à la commande, direct en CRM. Taux ouverture ×3-5 vs email.
-💡 Canal CRM gratuit pour relances PURESOLE post-achat
-⚡ Settings → Checkout → Marketing opt-in → WhatsApp
+2️⃣ 🛒 Shopify Admin nouveau look (15 sept.) — Polaris 2.0
+📌 Refonte visuelle complète : nav latérale, Sidekick flottant en bas. Rollout auto. Apps custom → migration Polaris 2.0 à prévoir.
+💡 Vérifier apps custom TT/PURESOLE pour incohérence visuelle post-déploiement
+⚡ Admin → Apps → vérifier le rendu des app homes custom
 ━━━━━━━━━━━━━━━
-3️⃣ 🤖 Claude Code 14 sept. — omitClaudeMd + allowed_domains
-📌 Lance des sous-agents propres sans polluer avec tes CLAUDE.md locaux. Per-cmd allowed_domains réduit les prompts de permission.
-💡 Agents spécialisés TT sans instructions parasites
-⚡ Ajouter omitClaudeMd: true dans frontmatter de tes agents
+3️⃣ 🔌 context-mode 23K★ — MCP qui compresse contexte de 98%
+📌 Tool output 315 KB → 5,4 KB. Mémoire session dans SQLite, survit à la compaction. 17 plateformes dont Claude Code.
+💡 Sessions longues TT (Dawn refacto, gen produits) durent sans compacter
+⚡ npm i -g @mksglu/context-mode → ajouter en mcpServers dans settings.json
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 TikTok: broad targeting > interest stacks, ≥50$/j, 2-3x ROAS niches impulse
-🤖 maxEffortLevel: cap effort level par provider (Bedrock/GCP/Foundry) v2.1.269
-🧠 Second Brain 2026 Playbook (dev.to) — Obsidian + Claude Code setup complet
-🛒 Multi-currency payouts AU+FR (13-18 devises), WhatsApp Forms aussi dispo
-🔌 Anthropic MCP Slack server archivé (9 sept.) — migrer vers fork communautaire
+📊 ads : RAS — WebSearch KO + domaines bloqués ce run
+🤖 Claude : v2.1.273 Gateway hint headers + fork session remote-control (15 sept.)
+🧠 Knowledge : RAS — sources bloquées ce run
+🛒 Shopify : Klaviyo × Shopify locale sync (emails marketing multilingues cohérents)
+🔌 MCP : DeskcommCRM 3K★ CRM MCP-ready WhatsApp IA (+2203 stars/sem)
