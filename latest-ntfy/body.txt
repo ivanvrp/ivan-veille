@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Code `plugin eval` — Week 37
-📌 Mesure la contribution réelle de ton plugin : scores avec vs sans, JSON + HTML report. `claude plugin eval init` génère les cas de test.
-💡 Tester tes plugins TT/PURESOLE avant déploiement prod
-⚡ cd ton-plugin && claude plugin eval init
+1️⃣ 🤖 Claude Code Projects beta — agents parallèles Opus
+📌 Tu décris la mission → Claude découpe en threads parallèles, chacun tourne en cloud Opus sur sa propre branche même laptop fermé
+💡 Solo founder multi-projets : agent CRO TT + agent pub PURESOLE + agent veille en simultané
+⚡ Ouvre Claude Code web → onglet Projects → rejoins la beta (Pro/Max + cloud sessions requis)
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify WhatsApp consent au checkout (10 sept.)
-📌 Opt-in WhatsApp capturé à la commande, direct en CRM. Taux ouverture ×3-5 vs email.
-💡 Canal CRM gratuit pour relances PURESOLE post-achat
-⚡ Settings → Checkout → Marketing opt-in → WhatsApp
+2️⃣ 🛒 Meta = canal IA dans Shopify Agentic Storefronts
+📌 Meta s'intègre aux agents Shopify : push produits, sync catalogue, ajust audiences sans Business Manager
+💡 TT/PURESOLE : centralise Meta dans l'admin Shopify, délègue les MAJ catalogue aux agents
+⚡ Admin → Sales channels → Agentic Storefronts → activer Meta comme canal IA
 ━━━━━━━━━━━━━━━
-3️⃣ 🤖 Claude Code 14 sept. — omitClaudeMd + allowed_domains
-📌 Lance des sous-agents propres sans polluer avec tes CLAUDE.md locaux. Per-cmd allowed_domains réduit les prompts de permission.
-💡 Agents spécialisés TT sans instructions parasites
-⚡ Ajouter omitClaudeMd: true dans frontmatter de tes agents
+3️⃣ 🧠 obsidian-second-brain v0.15 — 45 cmds MCP Claude Code
+📌 Plugin Obsidian : mémoire persistante plain-MD pour Claude Code, recherche sémantique, agents nuit
+💡 Fini le re-briefing : Claude Code lit tout le contexte TT/PURESOLE via MCP vault
+⚡ Installer plugin → claude mcp add obsidian-vault --transport sse → tester /obsidian-knowledge-base
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 TikTok: broad targeting > interest stacks, ≥50$/j, 2-3x ROAS niches impulse
-🤖 maxEffortLevel: cap effort level par provider (Bedrock/GCP/Foundry) v2.1.269
-🧠 Second Brain 2026 Playbook (dev.to) — Obsidian + Claude Code setup complet
-🛒 Multi-currency payouts AU+FR (13-18 devises), WhatsApp Forms aussi dispo
-🔌 Anthropic MCP Slack server archivé (9 sept.) — migrer vers fork communautaire
+📊 Meta hook rate 30%+ = seuil scale 2026 ; Advantage+ Shopping > stacks audience DTC
+🤖 Sonnet 5 prix bloqués $2/$10 MTok + mid-conv tool changes beta Fable5/Opus5
+🧠 RAS (Top 3 couvre l'axe)
+🛒 Nouveau look admin Shopify 15 sept. (Sidekick → floating chat) + POS v11.15 panier mobile
+🔌 managedMcpServers v2.1.259 déploiement org + memory server 5 fixes race condition
