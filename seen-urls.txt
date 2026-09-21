@@ -1,13 +1,3 @@
-https://github.com/eugeniughelbur/obsidian-second-brain
-https://www.anthropic.com/news/claude-science-ai-workbench
-https://support.claude.com/en/articles/12138966-release-notes
-https://www.shopify-customize.com/blog/shopify-updates-you-need-to-know-july-2026
-https://brandmov.com/blog/best-dtc-meta-ad-hooks-2026/
-https://www.adamigo.ai/blog/meta-ads-roas-benchmarks-by-industry-2026
-https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-video-overviews-studio-upgrades/
-https://byteiota.com/mcp-goes-stateless-july-2026-breaking-changes/
-https://www.techtimes.com/articles/320999/20260720/claude-fable-5-billing-splits-today-max-gets-it-free-pro-pays-per-token.htm
-https://changelog.shopify.com/posts/smarter-international-pricing-with-managed-markets
 https://www.stackmatix.com/blog/tiktok-ugc-ads-strategy
 https://www.mbadv.agency/tiktok-ads/strategy-and-trends
 https://www.creativemilkshake.com/blog/tiktok-ad-strategy
@@ -198,3 +188,13 @@ https://changelog.shopify.com/posts/customer-account-api-countrycode
 https://blog.mean.ceo/claude-code-news-september-2026/
 https://ugcvids.ai/vs/arcads-vs-higgsfield
 https://github.com/modelcontextprotocol/servers-archived
+https://www.youtube.com/watch?v=Nhmyrh9I_bA
+https://www.youtube.com/watch?v=EpPuU9k6Ahg
+https://www.youtube.com/watch?v=VC0ec2xD1AE
+https://www.youtube.com/watch?v=SkY-tR9kf-k
+https://www.youtube.com/watch?v=sJVxwwaF0sU
+https://www.youtube.com/watch?v=qpbGtEd23us
+https://www.youtube.com/watch?v=qgYbzDu7hjQ
+https://www.youtube.com/watch?v=NrhsHEmNNo8
+https://code.claude.com/docs/en/changelog
+https://claude.com/blog/claude-for-commerce-agents
