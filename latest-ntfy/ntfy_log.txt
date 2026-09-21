@@ -1,0 +1,2 @@
+NTFY_BLOCKED: proxy 403 on ntfy.sh — 2026-09-21 07:25:42
+NTFY_BODY_SIZE: 1549

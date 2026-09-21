@@ -1,23 +1,23 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH (3 vidéos analysées par Gemini)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Code `plugin eval` — Week 37
-📌 Mesure la contribution réelle de ton plugin : scores avec vs sans, JSON + HTML report. `claude plugin eval init` génère les cas de test.
-💡 Tester tes plugins TT/PURESOLE avant déploiement prod
-⚡ cd ton-plugin && claude plugin eval init
+1️⃣ NEW Claude Code Update is WILD! (Sep 20)
+💡 Claude Code Projects : agents parallèles persistants dans le cloud, tu donnes l'objectif et tu te repose.
+⚡ À regarder maintenant — prépare ton brief projet TempleTwins Hiver
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify WhatsApp consent au checkout (10 sept.)
-📌 Opt-in WhatsApp capturé à la commande, direct en CRM. Taux ouverture ×3-5 vs email.
-💡 Canal CRM gratuit pour relances PURESOLE post-achat
-⚡ Settings → Checkout → Marketing opt-in → WhatsApp
+2️⃣ Claude Can Now Do EVERYTHING on Shopify
+💡 Shopify AI Toolkit : audit SEO alt tags + analyse CVR + opportunités AOV en 3 prompts.
+⚡ /plugin marketplace add Shopify/shopify-ai-toolkit — teste sur PURESOLE ce soir
 ━━━━━━━━━━━━━━━
-3️⃣ 🤖 Claude Code 14 sept. — omitClaudeMd + allowed_domains
-📌 Lance des sous-agents propres sans polluer avec tes CLAUDE.md locaux. Per-cmd allowed_domains réduit les prompts de permission.
-💡 Agents spécialisés TT sans instructions parasites
-⚡ Ajouter omitClaudeMd: true dans frontmatter de tes agents
+3️⃣ Boutique Shopify complète avec Claude IA (FR, 38 min)
+💡 Méthode White Labeler : analyse concurrent → wireframe HTML → copywriting → images Higgsfield → Shopify en 24h.
+⚡ Applicable au prochain produit PURESOLE dès maintenant
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 TikTok: broad targeting > interest stacks, ≥50$/j, 2-3x ROAS niches impulse
-🤖 maxEffortLevel: cap effort level par provider (Bedrock/GCP/Foundry) v2.1.269
-🧠 Second Brain 2026 Playbook (dev.to) — Obsidian + Claude Code setup complet
-🛒 Multi-currency payouts AU+FR (13-18 devises), WhatsApp Forms aussi dispo
-🔌 Anthropic MCP Slack server archivé (9 sept.) — migrer vers fork communautaire
+🚀 SKILLS PROPOSÉS : 3
+1. shopify-cro-analyzer — analyse CVR pages Shopify
+2. shopify-aov-strategist — bundles + cross-sell basés sur données réelles
+3. ecom-project-planner — objectif → ROADMAP multi-agents parallèles
+━━━━━━━━━━━━━━━
+📦 NEWS : Claude Code v2.1.278 — AGENTS.md fallback + skills sync claude.ai → terminal
+🛒 Claude Commerce Agents open-source : +35% panier moyen (Anthropic + Shopify)
+━━━━━━━━━━━━━━━
+💡 Insight : Claude devient l'OS du solo founder e-com. La pièce manquante = le BRIEF multi-agents.
