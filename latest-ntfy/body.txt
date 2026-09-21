@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Code `plugin eval` — Week 37
-📌 Mesure la contribution réelle de ton plugin : scores avec vs sans, JSON + HTML report. `claude plugin eval init` génère les cas de test.
-💡 Tester tes plugins TT/PURESOLE avant déploiement prod
-⚡ cd ton-plugin && claude plugin eval init
+1️⃣ 🛒 Shopify Admin new look (15 sep)
+📌 Nouvelle UI déployée sur tous les admins : nav latérale, Sidekick flottant, nouvelles couleurs/icônes. Apps App Home custom → migration Polaris 2.0.
+💡 Impact direct TT & PURESOLE quotidien
+⚡ Ouvrir admin stores, tester apps tierces (thème, bulk)
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify WhatsApp consent au checkout (10 sept.)
-📌 Opt-in WhatsApp capturé à la commande, direct en CRM. Taux ouverture ×3-5 vs email.
-💡 Canal CRM gratuit pour relances PURESOLE post-achat
-⚡ Settings → Checkout → Marketing opt-in → WhatsApp
+2️⃣ 🧠 Claudian v2.3.2 — Claude Code dans Obsidian (20 sep)
+📌 Plugin Obsidian embède Claude Code avec contexte éditeur temps réel : vault = working directory agent, voir fichier + sélection.
+💡 Enrichir notes veille sans quitter Obsidian
+⚡ Installer depuis Community Plugins, tester sur une note veille
 ━━━━━━━━━━━━━━━
-3️⃣ 🤖 Claude Code 14 sept. — omitClaudeMd + allowed_domains
-📌 Lance des sous-agents propres sans polluer avec tes CLAUDE.md locaux. Per-cmd allowed_domains réduit les prompts de permission.
-💡 Agents spécialisés TT sans instructions parasites
-⚡ Ajouter omitClaudeMd: true dans frontmatter de tes agents
+3️⃣ 🔌 Claude Code v2.1.259 — Managed MCPs centralisés (3 sep)
+📌 managedMcpServers : déploie Shopify MCP / analytics sur toutes sessions auto.
+💡 Fin du setup MCP répétitif par session
+⚡ claude --version ≥ 2.1.259, ajouter Shopify MCP en managed config
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 TikTok: broad targeting > interest stacks, ≥50$/j, 2-3x ROAS niches impulse
-🤖 maxEffortLevel: cap effort level par provider (Bedrock/GCP/Foundry) v2.1.269
-🧠 Second Brain 2026 Playbook (dev.to) — Obsidian + Claude Code setup complet
-🛒 Multi-currency payouts AU+FR (13-18 devises), WhatsApp Forms aussi dispo
-🔌 Anthropic MCP Slack server archivé (9 sept.) — migrer vers fork communautaire
+📊 TikTok Symphony Agent : brief → vidéo ad native depuis Ads Manager
+🤖 Claude SDK Python v1.0 + Messages API compact à la demande
+🧠 Karpathy : second brain embed+search Obsidian/Claude (méthode publiée)
+🛒 Guide Polaris 2.0 : préparer app pour nouvelle UI Shopify admin
+🔌 ReleasePad MCP Server : agents rédigent changelogs produit (14 sep)
