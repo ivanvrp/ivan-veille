@@ -1,23 +1,23 @@
-🔥 MUST-WATCH (3 vidéos analysées par Gemini)
+🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ NEW Claude Code Update is WILD! (Sep 20)
-💡 Claude Code Projects : agents parallèles persistants dans le cloud, tu donnes l'objectif et tu te repose.
-⚡ À regarder maintenant — prépare ton brief projet TempleTwins Hiver
+1️⃣ 🤖 Claude Opus 5.5 sorti hier — Fable-level à -40%
+📌 $4/$20 par MTok (−20%), cache reads $0.20 (−60%), +30% vitesse, surpasse Fable 5.1
+💡 Switch claude-opus-5 → claude-opus-5-5 → facture API ÷1.67 sans perte qualité
+⚡ Remplacer claude-opus-5 par claude-opus-5-5 dans tes scripts/agents
 ━━━━━━━━━━━━━━━
-2️⃣ Claude Can Now Do EVERYTHING on Shopify
-💡 Shopify AI Toolkit : audit SEO alt tags + analyse CVR + opportunités AOV en 3 prompts.
-⚡ /plugin marketplace add Shopify/shopify-ai-toolkit — teste sur PURESOLE ce soir
+2️⃣ 🛒 Shopify Analytics — nouvelle baseline sessions (21/09)
+📌 Taux de conversion et sessions recalculés depuis hier — comparaisons pré/post invalides
+💡 Tes KPIs TT/PURESOLE ont "sauté" → pas une chute ventes, recalcul Shopify
+⚡ Analytics → annoter 21/09 "Baseline change" + recalibrer dashboards
 ━━━━━━━━━━━━━━━
-3️⃣ Boutique Shopify complète avec Claude IA (FR, 38 min)
-💡 Méthode White Labeler : analyse concurrent → wireframe HTML → copywriting → images Higgsfield → Shopify en 24h.
-⚡ Applicable au prochain produit PURESOLE dès maintenant
+3️⃣ 📊 Meta Creator Hub global — one-click UGC ad creation
+📌 Creator Marketplace + Partnership Ads Hub fusionnés, filtres par catégorie produit
+💡 Trouver créateurs "sneakers/streetwear" déjà actifs pour PURESOLE sans spreadsheet
+⚡ Business Manager → Creator Hub → Discover → filtrer Footwear → 5 créateurs
 ━━━━━━━━━━━━━━━
-🚀 SKILLS PROPOSÉS : 3
-1. shopify-cro-analyzer — analyse CVR pages Shopify
-2. shopify-aov-strategist — bundles + cross-sell basés sur données réelles
-3. ecom-project-planner — objectif → ROADMAP multi-agents parallèles
-━━━━━━━━━━━━━━━
-📦 NEWS : Claude Code v2.1.278 — AGENTS.md fallback + skills sync claude.ai → terminal
-🛒 Claude Commerce Agents open-source : +35% panier moyen (Anthropic + Shopify)
-━━━━━━━━━━━━━━━
-💡 Insight : Claude devient l'OS du solo founder e-com. La pièce manquante = le BRIEF multi-agents.
+📚 Autres axes (1 ligne) :
+📊 ChatGPT Ads product feeds obligatoires — connecter feed Shopify existant pour tester
+🤖 Claude Smart Reports Enterprise bêta — coûts/usage équipe auto-analysés
+🧠 obsidian-second-brain v0.15 — Windows natif + /podcast Whisper/Gemini
+🛒 Shopify Admin nouveau design Polaris 2.0 — déploiement actif depuis 15/09
+🔌 managedMcpServers — push MCP HTTP/SSE centralisé à toute l'équipe Claude Code
