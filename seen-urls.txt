@@ -1,13 +1,3 @@
-https://www.stackmatix.com/blog/tiktok-ugc-ads-strategy
-https://www.mbadv.agency/tiktok-ads/strategy-and-trends
-https://www.creativemilkshake.com/blog/tiktok-ad-strategy
-https://www.bloggersideas.com/claude-now-remembers-you-better/
-https://letsdatascience.com/news/anthropic-brings-claude-code-and-cowork-to-government-06df8bbb
-https://www.digitalapplied.com/blog/claude-code-limits-raised-fable-5-max-team-premium-2026
-https://pasqualepillitteri.it/en/news/2003/notebooklm-claude-permanent-skill-knowledge-distillation-workflow-2026
-https://www.atlasworkspace.ai/blog/notebooklm-vs-claude-projects
-https://mcpmarket.com/tools/skills/notebooklm-to-obsidian-sync
-https://www.fudge.ai/blog/shopify-updates-july-2026/
 https://changelog.shopify.com/posts/collections-now-support-multi-source-and-variants
 https://spyingbee.com/updates/shopify/2026-07
 https://www.developersdigest.tech/blog/mcp-2026-07-28-breaking-changes
@@ -198,3 +188,13 @@ https://www.youtube.com/watch?v=qgYbzDu7hjQ
 https://www.youtube.com/watch?v=NrhsHEmNNo8
 https://code.claude.com/docs/en/changelog
 https://claude.com/blog/claude-for-commerce-agents
+https://www.anthropic.com/claude-opus-5-5
+https://changelog.shopify.com/posts/shopify-analytics-session-measurement-improvements
+https://admakeai.com/blog/meta-ads-updates-september-2026
+https://adventuremedia.ai/blog/chatgpt-ads-for-ecommerce-product-feed-integration-and-shopping-ads-in-2026
+https://releasebot.io/updates/anthropic
+https://github.com/eugeniughelbur/obsidian-second-brain/releases/tag/v0.15
+https://www.the-ai-corner.com/p/obsidian-claude-second-brain-playbook-30-workflows-2026
+https://changelog.shopify.com/posts/see-the-shopify-admins-new-look
+https://code.claude.com/docs/en/managed-mcp
+https://www.macrumors.com/2026/09/22/anthropic-claude-opus-5-5/
