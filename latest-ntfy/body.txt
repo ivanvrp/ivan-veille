@@ -1,23 +1,23 @@
-🔥 MUST-WATCH (3 vidéos analysées par Gemini)
+🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ NEW Claude Code Update is WILD! (Sep 20)
-💡 Claude Code Projects : agents parallèles persistants dans le cloud, tu donnes l'objectif et tu te repose.
-⚡ À regarder maintenant — prépare ton brief projet TempleTwins Hiver
+1️⃣ 🤖 Claude Opus 5.5 — −40% coût, perf Fable 5.1
+📌 Anthropic Sep 22. $4/M input, $20/M output, cache reads −60%, 1M ctx
+💡 Agents Claude Code overnight coûtent 40% moins cher dès maintenant
+⚡ /config model → claude-opus-5-5 dans Claude Code (10 min)
 ━━━━━━━━━━━━━━━
-2️⃣ Claude Can Now Do EVERYTHING on Shopify
-💡 Shopify AI Toolkit : audit SEO alt tags + analyse CVR + opportunités AOV en 3 prompts.
-⚡ /plugin marketplace add Shopify/shopify-ai-toolkit — teste sur PURESOLE ce soir
+2️⃣ 🛒 Shopify Admin redesigné — Sidekick flottant live
+📌 Sep 15, déploiement progressif. Nav latérale, Sidekick x4,8 sessions YoY
+💡 TT + PURESOLE backend change look ; apps auto-adaptées
+⚡ Ouvrir admin → tester Sidekick flottant sur 1 tâche produit
 ━━━━━━━━━━━━━━━
-3️⃣ Boutique Shopify complète avec Claude IA (FR, 38 min)
-💡 Méthode White Labeler : analyse concurrent → wireframe HTML → copywriting → images Higgsfield → Shopify en 24h.
-⚡ Applicable au prochain produit PURESOLE dès maintenant
+3️⃣ 🔌 MCP Memory Server — 3 bugs critiques fixés
+📌 Sep 22 GitHub officiel. Race condition + doublons + crash lecture fixés
+💡 Multi-agent Claude Code : plus de perte silencieuse d'entités graphe
+⚡ npx @modelcontextprotocol/memory@latest → update config MCP
 ━━━━━━━━━━━━━━━
-🚀 SKILLS PROPOSÉS : 3
-1. shopify-cro-analyzer — analyse CVR pages Shopify
-2. shopify-aov-strategist — bundles + cross-sell basés sur données réelles
-3. ecom-project-planner — objectif → ROADMAP multi-agents parallèles
-━━━━━━━━━━━━━━━
-📦 NEWS : Claude Code v2.1.278 — AGENTS.md fallback + skills sync claude.ai → terminal
-🛒 Claude Commerce Agents open-source : +35% panier moyen (Anthropic + Shopify)
-━━━━━━━━━━━━━━━
-💡 Insight : Claude devient l'OS du solo founder e-com. La pièce manquante = le BRIEF multi-agents.
+📚 Autres axes (1 ligne) :
+📊 Andromeda groupe hook-variations — alterner UGC/fondateur/static maintenant
+🤖 Claude Code Projects beta : threads parallèles + shared memory
+🧠 AI Context Pack Obsidian → briefs prêts Claude/NotebookLM en 1 clic
+🛒 Analytics Shopify : filtre bot/humain dès 21/09 → conversion fiable
+🔌 Polar Analytics MCP : queries Shopify en langage naturel via Claude
