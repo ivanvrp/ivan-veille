@@ -1,23 +1,23 @@
-🔥 MUST-WATCH (3 vidéos analysées par Gemini)
+🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ NEW Claude Code Update is WILD! (Sep 20)
-💡 Claude Code Projects : agents parallèles persistants dans le cloud, tu donnes l'objectif et tu te repose.
-⚡ À regarder maintenant — prépare ton brief projet TempleTwins Hiver
+1️⃣ 🔌 Directory Claude Plugins ouvert (MCP 2.0)
+📌 Portail soumission plugins lancé le 25/09. Auto-validation, analytics, MCP 2.0 stateless serverless-ready.
+💡 Packager tes outils Claude (analytics PURESOLE) en plugins publiables dans le directory officiel.
+⚡ Ouvre claude.ai/directory/manage → explore plugins e-com disponibles (15min)
 ━━━━━━━━━━━━━━━
-2️⃣ Claude Can Now Do EVERYTHING on Shopify
-💡 Shopify AI Toolkit : audit SEO alt tags + analyse CVR + opportunités AOV en 3 prompts.
-⚡ /plugin marketplace add Shopify/shopify-ai-toolkit — teste sur PURESOLE ce soir
+2️⃣ 🤖 Claude Opus 5.5 : −40% prix, +30% vitesse
+📌 $4/M input, $20/M output, cache $0.20/M. Égale Fable 5.1. Migration 680k lignes de code en 1 journée.
+💡 Tes agents Claude (veille, fiches produit PURESOLE/TT) coûtent 40% moins cher à faire tourner.
+⚡ Switche ton model ID → claude-opus-5-5 et teste une requête classique
 ━━━━━━━━━━━━━━━
-3️⃣ Boutique Shopify complète avec Claude IA (FR, 38 min)
-💡 Méthode White Labeler : analyse concurrent → wireframe HTML → copywriting → images Higgsfield → Shopify en 24h.
-⚡ Applicable au prochain produit PURESOLE dès maintenant
+3️⃣ 🛒 Shopify Admin redesigné — Sidekick flottant partout
+📌 Nouveau design live depuis 15/09. Sidekick en chat flottant bas de page, sidebar repliable. Usage ×4.8/an.
+💡 Sidekick accessible sans changer de page = gain de temps sur TT et PURESOLE.
+⚡ Ouvre admin Shopify → teste Sidekick sur une fiche produit (15min)
 ━━━━━━━━━━━━━━━
-🚀 SKILLS PROPOSÉS : 3
-1. shopify-cro-analyzer — analyse CVR pages Shopify
-2. shopify-aov-strategist — bundles + cross-sell basés sur données réelles
-3. ecom-project-planner — objectif → ROADMAP multi-agents parallèles
-━━━━━━━━━━━━━━━
-📦 NEWS : Claude Code v2.1.278 — AGENTS.md fallback + skills sync claude.ai → terminal
-🛒 Claude Commerce Agents open-source : +35% panier moyen (Anthropic + Shopify)
-━━━━━━━━━━━━━━━
-💡 Insight : Claude devient l'OS du solo founder e-com. La pièce manquante = le BRIEF multi-agents.
+📚 Autres axes (1 ligne) :
+📊 Meta ASC + test 15-25 créas/mois = seul vrai scaling en 2026 (Common Thread Co)
+🤖 Claude Code sept : cross-session messaging + plugin eval avec scoring vs baseline
+🧠 NotebookLM → Obsidian full setup : feedback loop pour capitaliser insights veille e-com
+🛒 Shopify Analytics : sessions vont baisser (~-15%) — c'est le filtre bots, pas une perte réelle
+🔌 MCP SDK 2.2.0 : FastMCP renommé MCPServer — migrer si tu as un serveur custom
