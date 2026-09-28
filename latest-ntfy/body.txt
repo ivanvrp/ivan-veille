@@ -1,23 +1,22 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH (4 vidéos, toutes 9/10)
 ━━━━━━━━━━━━━━━
-1️⃣ 🔌 Directory Claude Plugins ouvert (MCP 2.0)
-📌 Portail soumission plugins lancé le 25/09. Auto-validation, analytics, MCP 2.0 stateless serverless-ready.
-💡 Packager tes outils Claude (analytics PURESOLE) en plugins publiables dans le directory officiel.
-⚡ Ouvre claude.ai/directory/manage → explore plugins e-com disponibles (15min)
+1️⃣ La Nouvelle Manière de Réussir Sur Shopify avec Claude IA
+💡 Claude Code rend thèmes et apps tierces obsolètes — screenshot → code Liquid en 3 min
+⚡ Tester : "copie exactement ce que tu vois au détail près" sur une section TempleTwins
 ━━━━━━━━━━━━━━━
-2️⃣ 🤖 Claude Opus 5.5 : −40% prix, +30% vitesse
-📌 $4/M input, $20/M output, cache $0.20/M. Égale Fable 5.1. Migration 680k lignes de code en 1 journée.
-💡 Tes agents Claude (veille, fiches produit PURESOLE/TT) coûtent 40% moins cher à faire tourner.
-⚡ Switche ton model ID → claude-opus-5-5 et teste une requête classique
+2️⃣ Better With This Setup (CLAUDE.md + Skills + MCPs)
+💡 Setup complet : CLAUDE.md global+projet, 6 MCPs starter, Agent Teams expérimental
+⚡ Créer ~/.claude/CLAUDE.md profil Ivan (TempleTwins+PURESOLE, stack, règles sécurité)
 ━━━━━━━━━━━━━━━
-3️⃣ 🛒 Shopify Admin redesigné — Sidekick flottant partout
-📌 Nouveau design live depuis 15/09. Sidekick en chat flottant bas de page, sidebar repliable. Usage ×4.8/an.
-💡 Sidekick accessible sans changer de page = gain de temps sur TT et PURESOLE.
-⚡ Ouvre admin Shopify → teste Sidekick sur une fiche produit (15min)
+3️⃣ How to Use Claude to Build and Run a Shopify Store
+💡 Gérer boutique entièrement via langage naturel : check-in quotidien + stratégie prix IA
+⚡ Installer Shopify Claude Connector → tester check-in : meilleurs/pires produits du mois
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 Meta ASC + test 15-25 créas/mois = seul vrai scaling en 2026 (Common Thread Co)
-🤖 Claude Code sept : cross-session messaging + plugin eval avec scoring vs baseline
-🧠 NotebookLM → Obsidian full setup : feedback loop pour capitaliser insights veille e-com
-🛒 Shopify Analytics : sessions vont baisser (~-15%) — c'est le filtre bots, pas une perte réelle
-🔌 MCP SDK 2.2.0 : FastMCP renommé MCPServer — migrer si tu as un serveur custom
+🚀 SKILLS PROPOSÉS : 3
+shopify-product-optimizer · shopify-daily-report · shopify-code-generator
+(Review manuelle requise avant déploiement)
+━━━━━━━━━━━━━━━
+💡 Insight cross-vidéos :
+Claude Code + Shopify = solo founder augmenté — l'exécution technique est délégable, libère Ivan pour stratégie marque et conversion.
+━━━━━━━━━━━━━━━
+📌 Opus 5.5 lancé (22 sept) — Fable-level, -40% coût, 1M ctx — défaut dans Claude Code v2.1.283
