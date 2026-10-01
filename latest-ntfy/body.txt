@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Opus 5.5 — −40% prix, +30% vitesse
-📌 Sorti le 22 sept : $4/$20 par million tokens (−40% vs Opus 5), 1M context, adaptive thinking always-on.
-💡 Tes agents TT/PURESOLE coûtent moins cher d'office dès maintenant.
-⚡ Change le model ID → `claude-opus-5-5` dans Claude Code settings.
+1️⃣ 🤖 Agent Skills open standard — Anthropic
+📌 Skills = workflows répétitifs enseignés à Claude, maintenant cross-plateforme (agentskills.io). Partners: Stripe, Figma, Notion, Zapier.
+💡 Tes workflows TT/PURESOLE deviennent des Skills réutilisables sans re-briefing
+⚡ Aller sur agentskills.io et créer tes 3 premiers Skills (fiches produit, veille, scoring)
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify Admin New Look — Sidekick partout
-📌 Depuis le 15 sept : chat Sidekick flottant sur chaque page admin, nav collapsible.
-💡 IA native sur Orders/Products de tes stores sans changer d'onglet.
-⚡ Ouvre Shopify admin → teste Sidekick sur page Produits → "Optimise cette description".
+2️⃣ 🤖 Claude Sonnet 5.5 — 30% plus vite, même prix
+📌 Sorti le 28 sept. $2/$10 par million tokens, 30% plus rapide que Sonnet 5, multimodal.
+💡 Tes agents veille/contenu PURESOLE gagnent 30% de vitesse sans changer de budget
+⚡ Remplacer claude-sonnet-5 par claude-sonnet-5-5 dans tes settings Claude Code
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 MCP beta mcp-client-2026-09-15 — pin tool list
-📌 Nouveau header : épingle la liste tools d'un serveur MCP pour éviter les dérives mid-session.
-💡 Stacks multi-MCP (Shopify + Git + analytics) deviennent stables en run long.
-⚡ Ajoute `"mcp-client-2026-09-15"` dans betas de ta config Claude Code.
+3️⃣ 🛒 Shopify Market-Driven Shipping — rollout oct 1
+📌 Shipping config bascule dans Markets. Chaque pays a ses propres rates. Opt-in dès aujourd'hui.
+💡 PURESOLE multi-pays : fini les profils shipping alambiqués, rates distinctes EU/USA
+⚡ Admin Shopify → Settings → Markets → activer Market-Driven Shipping sur 1 marché test
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 TikTok → test hook semaine 1, offre semaine 2, porte gagnants sur Meta (creativemilkshake.com)
-🤖 RAS (Opus 5.5 déjà en TOP 1 ; plugins portal déjà couvert run J-2)
-🧠 Claude+NotebookLM = quasi-mémoire long terme, tokens réduits (Medium Ethan Cooper)
-🛒 Polaris 2.0 RC : migrer thèmes/apps custom pour rester aligné nouvel admin
-🔌 Shopify MCP leader ecom : Storefront + AI Toolkit MIT auto-enabled Shopify Plus
+📊 AI UGC TikTok Shop à $5/vidéo — seule option viable sous $250k GMV mensuel
+🤖 MCP 2.0 stateless (juil) non couvert — serveur en 1 Worker, 0 infra stateful
+🧠 Claude + Obsidian LLM Wiki : vault auto-indexé, contexte persistant cross-sessions
+🛒 Variant limit → 2048 (mi-oct) : fin des SKU artificiels sur stores TT/PURESOLE
+🔌 RAS
