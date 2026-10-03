@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Agent Skills open standard — Anthropic
-📌 Skills = workflows répétitifs enseignés à Claude, maintenant cross-plateforme (agentskills.io). Partners: Stripe, Figma, Notion, Zapier.
-💡 Tes workflows TT/PURESOLE deviennent des Skills réutilisables sans re-briefing
-⚡ Aller sur agentskills.io et créer tes 3 premiers Skills (fiches produit, veille, scoring)
+1️⃣ 🛒 Shopify Canvas — Builder IA conversationnel (1 oct)
+📌 Sidekick chat → boutique en ~20min, output = code theme live, pas un mockup
+💡 Redesigne TempleTwins/PURESOLE sans dev, teste pages CRO en autonomie
+⚡ Shopify Admin → "Canvas" (beta) → rebuild 1 collection page
 ━━━━━━━━━━━━━━━
-2️⃣ 🤖 Claude Sonnet 5.5 — 30% plus vite, même prix
-📌 Sorti le 28 sept. $2/$10 par million tokens, 30% plus rapide que Sonnet 5, multimodal.
-💡 Tes agents veille/contenu PURESOLE gagnent 30% de vitesse sans changer de budget
-⚡ Remplacer claude-sonnet-5 par claude-sonnet-5-5 dans tes settings Claude Code
+2️⃣ 🤖 Claude Code Mods 2.1.287 — plugins TypeScript deep (1 oct)
+📌 Intercept prompts, modifier UI, lancer side-agents parallèles
+💡 Mod "Shopify context" qui précharge tes stores dans chaque session
+⚡ /plugin enable cc-plugin-you-should-know@builtin → tester
 ━━━━━━━━━━━━━━━
-3️⃣ 🛒 Shopify Market-Driven Shipping — rollout oct 1
-📌 Shipping config bascule dans Markets. Chaque pays a ses propres rates. Opt-in dès aujourd'hui.
-💡 PURESOLE multi-pays : fini les profils shipping alambiqués, rates distinctes EU/USA
-⚡ Admin Shopify → Settings → Markets → activer Market-Driven Shipping sur 1 marché test
+3️⃣ 📊 Arcads AI UGC — 1000+ actors scroll-native Meta/TikTok
+📌 Avatars IA phone-shot £110-220/mo, déjouent détection pub
+💡 PURESOLE : 5-10 variants UGC/sem sans tournage
+⚡ Essai gratuit Arcads → 1 produit → 3 hooks en 15min
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 AI UGC TikTok Shop à $5/vidéo — seule option viable sous $250k GMV mensuel
-🤖 MCP 2.0 stateless (juil) non couvert — serveur en 1 Worker, 0 infra stateful
-🧠 Claude + Obsidian LLM Wiki : vault auto-indexé, contexte persistant cross-sessions
-🛒 Variant limit → 2048 (mi-oct) : fin des SKU artificiels sur stores TT/PURESOLE
-🔌 RAS
+📚 Autres axes :
+📊 Meta 3-campaign : Prospecting 65% / Retargeting 20% / Retention 15%
+🤖 Claude Fable 5.1 pour copy produit, Opus 5.5 pour analyse store
+🧠 NotebookLM→Obsidian : ingérer ces digests chaque semaine
+🛒 Dawn v15.2.0 (3 oct) : mises à jour mineures, update safe
+🔌 MCP memory : fix race conditions → workflows persistants fiables
