@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🛒 Shopify Canvas — Builder IA conversationnel (1 oct)
-📌 Sidekick chat → boutique en ~20min, output = code theme live, pas un mockup
-💡 Redesigne TempleTwins/PURESOLE sans dev, teste pages CRO en autonomie
-⚡ Shopify Admin → "Canvas" (beta) → rebuild 1 collection page
+1️⃣ 📊 Meta BF Deadline — Advantage+ avant 15 oct
+📌 BF=27 nov, algo learning=6-8 sem → deadline CETTE semaine. 94% acheteurs influencés par créa creator
+💡 PURESOLE/TT : rater cette fenêtre = rater BF/CM saison complète
+⚡ Meta Ads → créer campagne Advantage+ Shopping + créa UGC → live avant vendredi
 ━━━━━━━━━━━━━━━
-2️⃣ 🤖 Claude Code Mods 2.1.287 — plugins TypeScript deep (1 oct)
-📌 Intercept prompts, modifier UI, lancer side-agents parallèles
-💡 Mod "Shopify context" qui précharge tes stores dans chaque session
-⚡ /plugin enable cc-plugin-you-should-know@builtin → tester
+2️⃣ 🛒 Shopify Rollouts Discounts — tester offres BF sans risque
+📌 Discounts inclus dans Rollouts (Oct 2) : tester 2 offres sur % du trafic + lire CVR avant BF
+💡 20% off vs free shipping sur 15% trafic → décision data-driven pour BF/CM
+⚡ Admin → Rollouts → créer test discount 20% vs free ship, durée 5j
 ━━━━━━━━━━━━━━━
-3️⃣ 📊 Arcads AI UGC — 1000+ actors scroll-native Meta/TikTok
-📌 Avatars IA phone-shot £110-220/mo, déjouent détection pub
-💡 PURESOLE : 5-10 variants UGC/sem sans tournage
-⚡ Essai gratuit Arcads → 1 produit → 3 hooks en 15min
+3️⃣ 🤖 Anthropic Frontier Academy — $100M, 10k ingénieurs Claude
+📌 Partenariats Fortune 500 + universités pour certifier Claude en entreprise
+💡 Plugins/MCPs tiers vont exploser : se spécialiser maintenant avant la vague
+⚡ S'inscrire newsletter Frontier Academy + planifier 1 feature Claude Code/semaine
 ━━━━━━━━━━━━━━━
-📚 Autres axes :
-📊 Meta 3-campaign : Prospecting 65% / Retargeting 20% / Retention 15%
-🤖 Claude Fable 5.1 pour copy produit, Opus 5.5 pour analyse store
-🧠 NotebookLM→Obsidian : ingérer ces digests chaque semaine
-🛒 Dawn v15.2.0 (3 oct) : mises à jour mineures, update safe
-🔌 MCP memory : fix race conditions → workflows persistants fiables
+📚 Autres axes (1 ligne) :
+📊 TikTok 8 patterns créa : hook rate cible 35-55%, reluctant endorser > brand content
+🤖 Claude Code 2.1.289 : agent.spawn + idle/waiting states — update avant sessions longues
+🧠 RAS — items Obsidian/NotebookLM déjà couverts
+🛒 Shopify custom notes Analytics : annoter lancements créa pour corréler traffic/CVR
+🔌 MCP stateless (spec 07-28) : deploy MCP Shopify sur Vercel en <1h
