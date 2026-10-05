@@ -1,10 +1,3 @@
-https://claude.com/blog/run-claude-code-sessions-on-your-own-compute
-https://www.channelinsider.com/ai/news-anthropic-claude-computer-use-skills-files-api/
-https://claude.com/blog/computer-use-skills-api-files-api
-https://changelog.shopify.com/posts/managed-markets-is-ending-delivered-duty-unpaid-ddu-support
-https://www.androidauthority.com/claude-gmail-google-drive-integrations-3700330/
-https://ads.tiktok.com/business/en/blog/tiktok-product-preview
-https://adsuploader.com/blog/meta-ads-updates
 https://cryptobriefing.com/anthropic-launches-claude-academy/
 https://aimaker.substack.com/p/notebooklm-mcp-claude-setup-guide-research-workflow
 https://shopify.dev/changelog/hydrogen-developer-preview-update-august-18-2026
@@ -198,3 +191,10 @@ https://www.geeky-gadgets.com/build-second-brain-notebooklm-obsidian/
 https://aimaker.substack.com/p/ai-second-brain-obsidian
 https://github.com/Shopify/dawn/releases
 https://shopify.dev/changelog/release-notes/2026-10
+https://commonthreadco.com/blogs/coachs-corner/meta-holiday-insights-center-2026-q4-ecommerce
+https://ecommerceparadise.com/shopify-rollouts-tests-discounts/
+https://anthropic.com/news/claude-frontier-academy
+https://adlibrary.com/posts/best-ecommerce-tiktok-ads-examples
+https://adlibrary.com/posts/hook-rate
+https://techcommunity.microsoft.com/blog/appsonazureblog/mcp-just-went-stateless-%E2%80%94-what-the-2026-spec-changes-about-scaling-on-app-servic/4530222
+https://commonthreadco.com/blogs/coachs-corner/every-shopify-update-in-2026-updated-weekly
