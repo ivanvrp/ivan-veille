@@ -1,23 +1,16 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH (2 vidéos analysées Gemini)
 ━━━━━━━━━━━━━━━
-1️⃣ 🛒 Shopify Canvas — Builder IA conversationnel (1 oct)
-📌 Sidekick chat → boutique en ~20min, output = code theme live, pas un mockup
-💡 Redesigne TempleTwins/PURESOLE sans dev, teste pages CRO en autonomie
-⚡ Shopify Admin → "Canvas" (beta) → rebuild 1 collection page
+1️⃣ Claude Code Mods Are INSANE — ClaudeDevs (Oct 4)
+💡 Mods TypeScript = hooker UserPromptSubmit, routage local, marketplaces plugins
+⚡ Crée un mod ecommerce-router pour TempleTwins (voir skill proposé)
 ━━━━━━━━━━━━━━━
-2️⃣ 🤖 Claude Code Mods 2.1.287 — plugins TypeScript deep (1 oct)
-📌 Intercept prompts, modifier UI, lancer side-agents parallèles
-💡 Mod "Shopify context" qui précharge tes stores dans chaque session
-⚡ /plugin enable cc-plugin-you-should-know@builtin → tester
+2️⃣ Claude Code 3.0: BIGGEST NEW Feature — (Oct 3)
+💡 AGENTS.md support, panneau diff live, /skill-doctor, claude plugin eval
+⚡ Lance /skill-doctor maintenant pour auditer tes skills actuels
 ━━━━━━━━━━━━━━━
-3️⃣ 📊 Arcads AI UGC — 1000+ actors scroll-native Meta/TikTok
-📌 Avatars IA phone-shot £110-220/mo, déjouent détection pub
-💡 PURESOLE : 5-10 variants UGC/sem sans tournage
-⚡ Essai gratuit Arcads → 1 produit → 3 hooks en 15min
+🚀 SKILLS PROPOSÉS : 3
+• shopify-product-fiche-seo (⭐⭐⭐ Haute, skill texte simple)
+• claude-code-mod-ecommerce-router (⭐⭐ Moyenne, TypeScript)
+• skill-doctor-optimizer (⭐⭐ Moyenne, skill texte simple)
 ━━━━━━━━━━━━━━━
-📚 Autres axes :
-📊 Meta 3-campaign : Prospecting 65% / Retargeting 20% / Retention 15%
-🤖 Claude Fable 5.1 pour copy produit, Opus 5.5 pour analyse store
-🧠 NotebookLM→Obsidian : ingérer ces digests chaque semaine
-🛒 Dawn v15.2.0 (3 oct) : mises à jour mineures, update safe
-🔌 MCP memory : fix race conditions → workflows persistants fiables
+💡 Insight : Claude Code = plateforme extensible. Mods+MCP+Projects = agents qui s'auto-modifient. Investir Mods maintenant = avance e-com dans 3-6 mois.
