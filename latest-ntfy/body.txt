@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🛒 Shopify Canvas — Builder IA conversationnel (1 oct)
-📌 Sidekick chat → boutique en ~20min, output = code theme live, pas un mockup
-💡 Redesigne TempleTwins/PURESOLE sans dev, teste pages CRO en autonomie
-⚡ Shopify Admin → "Canvas" (beta) → rebuild 1 collection page
+1️⃣ 🤖 Claude Code Mods : plugins TS qui réécrivent l'agent
+📌 Mods = plugins JS/TS chargés dans le process Claude Code qui interceptent chaque event et remplacent les comportements. v2.1.292 (6 oct) : install depuis marketplace directement.
+💡 Automatiser routines veille + workflows TT/PURESOLE dans Claude Code
+⚡ /plugin dans Claude Code → chercher "spend-meter" → installer (5 min)
 ━━━━━━━━━━━━━━━
-2️⃣ 🤖 Claude Code Mods 2.1.287 — plugins TypeScript deep (1 oct)
-📌 Intercept prompts, modifier UI, lancer side-agents parallèles
-💡 Mod "Shopify context" qui précharge tes stores dans chaque session
-⚡ /plugin enable cc-plugin-you-should-know@builtin → tester
+2️⃣ 📊 Meta Q4 : Creative Diversity Score live dans Ads Manager
+📌 Nouveau score Low/Medium/High sur 5 dimensions. Si "Low" → Meta groupe tes créas similaires en 1 entité = beaucoup moins de reach. Deadline 4 familles créatives : mi-octobre.
+💡 BF/Xmas critiques pour TT + PURESOLE — CPM élevés = peut-être score "Low"
+⚡ Ads Manager → colonnes → "Creative Diversity" → créer 1 UGC + 1 product shot + 1 carousel différents
 ━━━━━━━━━━━━━━━
-3️⃣ 📊 Arcads AI UGC — 1000+ actors scroll-native Meta/TikTok
-📌 Avatars IA phone-shot £110-220/mo, déjouent détection pub
-💡 PURESOLE : 5-10 variants UGC/sem sans tournage
-⚡ Essai gratuit Arcads → 1 produit → 3 hooks en 15min
+3️⃣ 🔌 MCP v2.0.0 imminente : core stateless + MCP Apps + OAuth 2.0
+📌 Spec 2026-07-28 = request/response (serverless), MCP Apps pour UIs interactives dans chat, auth OAuth OIDC natif. 400M downloads/mois. Merge v2.0.0 prévue (commits 4 oct).
+💡 MCPs actuels compatibles legacy, mais nouveaux intégrations e-com sur v2 plus robustes
+⚡ /mcp dans Claude Code → noter MCPs stateful → lire claude.com/blog/bringing-mcp-2026-07-28-to-claude
 ━━━━━━━━━━━━━━━
-📚 Autres axes :
-📊 Meta 3-campaign : Prospecting 65% / Retargeting 20% / Retention 15%
-🤖 Claude Fable 5.1 pour copy produit, Opus 5.5 pour analyse store
-🧠 NotebookLM→Obsidian : ingérer ces digests chaque semaine
-🛒 Dawn v15.2.0 (3 oct) : mises à jour mineures, update safe
-🔌 MCP memory : fix race conditions → workflows persistants fiables
+📚 Autres axes (1 ligne) :
+📊 Higgsfield (Kling 3.0, Veo 3.1) vs Arcads (Seedance 2.5) : Higgsfield variété créa, Arcads talking-head UGC
+🤖 Claude Projects redesign beta : threads parallèles + mémoire partagée dans 1 projet
+🧠 obvec-sync plugin Obsidian : expose ton vault comme MCP server pour Claude Code
+🛒 Shopify B2B ACH US : virement bancaire natif wholesale via Shopify Payments
+🔌 RAS nouveaux serveurs MCP — v2.0.0 merge imminente est le signal fort
