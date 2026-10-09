@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Code Mods : plugins TS qui réécrivent l'agent
-📌 Mods = plugins JS/TS chargés dans le process Claude Code qui interceptent chaque event et remplacent les comportements. v2.1.292 (6 oct) : install depuis marketplace directement.
-💡 Automatiser routines veille + workflows TT/PURESOLE dans Claude Code
-⚡ /plugin dans Claude Code → chercher "spend-meter" → installer (5 min)
+1️⃣ 🤖 Claude Haiku 5.5 : $0.10/MTok, 1M ctx
+📌 Lancé le 7 oct. Cheapest Anthropic model ever. 128K output. Sonnet 5.5 cache reads −50%.
+💡 Migrer agents veille/PURESOLE sur Haiku 5.5 = économies 80%
+⚡ Remplacer claude-sonnet-5-5 → claude-haiku-5-5 dans les agents de classification
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta Q4 : Creative Diversity Score live dans Ads Manager
-📌 Nouveau score Low/Medium/High sur 5 dimensions. Si "Low" → Meta groupe tes créas similaires en 1 entité = beaucoup moins de reach. Deadline 4 familles créatives : mi-octobre.
-💡 BF/Xmas critiques pour TT + PURESOLE — CPM élevés = peut-être score "Low"
-⚡ Ads Manager → colonnes → "Creative Diversity" → créer 1 UGC + 1 product shot + 1 carousel différents
+2️⃣ 🛒 Shopify Next Gen Events GA (API 2026-10)
+📌 Webhooks 2.0 : filtres par champ, payloads riches, 18 topics, 0 appel API en cascade.
+💡 Apps TT/PURESOLE : synchro stocks + alertes prix sans appels Admin API supplémentaires
+⚡ Lire shopify.dev/changelog → noter webhooks actuels à migrer
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 MCP v2.0.0 imminente : core stateless + MCP Apps + OAuth 2.0
-📌 Spec 2026-07-28 = request/response (serverless), MCP Apps pour UIs interactives dans chat, auth OAuth OIDC natif. 400M downloads/mois. Merge v2.0.0 prévue (commits 4 oct).
-💡 MCPs actuels compatibles legacy, mais nouveaux intégrations e-com sur v2 plus robustes
-⚡ /mcp dans Claude Code → noter MCPs stateful → lire claude.com/blog/bringing-mcp-2026-07-28-to-claude
+3️⃣ 📊 Meta Q4 : lancer ASC en octobre ou payer BF en learning
+📌 BF = 27 nov. Meta a besoin de ~50 conv/semaine. CPMs BF +80-100%. Lancer maintenant.
+💡 TempleTwins + PURESOLE : phase d'apprentissage payée aux CPMs d'oct, pas nov
+⚡ Ouvrir Ads Manager → lancer 1 ASC test 5-10€/j par marque avec 3 créas diversifiées
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Higgsfield (Kling 3.0, Veo 3.1) vs Arcads (Seedance 2.5) : Higgsfield variété créa, Arcads talking-head UGC
-🤖 Claude Projects redesign beta : threads parallèles + mémoire partagée dans 1 projet
-🧠 obvec-sync plugin Obsidian : expose ton vault comme MCP server pour Claude Code
-🛒 Shopify B2B ACH US : virement bancaire natif wholesale via Shopify Payments
-🔌 RAS nouveaux serveurs MCP — v2.0.0 merge imminente est le signal fort
+📊 Meta : 5% des créas → winners = produire 60-80 variantes avant mi-nov (segwise.ai)
+🤖 Sonnet 5.5 cache reads −50% → recalculer coût veille-360 avec caching activé
+🧠 Claude Code + NotebookLM + Obsidian pipeline en <30min à configurer (chaseai.io)
+🛒 Shopify Shop : vérif identité acheteur avant achat (pré-checkout personalisation)
+🔌 web_fetch limité aux URLs in-context (oct 7) — tester agents Managed Claude
