@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Haiku 5.5 : $0.10/MTok, 1M ctx
-📌 Lancé le 7 oct. Cheapest Anthropic model ever. 128K output. Sonnet 5.5 cache reads −50%.
-💡 Migrer agents veille/PURESOLE sur Haiku 5.5 = économies 80%
-⚡ Remplacer claude-sonnet-5-5 → claude-haiku-5-5 dans les agents de classification
+1️⃣ 🤖 Claude Haiku 5.5 — -75% prix, 1M ctx, default
+📌 $0,10/M tokens vs $1/M pour Haiku 4.5. Effort controls. Dispo partout.
+💡 Automations e-com PURESOLE/TT 4-10× moins chères
+⚡ Vérifier CLAUDE.md → claude-haiku-5-5 actif
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify Next Gen Events GA (API 2026-10)
-📌 Webhooks 2.0 : filtres par champ, payloads riches, 18 topics, 0 appel API en cascade.
-💡 Apps TT/PURESOLE : synchro stocks + alertes prix sans appels Admin API supplémentaires
-⚡ Lire shopify.dev/changelog → noter webhooks actuels à migrer
+2️⃣ 🛒 URGENT Shopify API 2025-10 sunset le 16/10 (5j)
+📌 Apps appelant API 2025-10 = erreurs dès lundi. Script tags bloqués.
+💡 PURESOLE/TT : apps cassées sans avertissement si pas migré
+⚡ Admin Shopify → apps → vérifier logs API version
 ━━━━━━━━━━━━━━━
-3️⃣ 📊 Meta Q4 : lancer ASC en octobre ou payer BF en learning
-📌 BF = 27 nov. Meta a besoin de ~50 conv/semaine. CPMs BF +80-100%. Lancer maintenant.
-💡 TempleTwins + PURESOLE : phase d'apprentissage payée aux CPMs d'oct, pas nov
-⚡ Ouvrir Ads Manager → lancer 1 ASC test 5-10€/j par marque avec 3 créas diversifiées
+3️⃣ 📊 Meta Q4 — lancer créas UGC avant le 15/10
+📌 Advantage+ Shopping Campaigns à activer maintenant pour BF 27/11
+💡 Fenêtre d'apprentissage Meta = 4-5 jours restants
+⚡ 1 ASC test €10/j sur PURESOLE avec 2 créas UGC dispo
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 Meta : 5% des créas → winners = produire 60-80 variantes avant mi-nov (segwise.ai)
-🤖 Sonnet 5.5 cache reads −50% → recalculer coût veille-360 avec caching activé
-🧠 Claude Code + NotebookLM + Obsidian pipeline en <30min à configurer (chaseai.io)
-🛒 Shopify Shop : vérif identité acheteur avant achat (pré-checkout personalisation)
-🔌 web_fetch limité aux URLs in-context (oct 7) — tester agents Managed Claude
+📚 Autres axes :
+📊 TikTok Spark Ads e-com ROAS 2-5x, CPM $6-13
+🤖 Sonnet 5.5 cache reads -50% (0,10$/M) + CC 2.1.296
+🧠 Claudian plugin — Claude Code dans vault Obsidian
+🛒 Shopify Editions Compass — 65 updates, Customer Account API déc.
+🔌 Presso MCP — Shopify+GA4+Meta Ads en 1 conversation Claude
