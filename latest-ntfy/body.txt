@@ -1,23 +1,19 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH (max 3 ici)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Haiku 5.5 — -75% prix, 1M ctx, default
-📌 $0,10/M tokens vs $1/M pour Haiku 4.5. Effort controls. Dispo partout.
-💡 Automations e-com PURESOLE/TT 4-10× moins chères
-⚡ Vérifier CLAUDE.md → claude-haiku-5-5 actif
+1️⃣ Build a Shopify Store With AI (Claude Code Tutorial)
+💡 CSV → produit Shopify DRAFT + Master Prompt CLAUDE.md
+⚡ À regarder avant de lancer la prochaine drop TempleTwins
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 URGENT Shopify API 2025-10 sunset le 16/10 (5j)
-📌 Apps appelant API 2025-10 = erreurs dès lundi. Script tags bloqués.
-💡 PURESOLE/TT : apps cassées sans avertissement si pas migré
-⚡ Admin Shopify → apps → vérifier logs API version
+2️⃣ Watch This If You're Just Learning How to Use Claude Code
+💡 ScaleKit auth + Agent Teams + Worktree Isolation pour solo founder
+⚡ Pattern multi-agents applicable à TempleTwins + PURESOLE
 ━━━━━━━━━━━━━━━
-3️⃣ 📊 Meta Q4 — lancer créas UGC avant le 15/10
-📌 Advantage+ Shopping Campaigns à activer maintenant pour BF 27/11
-💡 Fenêtre d'apprentissage Meta = 4-5 jours restants
-⚡ 1 ASC test €10/j sur PURESOLE avec 2 créas UGC dispo
+3️⃣ Hooks in Claude Code
+💡 PreToolUse bloque rm -rf et force push — onFailure:block (v2.1.295)
+⚡ Implémenter production-safety-policy sur tous tes repos Shopify
 ━━━━━━━━━━━━━━━
-📚 Autres axes :
-📊 TikTok Spark Ads e-com ROAS 2-5x, CPM $6-13
-🤖 Sonnet 5.5 cache reads -50% (0,10$/M) + CC 2.1.296
-🧠 Claudian plugin — Claude Code dans vault Obsidian
-🛒 Shopify Editions Compass — 65 updates, Customer Account API déc.
-🔌 Presso MCP — Shopify+GA4+Meta Ads en 1 conversation Claude
+🚀 SKILLS PROPOSÉS : 3
+shopify-product-launcher / ecom-multichannel-campaign / production-safety-policy
+━━━━━━━━━━━━━━━
+💡 Insight cross-vidéos :
+CLAUDE.md comme mémoire métier = fondation qui multiplie la pertinence de chaque session
