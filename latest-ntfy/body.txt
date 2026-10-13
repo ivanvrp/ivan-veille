@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Haiku 5.5 — -75% prix, 1M ctx, default
-📌 $0,10/M tokens vs $1/M pour Haiku 4.5. Effort controls. Dispo partout.
-💡 Automations e-com PURESOLE/TT 4-10× moins chères
-⚡ Vérifier CLAUDE.md → claude-haiku-5-5 actif
+1️⃣ 🤖 Claude Managed Agents Dynamic Workflows
+📌 Beta publique dès le 9 oct — jusqu'à 1 000 agents en parallèle côté serveur Anthropic, $0,08/h.
+💡 PURESOLE/TT : pipeline audit stock+creatives en 1 commande sans surveillance
+⚡ Activer beta header managed-agents-2026-04-01 dans Claude Code
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 URGENT Shopify API 2025-10 sunset le 16/10 (5j)
-📌 Apps appelant API 2025-10 = erreurs dès lundi. Script tags bloqués.
-💡 PURESOLE/TT : apps cassées sans avertissement si pas migré
-⚡ Admin Shopify → apps → vérifier logs API version
+2️⃣ 🤖 Claude Haiku 5.5 — $0,10/M tokens (-90% vs 4.5)
+📌 Lancé 7 oct — 1M contexte, effort configurable, computer-use natif.
+💡 Classification produits PURESOLE & SAV en volume à coût quasi nul
+⚡ Swap claude-haiku-4-5 → claude-haiku-5-5, retirer temperature/top_p
 ━━━━━━━━━━━━━━━
-3️⃣ 📊 Meta Q4 — lancer créas UGC avant le 15/10
-📌 Advantage+ Shopping Campaigns à activer maintenant pour BF 27/11
-💡 Fenêtre d'apprentissage Meta = 4-5 jours restants
-⚡ 1 ASC test €10/j sur PURESOLE avec 2 créas UGC dispo
+3️⃣ 🛒 Shopify Canvas — builder IA conversationnel live
+📌 Lancé 2 oct — Sidekick édite la vraie boutique en temps réel via prompt.
+💡 Tester refonte landing TempleTwins streetwear sans dev
+⚡ Chercher "Canvas" dans admin Shopify left-nav (desktop only)
 ━━━━━━━━━━━━━━━
-📚 Autres axes :
-📊 TikTok Spark Ads e-com ROAS 2-5x, CPM $6-13
-🤖 Sonnet 5.5 cache reads -50% (0,10$/M) + CC 2.1.296
-🧠 Claudian plugin — Claude Code dans vault Obsidian
-🛒 Shopify Editions Compass — 65 updates, Customer Account API déc.
-🔌 Presso MCP — Shopify+GA4+Meta Ads en 1 conversation Claude
+📚 Autres axes (1 ligne) :
+📊 Meta Advantage+ Creative Video GA (6 oct) — statics → vidéo auto Ads Manager
+🤖 Claude Google Workspace Docs/Sheets/Slides en beta publique (6 oct)
+🧠 NotebookLM→Obsidian Sync MCP skill dispo sur mcpmarket.com
+🛒 Shop.app pages indexées Google par défaut — SEO passif gratuit
+🔌 Shopify MCP officiel GA — Claude Code connecté à ta boutique en 10 min
