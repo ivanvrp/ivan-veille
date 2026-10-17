@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🔌 Notion MCP officiel — 1 cmd, 0 token
-📌 `claude mcp add --transport http notion https://mcp.notion.com/mcp` + OAuth → Claude Code lit/écrit dans Notion sans API key (lancé hier 14 oct)
-💡 Backlog TT/PURESOLE dans Notion = briefs créatifs et checklists générés direct depuis terminal
-⚡ Lancer la cmd, /mcp → OAuth → tester "cherche mes pages produits"
+1️⃣ 🤖 Claude Code v2.1.302 — bug MCP killer corrigé
+📌 v2.1.300-302 (Oct 16) : bug qui tuait les sessions MCP résolu + Haiku 5.5 défaut (1M ctx)
+💡 Tes MCPs GitHub/Notion ne plantent plus silencieusement
+⚡ `claude --version` → vérifier ≥2.1.302, relancer MCPs
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify API 2025-10 retire DEMAIN 16 oct
-📌 scriptTagCreate retourne erreur depuis 1 oct sur toutes versions — pixels legacy = tracking cassé jusqu'à migration Web Pixels API
-💡 ROAS faussé sur TT + PURESOLE si pixel non migré avant campagnes Q4
-⚡ Admin → Paramètres → Pixels → vérifier & migrer si legacy
+2️⃣ 🛒 Shopify API Oct — breaking changes + deadline Script Tag
+📌 Apps shipping/inventory/orders impactées (Oct 15). Script Tag freeze jusqu'à mars 2027.
+💡 Peut casser checkout TT/PURESOLE + tracking Meta au pire moment Q4
+⚡ Admin > Apps > alertes livraison/inventaire. Vérifier Meta Pixel = Web Pixels API
 ━━━━━━━━━━━━━━━
-3️⃣ 📊 Ad Creative Benchmarks 2026 (benly.ai)
-📌 UGC-style bat polished sur hook rate Meta mid-market. Durée opt : 15-30s Meta / <15s TikTok. Budget test : 15-20% hebdo, 3-5 variants hooks distincts
-💡 TempleTwins TikTok : hooks UGC >> studio pour streetwear
-⚡ Dupliquer ad set actif, créer 3 hooks UGC distincts, laisser 72h
+3️⃣ 📊 Meta Q4 — dernière fenêtre ads avant BF
+📌 Playbook Playa Vista Summit : campagnes live mi-oct = 5-6 sem de learning avant BF (27/11)
+💡 Lancer en nov = learning ratée = CPMs explosifs pour TT+PURESOLE Q4
+⚡ 1 Advantage+ Shopping Campaign TT, €20/j, 3 créas hooks distincts — activer aujourd'hui
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta vs TikTok : TikTok=discovery, Meta=retargeting — ne pas mettre tout sur un seul canal
-🤖 Claude Dashboards+Motion beta (oct 8) — Docs/Slides/Design GA Free — observabilité OpenTelemetry agents
-🧠 RAS fraîches — setup actif : Obsidian+Claude Code vault + AI Context Pack plugin
-🛒 Shop Pay checkout sync cross-device GA (5 oct) · Return shipping fee taxé 23 oct (US)
-🔌 MCP tool descriptions portées à 4096 chars · Update config MCP session active sans restart
+📊 Meta Reels shoppables + catalog carousels nouveaux formats holiday
+🤖 Haiku 5.5 = défaut Claude Code, 90% moins cher API, 1M ctx
+🧠 RAS — Claudian plugin Obsidian (Claude Agent SDK natif) notable
+🛒 Rollouts discounts Shopify : planifier promo + thème comme 1 campagne (parfait BF)
+🔌 MCP HTTP hang 30s corrigé (v2.1.296), Go SDK v1.7 spec 2026-07-28
