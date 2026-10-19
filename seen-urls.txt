@@ -1,11 +1,3 @@
-https://sherocommerce.com/blogs/commerce-jam/commerce-jam-august-2026
-https://community.shopify.dev/t/after-aug-31-will-the-deprecated-storefront-mcp-cart-tools-stop-responding-or-just-be-unsupported/37178
-https://creatify.ai/blog/tiktok-ads-complete-guide-to-creating-high-performing-creatives-in-2026
-https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1
-https://www.macrumors.com/2026/09/01/anthropic-claude-fable-5-1/
-https://cryptobriefing.com/anthropic-claude-fable-51-mythos-51-launch/
-https://www.vellum.ai/blog/claude-fable-5-1-mythos-5-1-benchmarks-explained
-https://claude.com/blog/claude-for-commerce-agents
 https://www.marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprint-for-shopping-and-merchant-agents-across-retail-travel-telecom-and-entertainment/
 https://pymnts.com/news/artificial-intelligence/2026/anthropic-built-the-shopping-brain-and-skipped-the-wallet/
 https://coursiv.io/blog/claude-commerce-agents
@@ -198,3 +190,11 @@ https://influencermarketinghub.com/ai-powered-ads-meta-holidays/
 https://clockedcode.com/blog/claude-code-changelog
 https://www.havoptic.com/releases/claude-code/2026/10
 https://tslagency.co.uk/tiktok-shop-ad-creative-that-converts-in-2026-what-s-actually-working-now/
+https://www.anthropic.com/news/2026-usage-policy-update
+https://chatarmin.com/en/blog/mcp-servers-e-commerce
+https://www.anthropic.com/news/public-benefit-fund
+https://www.anthropic.com/news/an-update-on-independent-evaluators
+https://forum.obsidian.md/t/plugin-blackglass-real-embedded-claude-code-terminal-with-built-in-vault-mcp-server/114734
+https://shopify.dev/release-notes/2026-10
+https://tlinky.com/tiktok-ads-q4-strategy/
+https://briefglance.com/companies/algolia-inc/pulses/78618
