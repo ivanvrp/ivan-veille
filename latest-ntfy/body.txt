@@ -1,23 +1,21 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH (3)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Code v2.1.302 — bug MCP killer corrigé
-📌 v2.1.300-302 (Oct 16) : bug qui tuait les sessions MCP résolu + Haiku 5.5 défaut (1M ctx)
-💡 Tes MCPs GitHub/Notion ne plantent plus silencieusement
-⚡ `claude --version` → vérifier ≥2.1.302, relancer MCPs
+1️⃣ How I Use Claude Code With Skills, MCP, Agents & Plugins
+💡 Cadre décision Skills/MCP/Agents/Commands — 9/10 pour Ivan
+⚡ Créer skill product-description-generator + /new-product
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify API Oct — breaking changes + deadline Script Tag
-📌 Apps shipping/inventory/orders impactées (Oct 15). Script Tag freeze jusqu'à mars 2027.
-💡 Peut casser checkout TT/PURESOLE + tracking Meta au pire moment Q4
-⚡ Admin > Apps > alertes livraison/inventaire. Vérifier Meta Pixel = Web Pixels API
+2️⃣ I Mapped Every Claude Code Concept So You Don't Have To
+💡 Mind map exhaustive 2026 + module revenus passifs avec agents
+⚡ Explorer agent contenu marketing TempleTwins (Reels/Shorts)
 ━━━━━━━━━━━━━━━
-3️⃣ 📊 Meta Q4 — dernière fenêtre ads avant BF
-📌 Playbook Playa Vista Summit : campagnes live mi-oct = 5-6 sem de learning avant BF (27/11)
-💡 Lancer en nov = learning ratée = CPMs explosifs pour TT+PURESOLE Q4
-⚡ 1 Advantage+ Shopping Campaign TT, €20/j, 3 créas hooks distincts — activer aujourd'hui
+3️⃣ Claude Code is all you need in 2026 (Brian Castle)
+💡 Vanilla Claude Code suffit pour 90% du dev — pensée produit = multiplicateur
+⚡ Utiliser plan mode pour prochaine évolution page collection
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 Meta Reels shoppables + catalog carousels nouveaux formats holiday
-🤖 Haiku 5.5 = défaut Claude Code, 90% moins cher API, 1M ctx
-🧠 RAS — Claudian plugin Obsidian (Claude Agent SDK natif) notable
-🛒 Rollouts discounts Shopify : planifier promo + thème comme 1 campagne (parfait BF)
-🔌 MCP HTTP hang 30s corrigé (v2.1.296), Go SDK v1.7 spec 2026-07-28
+🚀 SKILLS PROPOSÉS : 3
+- product-description-generator (SEO Shopify fiches produits)
+- shopify-product-optimizer (audit + optimisation SEO produit)
+- shopify-theme-design-consistency (cohérence UI thème Shopify)
+━━━━━━━━━━━━━━━
+💡 Insight cross-vidéos :
+Claude Code 2026 = multiplicateur pensée produit — CLAUDE.md + 1-3 Skills métier + 1 MCP Shopify suffit.

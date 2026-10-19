@@ -1,0 +1,1 @@
+NTFY_STATUS: 403 proxy blocked — ntfy.sh inaccessible depuis l'environnement cloud
