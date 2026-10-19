@@ -1,23 +1,25 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Code v2.1.302 — bug MCP killer corrigé
-📌 v2.1.300-302 (Oct 16) : bug qui tuait les sessions MCP résolu + Haiku 5.5 défaut (1M ctx)
-💡 Tes MCPs GitHub/Notion ne plantent plus silencieusement
-⚡ `claude --version` → vérifier ≥2.1.302, relancer MCPs
+1️⃣ 🤖 Usage Policy Anthropic — Nov 12 deadline
+📌 Nouvelle section "Deceptive Campaigns" : fake networks, influence ops
+commerciales interdits. Effective Nov 12.
+💡 Tes automations UGC dropship PURESOLE tombent dans le scope.
+⚡ Lis la section Deceptive Campaigns, vérifie tes prompts UGC (5min)
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify API Oct — breaking changes + deadline Script Tag
-📌 Apps shipping/inventory/orders impactées (Oct 15). Script Tag freeze jusqu'à mars 2027.
-💡 Peut casser checkout TT/PURESOLE + tracking Meta au pire moment Q4
-⚡ Admin > Apps > alertes livraison/inventaire. Vérifier Meta Pixel = Web Pixels API
+2️⃣ 🔌 9 MCP e-com — GA4 + Google Ads officiels (Oct 14)
+📌 Chatarmin liste 9 MCPs officiels : Google Analytics, Google Ads,
+Shopify UCP, Klaviyo — tout piloter depuis Claude.
+💡 Interroge perfs TempleTwins/PURESOLE sans export CSV.
+⚡ Installe MCP Google Analytics, pose 1 question sur tes sessions
 ━━━━━━━━━━━━━━━
-3️⃣ 📊 Meta Q4 — dernière fenêtre ads avant BF
-📌 Playbook Playa Vista Summit : campagnes live mi-oct = 5-6 sem de learning avant BF (27/11)
-💡 Lancer en nov = learning ratée = CPMs explosifs pour TT+PURESOLE Q4
-⚡ 1 Advantage+ Shopping Campaign TT, €20/j, 3 créas hooks distincts — activer aujourd'hui
+3️⃣ 🤖 Anthropic Public Benefit Fund (Oct 18)
+📌 ~20% du capital dédié mission publique, $200M pour impacts emploi IA.
+💡 Signal fort : Anthropic ne pivote pas vers pur profit.
+⚡ Lire résumé 3min — bon talking point si tu parles Claude à ton réseau
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta Reels shoppables + catalog carousels nouveaux formats holiday
-🤖 Haiku 5.5 = défaut Claude Code, 90% moins cher API, 1M ctx
-🧠 RAS — Claudian plugin Obsidian (Claude Agent SDK natif) notable
-🛒 Rollouts discounts Shopify : planifier promo + thème comme 1 campagne (parfait BF)
-🔌 MCP HTTP hang 30s corrigé (v2.1.296), Go SDK v1.7 spec 2026-07-28
+📊 TikTok discovery → Meta retargeting → Google capture : schéma Q4 confirmé
+🤖 Independent Evaluators : METR accès employee-like modèles Anthropic (Oct 15)
+🧠 Blackglass : Claude Code terminal embedded Obsidian + vault MCP natif
+🛒 Shopify scriptTagCreate bloqué Oct 1 + API 2026-10 stable (breaking changes)
+🔌 RAS nouvelles annonces MCP cette semaine (Chatarmin guide = Top 2)
