@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Code v2.1.302 — bug MCP killer corrigé
-📌 v2.1.300-302 (Oct 16) : bug qui tuait les sessions MCP résolu + Haiku 5.5 défaut (1M ctx)
-💡 Tes MCPs GitHub/Notion ne plantent plus silencieusement
-⚡ `claude --version` → vérifier ≥2.1.302, relancer MCPs
+1️⃣ 🤖 Claude Duet — agent proactif en preview
+📌 App iOS/Android Opus 5.5, brief quotidien apps connectées, tâches longues auto
+💡 Solo founder TT/PURESOLE : reporting Shopify + briefs créa sans ouvrir Claude
+⚡ Rejoindre waitlist claude.ai/duet (Pro/Max US)
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify API Oct — breaking changes + deadline Script Tag
-📌 Apps shipping/inventory/orders impactées (Oct 15). Script Tag freeze jusqu'à mars 2027.
-💡 Peut casser checkout TT/PURESOLE + tracking Meta au pire moment Q4
-⚡ Admin > Apps > alertes livraison/inventaire. Vérifier Meta Pixel = Web Pixels API
+2️⃣ 🛒 Shopify taxe retour US — LIVE AUJOURD'HUI
+📌 Shopify Tax calcule auto la taxe sur frais de retour US depuis ce matin
+💡 TT/PURESOLE US : risque double-taxation si app retour ou compta fait déjà ça
+⚡ Admin > Taxes > vérifier app retours (Loop/AfterShip) — 15min max
 ━━━━━━━━━━━━━━━
-3️⃣ 📊 Meta Q4 — dernière fenêtre ads avant BF
-📌 Playbook Playa Vista Summit : campagnes live mi-oct = 5-6 sem de learning avant BF (27/11)
-💡 Lancer en nov = learning ratée = CPMs explosifs pour TT+PURESOLE Q4
-⚡ 1 Advantage+ Shopping Campaign TT, €20/j, 3 créas hooks distincts — activer aujourd'hui
+3️⃣ 📊 TikTok budget pub migre vers YouTube & Pinterest
+📌 Post-ban Meta (Oct 8), TikTok redirige : YouTube 9→17%, Pinterest 3→9%
+💡 PURESOLE : YouTube Shorts + Pinterest ads moins chers = fenêtre prospection
+⚡ Audit Meta Ads liens TikTok + tester 1 YouTube Shorts ad PURESOLE
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta Reels shoppables + catalog carousels nouveaux formats holiday
-🤖 Haiku 5.5 = défaut Claude Code, 90% moins cher API, 1M ctx
-🧠 RAS — Claudian plugin Obsidian (Claude Agent SDK natif) notable
-🛒 Rollouts discounts Shopify : planifier promo + thème comme 1 campagne (parfait BF)
-🔌 MCP HTTP hang 30s corrigé (v2.1.296), Go SDK v1.7 spec 2026-07-28
+📊 Meta nouveaux termes pub le 30 oct — audit campagnes avant deadline
+🤖 Claude Code Review GA Team/Enterprise (Oct 16)
+🧠 Pipeline Claude Code + NotebookLM + Obsidian vault — guide 2026
+🛒 Hydrogen 2026-10 GA + 9 MCP e-com officiels (Shopify, GA, Google Ads)
+🔌 Shopify MCP Pro ShopifyQL analytics + Databox MCP ROAS cross-sources
