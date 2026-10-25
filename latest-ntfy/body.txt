@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Duet — agent proactif en preview
-📌 App iOS/Android Opus 5.5, brief quotidien apps connectées, tâches longues auto
-💡 Solo founder TT/PURESOLE : reporting Shopify + briefs créa sans ouvrir Claude
-⚡ Rejoindre waitlist claude.ai/duet (Pro/Max US)
+1️⃣ 🛒 Shopify Checkout MCP — UCP buyer consent live
+📌 Agents AI checkout doivent envoyer buyer.consent (email/SMS/analytics) sinon commandes bloquées (missing_consent_data)
+💡 Pour Ivan : si tu intègres Claude × Shopify checkout via MCP, consent obligatoire
+⚡ Vérifier `/.well-known/ucp` de ton storefront + version UCP 2026-08-25
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify taxe retour US — LIVE AUJOURD'HUI
-📌 Shopify Tax calcule auto la taxe sur frais de retour US depuis ce matin
-💡 TT/PURESOLE US : risque double-taxation si app retour ou compta fait déjà ça
-⚡ Admin > Taxes > vérifier app retours (Loop/AfterShip) — 15min max
+2️⃣ 📊 Meta product browsing default ON — deadline 28 oct (dans 3 JOURS)
+📌 Meta active auto le browsing produit sur TOUTES tes pubs existantes le 28/10. Opt-out dispo avant.
+💡 Pour Ivan : sans opt-out, visiteurs voient page Meta avant ton store — CRO cassé, pixel imprécis
+⚡ Ads Manager → Advantage+ Creative → Product browsing → opt-out ou test sur 1 adset
 ━━━━━━━━━━━━━━━
-3️⃣ 📊 TikTok budget pub migre vers YouTube & Pinterest
-📌 Post-ban Meta (Oct 8), TikTok redirige : YouTube 9→17%, Pinterest 3→9%
-💡 PURESOLE : YouTube Shorts + Pinterest ads moins chers = fenêtre prospection
-⚡ Audit Meta Ads liens TikTok + tester 1 YouTube Shorts ad PURESOLE
+3️⃣ 🔌 MCP servers v2.0.0 — Node.js 24 requis (Oct 19)
+📌 Suite MCP officielle (filesystem, git, postgres…) upgrade. Node 24 obligatoire pour TypeScript servers.
+💡 Pour Ivan : MCP servers Claude Code à mettre à jour + vérifier Node version
+⚡ node --version → si <24 : brew upgrade node → npm update -g
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta nouveaux termes pub le 30 oct — audit campagnes avant deadline
-🤖 Claude Code Review GA Team/Enterprise (Oct 16)
-🧠 Pipeline Claude Code + NotebookLM + Obsidian vault — guide 2026
-🛒 Hydrogen 2026-10 GA + 9 MCP e-com officiels (Shopify, GA, Google Ads)
-🔌 Shopify MCP Pro ShopifyQL analytics + Databox MCP ROAS cross-sources
+📊 Meta+TikTok silos Q4 : TikTok=top-funnel lo-fi, Meta=retargeting/conv — adapter hooks, pas copier
+🤖 Claude Code v2.1.307 : fix MCP HTTP calls en double sur connexion interrompue
+🧠 YouTube : NotebookLM+Obsidian+Claude full workflow — notes atomiques → vault Obsidian
+🛒 Shopify API 2026-10 : owner_type metafield Checkout UI extensions — doc corrigée Oct 8
+🔌 Haystack MCP : write access sur 4 plateformes dès demain Oct 26 (Claude/ChatGPT/Copilot/Slack)
