@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Duet — agent proactif en preview
-📌 App iOS/Android Opus 5.5, brief quotidien apps connectées, tâches longues auto
-💡 Solo founder TT/PURESOLE : reporting Shopify + briefs créa sans ouvrir Claude
-⚡ Rejoindre waitlist claude.ai/duet (Pro/Max US)
+1️⃣ 📊 Meta Product Browsing ON par défaut DEMAIN
+📌 Meta active sur toutes tes pubs FB/IG le 28 oct une page in-app avant ton site — opt-out encore possible aujourd'hui via Advantage+ Creative settings
+💡 Funnel Shopify court-circuité pour TT/PURESOLE si tu ne désactives pas
+⚡ Meta Ads Manager → Advantage+ Creative → Product Browsing → OFF sur toutes les campagnes actives
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify taxe retour US — LIVE AUJOURD'HUI
-📌 Shopify Tax calcule auto la taxe sur frais de retour US depuis ce matin
-💡 TT/PURESOLE US : risque double-taxation si app retour ou compta fait déjà ça
-⚡ Admin > Taxes > vérifier app retours (Loop/AfterShip) — 15min max
+2️⃣ 🤖 Claude Code v2.1.311 — ultrathink → effort xhigh (Oct 26)
+📌 ultrathink passe en xhigh au lieu de max = moins de tokens, même puissance. Aussi : self-hosted-runner idle control + VSCode syntax highlight
+💡 Réduction coûts API pour tes prompts lourds veille/briefs créa TempleTwins
+⚡ claude --version → vérifier 2.1.311. Remplacer "think harder" par ultrathink dans prompts
 ━━━━━━━━━━━━━━━
-3️⃣ 📊 TikTok budget pub migre vers YouTube & Pinterest
-📌 Post-ban Meta (Oct 8), TikTok redirige : YouTube 9→17%, Pinterest 3→9%
-💡 PURESOLE : YouTube Shorts + Pinterest ads moins chers = fenêtre prospection
-⚡ Audit Meta Ads liens TikTok + tester 1 YouTube Shorts ad PURESOLE
+3️⃣ 🔌 Claude Code MCP Tasks — jobs durables + pause consent (Oct 22)
+📌 Tâches MCP longues sans garder la session ouverte + Elicitations (formulaire terminal mid-task). Requis : protocole 2026-07-28 + v2.1.304+
+💡 Future veille-360 en MCP Task = exécution background sans cloud session active
+⚡ Tester : claude mcp add --transport http https://mcp.upstash.io
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta nouveaux termes pub le 30 oct — audit campagnes avant deadline
-🤖 Claude Code Review GA Team/Enterprise (Oct 16)
-🧠 Pipeline Claude Code + NotebookLM + Obsidian vault — guide 2026
-🛒 Hydrogen 2026-10 GA + 9 MCP e-com officiels (Shopify, GA, Google Ads)
-🔌 Shopify MCP Pro ShopifyQL analytics + Databox MCP ROAS cross-sources
+📊 TikTok Buy Direct in-app checkout + Shopping AI (Oct 5) — surveiller early access PURESOLE
+🤖 Claude Design ferme 14 déc 2026 — exporter projets avant
+🧠 ObsidianDataWeave : NotebookLM notes → MOC Zettelkasten auto
+🛒 Shopify API 2026-10 : segments MATCHES/NOT MATCHES (breaking change)
+🔌 Qlik + Haystack MCPs dans Claude Directory (Oct 26)
