@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 📊 Meta Product Browsing ON par défaut DEMAIN
-📌 Meta active sur toutes tes pubs FB/IG le 28 oct une page in-app avant ton site — opt-out encore possible aujourd'hui via Advantage+ Creative settings
-💡 Funnel Shopify court-circuité pour TT/PURESOLE si tu ne désactives pas
-⚡ Meta Ads Manager → Advantage+ Creative → Product Browsing → OFF sur toutes les campagnes actives
+1️⃣ 🤖 Anthropic dépose son S-1 pour IPO Nasdaq ANT
+📌 Ticker ANT, Goldman+Morgan Stanley, valeur estimée $1.5–2T. Roadshow mi-novembre.
+💡 Claude = ton outil principal TT/PURESOLE — anticiper hausse tarifaire post-IPO
+⚡ Vérifier plan Claude actuel, envisager abonnement annuel si dispo
 ━━━━━━━━━━━━━━━
-2️⃣ 🤖 Claude Code v2.1.311 — ultrathink → effort xhigh (Oct 26)
-📌 ultrathink passe en xhigh au lieu de max = moins de tokens, même puissance. Aussi : self-hosted-runner idle control + VSCode syntax highlight
-💡 Réduction coûts API pour tes prompts lourds veille/briefs créa TempleTwins
-⚡ claude --version → vérifier 2.1.311. Remplacer "think harder" par ultrathink dans prompts
+2️⃣ 📊 Meta Creative-Level Reporting live (28 oct)
+📌 Spend/CTR/CPA/ROAS par asset créa dans Ads Manager — enfin natif.
+💡 Savoir quelle accroche vidéo/static performe dans tes Advantage+ TT/PURESOLE
+⚡ Ads Manager → Colonnes → chercher "asset" → activer CPA par créa
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 Claude Code MCP Tasks — jobs durables + pause consent (Oct 22)
-📌 Tâches MCP longues sans garder la session ouverte + Elicitations (formulaire terminal mid-task). Requis : protocole 2026-07-28 + v2.1.304+
-💡 Future veille-360 en MCP Task = exécution background sans cloud session active
-⚡ Tester : claude mcp add --transport http https://mcp.upstash.io
+3️⃣ 🛒 Shopify Autopilot + Snapchat Ads + SEO IA (28 oct)
+📌 Snapchat désormais canal automatisé dans Campaign Autopilot + suggestions SEO IA.
+💡 Snapchat = 18-30 ans, cœur cible streetwear TT, setup depuis même dashboard
+⚡ Admin → Marketing → Campaigns → tester $5/j Snap sur catalogue TT
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 TikTok Buy Direct in-app checkout + Shopping AI (Oct 5) — surveiller early access PURESOLE
-🤖 Claude Design ferme 14 déc 2026 — exporter projets avant
-🧠 ObsidianDataWeave : NotebookLM notes → MOC Zettelkasten auto
-🛒 Shopify API 2026-10 : segments MATCHES/NOT MATCHES (breaking change)
-🔌 Qlik + Haystack MCPs dans Claude Directory (Oct 26)
+📊 Meta new ad terms 30/10 : tu es responsable des créas IA Meta — auditer Advantage+
+🤖 Claude dispo via Google Cloud API (Opus 5.5 Fast mode, 22 oct)
+🧠 AI Context Pack Obsidian 4.1.4 : bundle vault → Claude/NotebookLM en 1 clic
+🛒 ACTION avant 2/11 : Global Catalog REST API Shopify s'arrête
+🔌 Podbean MCP (28 oct) + Refersion affiliate MCP via Zapier
