@@ -1,13 +1,3 @@
-https://blog.mean.ceo/claude-code-news-september-2026/
-https://ugcvids.ai/vs/arcads-vs-higgsfield
-https://github.com/modelcontextprotocol/servers-archived
-https://www.youtube.com/watch?v=Nhmyrh9I_bA
-https://www.youtube.com/watch?v=EpPuU9k6Ahg
-https://www.youtube.com/watch?v=VC0ec2xD1AE
-https://www.youtube.com/watch?v=SkY-tR9kf-k
-https://www.youtube.com/watch?v=sJVxwwaF0sU
-https://www.youtube.com/watch?v=qpbGtEd23us
-https://www.youtube.com/watch?v=qgYbzDu7hjQ
 https://www.youtube.com/watch?v=NrhsHEmNNo8
 https://code.claude.com/docs/en/changelog
 https://claude.com/blog/claude-for-commerce-agents
@@ -198,3 +188,13 @@ https://saifursaif.com/blog/meta-product-browsing-opt-out/
 https://billo.app/blog/meta-ads-best-practices/
 https://www.fudge.ai/blog/shopify-updates-october-2026/
 https://koderxpert.com/blog/blogs-2/latest-meta-ads-updates-in-october-2026-153
+https://anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation
+https://stellagent.ai/insights/google-universal-cart-us-launch
+https://higgsfield.ai/blog/best-ai-ad-generators-2026
+https://brandsearch.co/blog/winning-meta-ad-patterns-2026
+https://mintec.co/blog/tiktok-ad-creative-data-2026/
+https://www.oldfox.io/en/blog/tiktok-ads-ecommerce-playbook
+https://news.ainauten.com/en/story/how-combining-notebooklm-and-obsidian-transforms-your-research-workflow
+https://developertoolkit.ai/en/ecosystem/mcp/
+https://github.com/modelcontextprotocol/servers/commits/main.atom
+https://www.seroundtable.com/universal-cart-google-search-42312.html

@@ -1,23 +1,25 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Anthropic dépose son S-1 pour IPO Nasdaq ANT
-📌 Ticker ANT, Goldman+Morgan Stanley, valeur estimée $1.5–2T. Roadshow mi-novembre.
-💡 Claude = ton outil principal TT/PURESOLE — anticiper hausse tarifaire post-IPO
-⚡ Vérifier plan Claude actuel, envisager abonnement annuel si dispo
+1️⃣ 🤖 Agent Skills open source → 70+ plateformes
+📌 Anthropic donne standard à AAIF (Linux Found.)
+280M installs, GitHub Copilot + Cursor intégrés
+💡 Skills veille-360/PURESOLE = portables multi-agent
+⚡ Lire anthropic.com/news/donating-agent-skills (5min)
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta Creative-Level Reporting live (28 oct)
-📌 Spend/CTR/CPA/ROAS par asset créa dans Ads Manager — enfin natif.
-💡 Savoir quelle accroche vidéo/static performe dans tes Advantage+ TT/PURESOLE
-⚡ Ads Manager → Colonnes → chercher "asset" → activer CPA par créa
+2️⃣ 🛒 Google Universal Cart US live (Shopify auto)
+📌 Native checkout Search + Gemini depuis 15 oct.
+59/60 Shopify stores activés par défaut sans action
+💡 TT/PURESOLE = panier visible dans Google Gemini
+⚡ Admin Shopify → Google → vérifier statut cart
 ━━━━━━━━━━━━━━━
-3️⃣ 🛒 Shopify Autopilot + Snapchat Ads + SEO IA (28 oct)
-📌 Snapchat désormais canal automatisé dans Campaign Autopilot + suggestions SEO IA.
-💡 Snapchat = 18-30 ans, cœur cible streetwear TT, setup depuis même dashboard
-⚡ Admin → Marketing → Campaigns → tester $5/j Snap sur catalogue TT
+3️⃣ 📊 Higgsfield $230M ARR — UGC AI vs Arcads
+📌 Arcads : 300+ AI actors, ~2.5min/clip ; Higgsfield :
+product-link → clip ad ~$2/8s. Sora retiré 24 sept.
+💡 PURESOLE : UGC sans talent humain disponible now
+⚡ higgsfield.ai → Marketing Studio → 1 clip test
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 Meta new ad terms 30/10 : tu es responsable des créas IA Meta — auditer Advantage+
-🤖 Claude dispo via Google Cloud API (Opus 5.5 Fast mode, 22 oct)
-🧠 AI Context Pack Obsidian 4.1.4 : bundle vault → Claude/NotebookLM en 1 clic
-🛒 ACTION avant 2/11 : Global Catalog REST API Shopify s'arrête
-🔌 Podbean MCP (28 oct) + Refersion affiliate MCP via Zapier
+📚 Autres axes :
+🤖 Haiku 5.5 (7 oct) : 1M ctx, 128K out, défaut Claude Code
+🧠 Vault Obsidian → Google Drive → NotebookLM synthèse
+🛒 Script tags Shopify retirés 1 oct → migrer App Embed
+🔌 MCP Server Cards SEP-2127 Final (6 oct) — metadata std
