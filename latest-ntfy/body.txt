@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Anthropic dépose son S-1 pour IPO Nasdaq ANT
-📌 Ticker ANT, Goldman+Morgan Stanley, valeur estimée $1.5–2T. Roadshow mi-novembre.
-💡 Claude = ton outil principal TT/PURESOLE — anticiper hausse tarifaire post-IPO
-⚡ Vérifier plan Claude actuel, envisager abonnement annuel si dispo
+1️⃣ 🤖 Claude Code v2.1.316 — SUBAGENT_EFFORT env var
+📌 Nouvelle var CLAUDE_CODE_SUBAGENT_EFFORT pour contrôler l'effort des sous-agents. Fast mode Opus 4.8 déprécié, migrer vers Opus 5.5 avant le 30 nov.
+💡 Tes agents veille/batch TT peuvent passer en medium → économie tokens
+⚡ Ajouter CLAUDE_CODE_SUBAGENT_EFFORT=medium dans settings.json
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta Creative-Level Reporting live (28 oct)
-📌 Spend/CTR/CPA/ROAS par asset créa dans Ads Manager — enfin natif.
-💡 Savoir quelle accroche vidéo/static performe dans tes Advantage+ TT/PURESOLE
-⚡ Ads Manager → Colonnes → chercher "asset" → activer CPA par créa
+2️⃣ 🛒 Shopify Exponential — Sidekick Voice + Shop Pay dans les AI agents
+📌 Sidekick Voice dispo app mobile. Shop Pay intégrable dans chatbots Claude/ChatGPT pour vente sans redirection.
+💡 Canal vente conversationnel pour TT et PURESOLE sans friction
+⚡ Activer Sidekick Voice dans Shopify admin → Apps
 ━━━━━━━━━━━━━━━
-3️⃣ 🛒 Shopify Autopilot + Snapchat Ads + SEO IA (28 oct)
-📌 Snapchat désormais canal automatisé dans Campaign Autopilot + suggestions SEO IA.
-💡 Snapchat = 18-30 ans, cœur cible streetwear TT, setup depuis même dashboard
-⚡ Admin → Marketing → Campaigns → tester $5/j Snap sur catalogue TT
+3️⃣ 📊 Meta Advantage+ réécrit tes ads + ta responsabilité légale au 20/11
+📌 Meta réécrit headlines/textes par défaut depuis le 30 oct. Nouvelles CGU au 20 nov : tu es responsable des contenus AI-générés, même sans opt-in.
+💡 Risque claims invalides sur tes pubs TT/PURESOLE
+⚡ Ads Manager → Ad → Advantage+ creative → désactiver Text improvements
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta new ad terms 30/10 : tu es responsable des créas IA Meta — auditer Advantage+
-🤖 Claude dispo via Google Cloud API (Opus 5.5 Fast mode, 22 oct)
-🧠 AI Context Pack Obsidian 4.1.4 : bundle vault → Claude/NotebookLM en 1 clic
-🛒 ACTION avant 2/11 : Global Catalog REST API Shopify s'arrête
-🔌 Podbean MCP (28 oct) + Refersion affiliate MCP via Zapier
+📊 Meta AI rewrites : jusqu'à 8 variantes headline depuis images texte (activé par défaut)
+🤖 Claude Desktop change 10/11 : Cowork activé par défaut si non configuré
+🧠 NotebookLM vs Obsidian 2026 : complémentaires — analyse vs capitalisation
+🛒 EU règle 3 identifiants produit : effective aujourd'hui pour colis <150€
+🔌 Suno MCP officiel : génération musique depuis Claude (early access)
