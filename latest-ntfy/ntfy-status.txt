@@ -1,1 +1,3 @@
-NTFY_HTTP=000 (proxy 403 — egress policy denies ntfy.sh:443)
+NTFY_FAILED: ntfy.sh blocked by egress proxy (connect_rejected) — 2026-11-02 07:xx UTC
+NTFY_HTTP: 000 (both attempts)
+REASON: host not in session's allowed domain list
