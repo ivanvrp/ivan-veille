@@ -1,23 +1,22 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH (3 analyses Gemini)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Anthropic dépose son S-1 pour IPO Nasdaq ANT
-📌 Ticker ANT, Goldman+Morgan Stanley, valeur estimée $1.5–2T. Roadshow mi-novembre.
-💡 Claude = ton outil principal TT/PURESOLE — anticiper hausse tarifaire post-IPO
-⚡ Vérifier plan Claude actuel, envisager abonnement annuel si dispo
+1️⃣ Better With This Setup (CLAUDE.md + Skills + MCPs)
+💡 Feuille de route complète : CLAUDE.md global → Skills marketplace → MCPs → Agent Teams parallèles
+⚡ Créer ~/.claude/CLAUDE.md avec ta stack TempleTwins ce weekend
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta Creative-Level Reporting live (28 oct)
-📌 Spend/CTR/CPA/ROAS par asset créa dans Ads Manager — enfin natif.
-💡 Savoir quelle accroche vidéo/static performe dans tes Advantage+ TT/PURESOLE
-⚡ Ads Manager → Colonnes → chercher "asset" → activer CPA par créa
+2️⃣ Top 5 Skills officiels Anthropic (skill-creator, frontend-design…)
+💡 /frontend-design génère UI complète depuis texte — game changer solo founder
+⚡ Installer /skill-creator + /frontend-design via /plugin marketplace
 ━━━━━━━━━━━━━━━
-3️⃣ 🛒 Shopify Autopilot + Snapchat Ads + SEO IA (28 oct)
-📌 Snapchat désormais canal automatisé dans Campaign Autopilot + suggestions SEO IA.
-💡 Snapchat = 18-30 ans, cœur cible streetwear TT, setup depuis même dashboard
-⚡ Admin → Marketing → Campaigns → tester $5/j Snap sur catalogue TT
+3️⃣ MCP in 19 min — filesystem local + Notion fan-out (22 oct.)
+💡 1 prompt → Claude écrit rapport local ET crée page Notion simultanément
+⚡ Connecter MCP filesystem dossier PURESOLE + Notion workspace
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 Meta new ad terms 30/10 : tu es responsable des créas IA Meta — auditer Advantage+
-🤖 Claude dispo via Google Cloud API (Opus 5.5 Fast mode, 22 oct)
-🧠 AI Context Pack Obsidian 4.1.4 : bundle vault → Claude/NotebookLM en 1 clic
-🛒 ACTION avant 2/11 : Global Catalog REST API Shopify s'arrête
-🔌 Podbean MCP (28 oct) + Refersion affiliate MCP via Zapier
+🚀 SKILLS PROPOSÉS : 4
+• shopify-copywriting-style (voice guide TempleTwins)
+• claude-md-generator (auto CLAUDE.md depuis description)
+• shopify-product-description (fiches produits SEO)
+• notion-shopify-sync (fan-out Shopify → local + Notion)
+━━━━━━━━━━━━━━━
+💡 Insight cross-vidéos :
+Stack gagnante solo founder = CLAUDE.md + 2-3 Skills + MCPs filesystem+Notion — investir dans les skills est cross-platform (Agentic AI Foundation)
