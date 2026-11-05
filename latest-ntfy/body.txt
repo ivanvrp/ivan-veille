@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Anthropic dépose son S-1 pour IPO Nasdaq ANT
-📌 Ticker ANT, Goldman+Morgan Stanley, valeur estimée $1.5–2T. Roadshow mi-novembre.
-💡 Claude = ton outil principal TT/PURESOLE — anticiper hausse tarifaire post-IPO
-⚡ Vérifier plan Claude actuel, envisager abonnement annuel si dispo
+1️⃣ 🤖 Claude Messages API Threads (beta) — Nov 2
+📌 Header beta active server-side state → moins de tokens, TTFT réduit pour agent loops
+💡 Direct pipelines veille-360 / contenu TT — chaque boucle multi-turn coûte moins
+⚡ Ajouter `anthropic-beta: message-threads-2026-08-12` au prochain appel API
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta Creative-Level Reporting live (28 oct)
-📌 Spend/CTR/CPA/ROAS par asset créa dans Ads Manager — enfin natif.
-💡 Savoir quelle accroche vidéo/static performe dans tes Advantage+ TT/PURESOLE
-⚡ Ads Manager → Colonnes → chercher "asset" → activer CPA par créa
+2️⃣ 🛒 Shopify Fall '26 — Sidekick Voice + WhatsApp cart recovery
+📌 Sidekick Voice dans app mobile + automations WhatsApp abandon panier disponibles
+💡 PURESOLE : activer récupération panier WhatsApp = CRO sans dev
+⚡ Shopify Messaging → créer séquence abandon panier WhatsApp maintenant
 ━━━━━━━━━━━━━━━
-3️⃣ 🛒 Shopify Autopilot + Snapchat Ads + SEO IA (28 oct)
-📌 Snapchat désormais canal automatisé dans Campaign Autopilot + suggestions SEO IA.
-💡 Snapchat = 18-30 ans, cœur cible streetwear TT, setup depuis même dashboard
-⚡ Admin → Marketing → Campaigns → tester $5/j Snap sur catalogue TT
+3️⃣ 🤖 Claude Code 2.1.317-318 — hook blocking + subagent effort
+📌 Hooks peuvent bloquer action si callback fail + var CLAUDE_CODE_SUBAGENT_EFFORT
+💡 Sécuriser la veille auto + contrôler coût sous-agents
+⚡ Ajouter CLAUDE_CODE_SUBAGENT_EFFORT=medium dans .env veille
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta new ad terms 30/10 : tu es responsable des créas IA Meta — auditer Advantage+
-🤖 Claude dispo via Google Cloud API (Opus 5.5 Fast mode, 22 oct)
-🧠 AI Context Pack Obsidian 4.1.4 : bundle vault → Claude/NotebookLM en 1 clic
-🛒 ACTION avant 2/11 : Global Catalog REST API Shopify s'arrête
-🔌 Podbean MCP (28 oct) + Refersion affiliate MCP via Zapier
+📊 Scaler un créa seulement après check profit réel, pas ROAS plateforme (eva.guru)
+🤖 Watermarking texte Sonnet 4.6 / Opus 4.7 / Mythos 5 activé (3 nov)
+🧠 Workflow Claude Code → NotebookLM → Obsidian vault automatisé (chaseai.io)
+🛒 Same-day ACH Shopify Balance US + API Catalog REST hors service (2 nov)
+🔌 Loova AI MCP : 9 workflows image/vidéo pour agents (3 nov)
