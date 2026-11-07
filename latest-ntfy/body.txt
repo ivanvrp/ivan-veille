@@ -1,23 +1,18 @@
-🔥 TOP 3 (à actionner)
+🔥 TOP 2 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🤖 Claude Messages API Threads (beta) — Nov 2
-📌 Header beta active server-side state → moins de tokens, TTFT réduit pour agent loops
-💡 Direct pipelines veille-360 / contenu TT — chaque boucle multi-turn coûte moins
-⚡ Ajouter `anthropic-beta: message-threads-2026-08-12` au prochain appel API
+1️⃣ 🛒 Shopify WebMCP — agents IA sur toutes boutiques
+📌 Shop Pay actif dans Claude Duet & Meta Muse — 4 outils checkout sur toutes les boutiques Liquid/Hydrogen sans dev
+💡 PURESOLE/TT achetables par agents shopping dès maintenant
+⚡ Admin → Settings → AI & Agents → activer knowledge base
 ━━━━━━━━━━━━━━━
-2️⃣ 🛒 Shopify Fall '26 — Sidekick Voice + WhatsApp cart recovery
-📌 Sidekick Voice dans app mobile + automations WhatsApp abandon panier disponibles
-💡 PURESOLE : activer récupération panier WhatsApp = CRO sans dev
-⚡ Shopify Messaging → créer séquence abandon panier WhatsApp maintenant
-━━━━━━━━━━━━━━━
-3️⃣ 🤖 Claude Code 2.1.317-318 — hook blocking + subagent effort
-📌 Hooks peuvent bloquer action si callback fail + var CLAUDE_CODE_SUBAGENT_EFFORT
-💡 Sécuriser la veille auto + contrôler coût sous-agents
-⚡ Ajouter CLAUDE_CODE_SUBAGENT_EFFORT=medium dans .env veille
+2️⃣ 🔌 claude-mem — mémoire persistante Claude Code
+📌 Plugin 114k★ : enregistre contexte entre sessions, réinjecte au redémarrage (v15.11.0)
+💡 Fini le re-contexte sur PURESOLE/TT à chaque session
+⚡ /plugin marketplace add thedotmack/claude-mem + restart
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Scaler un créa seulement après check profit réel, pas ROAS plateforme (eva.guru)
-🤖 Watermarking texte Sonnet 4.6 / Opus 4.7 / Mythos 5 activé (3 nov)
-🧠 Workflow Claude Code → NotebookLM → Obsidian vault automatisé (chaseai.io)
-🛒 Same-day ACH Shopify Balance US + API Catalog REST hors service (2 nov)
-🔌 Loova AI MCP : 9 workflows image/vidéo pour agents (3 nov)
+📊 Meta Advantage+ Creative réécrit vos images ads — responsabilité annonceur depuis Oct 30
+🤖 Anthropic donne Agent Skills à l'AAIF — skills portables sur 70+ plateformes
+🧠 RAS
+🛒 Voir TOP 1 — WebMCP Fall '26 Edition
+🔌 Triple Whale MCP — ROAS/CAC/attribution en prose pour Shopify
