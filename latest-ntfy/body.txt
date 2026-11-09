@@ -1,18 +1,23 @@
-🔥 TOP 2 (à actionner)
+🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🛒 Shopify WebMCP — agents IA sur toutes boutiques
-📌 Shop Pay actif dans Claude Duet & Meta Muse — 4 outils checkout sur toutes les boutiques Liquid/Hydrogen sans dev
-💡 PURESOLE/TT achetables par agents shopping dès maintenant
-⚡ Admin → Settings → AI & Agents → activer knowledge base
+1️⃣ 🛒 Shopify Fall '26 — Sidekick Voice + Google AI Mode checkout
+📌 150+ updates : checkout dans Google AI Mode (US/CA/AU), Sidekick Voice sur mobile, Shopify Protect Rule Builder anti-fraude
+💡 Canal Q4 à ouvrir avant Black Friday 27 nov pour PURESOLE/TT
+⚡ Shopify Mobile → Settings > Features → activer Sidekick Voice (5 min)
 ━━━━━━━━━━━━━━━
-2️⃣ 🔌 claude-mem — mémoire persistante Claude Code
-📌 Plugin 114k★ : enregistre contexte entre sessions, réinjecte au redémarrage (v15.11.0)
-💡 Fini le re-contexte sur PURESOLE/TT à chaque session
-⚡ /plugin marketplace add thedotmack/claude-mem + restart
+2️⃣ 📊 Meta Pixel on-device — ROAS va changer le 12 nov
+📌 Meta bascule mesure conversion côté device — ROAS/CPA affichés bougent sans raison créa
+💡 Risque de couper une campagne qui performe ou doubler les budgets par erreur
+⚡ Ads Manager → Events Manager → screenshot ROAS baseline AVANT le 12 nov
+━━━━━━━━━━━━━━━
+3️⃣ 🔌 MCP v2.3.0 + SDK 2.4.0 — Skills over MCP
+📌 Nouveaux git tools, host allowlist, filesystem filter ; SDK : exposer skills Claude comme outils MCP
+💡 Automatiser pipelines veille/analytics sans coder d'intégration custom
+⚡ npm update @modelcontextprotocol/server-filesystem → 2.2.0
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta Advantage+ Creative réécrit vos images ads — responsabilité annonceur depuis Oct 30
-🤖 Anthropic donne Agent Skills à l'AAIF — skills portables sur 70+ plateformes
-🧠 RAS
-🛒 Voir TOP 1 — WebMCP Fall '26 Edition
-🔌 Triple Whale MCP — ROAS/CAC/attribution en prose pour Shopify
+📊 Meta vidéo IA depuis assets statiques — GA dans Ads Manager (tester visuel PURESOLE)
+🤖 Claude Message Threads API beta — TTft -35% pour agent loops (header nov 2)
+🧠 obsidian-second-brain plugin — /notebooklm cmd + 48 commandes, multi-agents
+🛒 Shopify public apps IP allowlist — deadline 12-20 nov (vérifier apps tierces)
+🔌 Loova AI MCP — génération image/vidéo pro dans Claude (alternative Higgsfield)
