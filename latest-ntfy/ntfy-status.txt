@@ -1,1 +1,4 @@
-NTFY_HTTP=000 (proxy 403 — egress policy denies ntfy.sh:443)
+NTFY_HTTP: 000 (blocked by cloud proxy — ntfy.sh not reachable from this environment)
+RETRY: 1x (after 3s) — same result
+FALLBACK: body committed to repo — readable at latest-ntfy/body.txt
+DATE: 2026-11-09

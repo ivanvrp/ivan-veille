@@ -1,23 +1,24 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH (top 3)
 ━━━━━━━━━━━━━━━
-1️⃣ 🛒 Shopify Fall '26 — Sidekick Voice + Google AI Mode checkout
-📌 150+ updates : checkout dans Google AI Mode (US/CA/AU), Sidekick Voice sur mobile, Shopify Protect Rule Builder anti-fraude
-💡 Canal Q4 à ouvrir avant Black Friday 27 nov pour PURESOLE/TT
-⚡ Shopify Mobile → Settings > Features → activer Sidekick Voice (5 min)
+1️⃣ Claude Code vs Cowork: 17 Skills + 11 Plugins
+💡 2 cockpits distincts, taxe contexte ~60 tokens/skill, audit mensuel obligatoire
+⚡ Installer depuis le bon dépôt (anthropic/skills vs anthropic/knowledge-work-plugins)
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta Pixel on-device — ROAS va changer le 12 nov
-📌 Meta bascule mesure conversion côté device — ROAS/CPA affichés bougent sans raison créa
-💡 Risque de couper une campagne qui performe ou doubler les budgets par erreur
-⚡ Ads Manager → Events Manager → screenshot ROAS baseline AVANT le 12 nov
+2️⃣ Agent Skills or MCP in the Era of Claude Code?
+💡 Skills = local+scripts, MCP = cloud+auth — complémentaires, pas concurrents
+⚡ Structurer ses skills avec resources/ + scripts/ pour l'API Shopify
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 MCP v2.3.0 + SDK 2.4.0 — Skills over MCP
-📌 Nouveaux git tools, host allowlist, filesystem filter ; SDK : exposer skills Claude comme outils MCP
-💡 Automatiser pipelines veille/analytics sans coder d'intégration custom
-⚡ npm update @modelcontextprotocol/server-filesystem → 2.2.0
+3️⃣ How I Use Claude Code: Skills, MCP, Agents & Plugins
+💡 Guide pratique complet avec prompts verbatim pour créer commands /tweet /stock-alert
+⚡ Créer commande /daily-report pour rapport ventes quotidien PURESOLE/TempleTwins
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 Meta vidéo IA depuis assets statiques — GA dans Ads Manager (tester visuel PURESOLE)
-🤖 Claude Message Threads API beta — TTft -35% pour agent loops (header nov 2)
-🧠 obsidian-second-brain plugin — /notebooklm cmd + 48 commandes, multi-agents
-🛒 Shopify public apps IP allowlist — deadline 12-20 nov (vérifier apps tierces)
-🔌 Loova AI MCP — génération image/vidéo pro dans Claude (alternative Higgsfield)
+🚀 SKILLS PROPOSÉS : 6
+1. product-launch-workflow (9/10) — workflow dropshipping complet
+2. shopify-inventory-sync (8/10) — sync stock CSV fournisseur
+3. dropship-order-automation (9/10) — envoi commandes PURESOLE
+4. streetwear-trend-analyzer (7/10) — tendances TempleTwins
+5. product-description-seo (9/10) — fiches Shopify optimisées
+6. ad-campaign-analyzer (8/10) — optimisation Meta/Google Ads
+━━━━━━━━━━━━━━━
+💡 Insight cross-vidéos :
+L'écosystème Claude se structure en 3 couches stables : Skills (local/métier) + MCP (cloud/auth) + Agents (parallélisation) — construire ses skills e-commerce maintenant pendant que le standard s'ouvre via l'AAF.
