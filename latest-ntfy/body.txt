@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🛒 Shopify Fall '26 — Sidekick Voice + Google AI Mode checkout
-📌 150+ updates : checkout dans Google AI Mode (US/CA/AU), Sidekick Voice sur mobile, Shopify Protect Rule Builder anti-fraude
-💡 Canal Q4 à ouvrir avant Black Friday 27 nov pour PURESOLE/TT
-⚡ Shopify Mobile → Settings > Features → activer Sidekick Voice (5 min)
+1️⃣ 🤖 Claude Fable 5.2 = nouveau défaut Claude Code
+📌 Contexte 1M tokens + adaptive thinking, Fable 5.2 remplace l'ancien défaut dans Claude Code depuis le 9 nov.
+💡 Ta stack TT/PURESOLE tourne automatiquement dessus — analyse tout un projet Shopify en une passe.
+⚡ `claude --version` puis tester le contexte 1M sur ton theme Dawn complet.
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta Pixel on-device — ROAS va changer le 12 nov
-📌 Meta bascule mesure conversion côté device — ROAS/CPA affichés bougent sans raison créa
-💡 Risque de couper une campagne qui performe ou doubler les budgets par erreur
-⚡ Ads Manager → Events Manager → screenshot ROAS baseline AVANT le 12 nov
+2️⃣ 🔌 MCP servers v2.4.0 — filesystem + 3 CVE patchés
+📌 Sorti aujourd'hui : --read-only-dir pour exposer Obsidian sans risque d'écriture, 3 security fixes critiques.
+💡 Protège ton vault Obsidian exposé à Claude sans risque d'effacement accidentel.
+⚡ npm update @modelcontextprotocol/server-filesystem + relancer avec --read-only-dir
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 MCP v2.3.0 + SDK 2.4.0 — Skills over MCP
-📌 Nouveaux git tools, host allowlist, filesystem filter ; SDK : exposer skills Claude comme outils MCP
-💡 Automatiser pipelines veille/analytics sans coder d'intégration custom
-⚡ npm update @modelcontextprotocol/server-filesystem → 2.2.0
+3️⃣ 🛒 Shopify IP allowlist — deadline DEMAIN 12 nov (apps publiques)
+📌 Bulk operations = 12 nov minuit ET, autres apps publiques = 20 nov. Défaut = délistage App Store.
+💡 Critique si tu as une app publique Shopify (custom apps non affectées).
+⚡ Vérifier Partner Dashboard maintenant — configurer IP/ASN allowlist.
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta vidéo IA depuis assets statiques — GA dans Ads Manager (tester visuel PURESOLE)
-🤖 Claude Message Threads API beta — TTft -35% pour agent loops (header nov 2)
-🧠 obsidian-second-brain plugin — /notebooklm cmd + 48 commandes, multi-agents
-🛒 Shopify public apps IP allowlist — deadline 12-20 nov (vérifier apps tierces)
-🔌 Loova AI MCP — génération image/vidéo pro dans Claude (alternative Higgsfield)
+📊 Meta creative volume : 20+ ads/mois = +65% ROAS (Advantage+ = levier targeting, créa = seul vrai différenciateur)
+🤖 Anthropic IPO roadshow lancé le 10 nov (valorisation >60Mds$ — impact pricing API à surveiller)
+🧠 Stack Claude+NotebookLM+Obsidian : guide complet pipeline research → vault (grindengineer.substack)
+🛒 Shopify expiring tokens : deadline Jan 1 2027 pour apps publiques existantes (prochaine action après 20 nov)
+🔌 WellSaid MCP : voix IA licensiées 48kHz dans Claude via MCP — pour UGC ads vidéo sans VO humaine
