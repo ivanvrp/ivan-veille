@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🛒 Shopify Fall '26 — Sidekick Voice + Google AI Mode checkout
-📌 150+ updates : checkout dans Google AI Mode (US/CA/AU), Sidekick Voice sur mobile, Shopify Protect Rule Builder anti-fraude
-💡 Canal Q4 à ouvrir avant Black Friday 27 nov pour PURESOLE/TT
-⚡ Shopify Mobile → Settings > Features → activer Sidekick Voice (5 min)
+1️⃣ 🤖 Claude Fable 5.2 — 20% moins cher, 2.5× rapide
+📌 $8/$40 par MTok, 1M context, adaptive thinking always-on. 20% sous Fable 5.1
+💡 Réduire coût pipelines veille-360 et agents e-com PURESOLE
+⚡ Remplacer claude-fable-5-1 → claude-fable-5-2 dans CLAUDE.md
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta Pixel on-device — ROAS va changer le 12 nov
-📌 Meta bascule mesure conversion côté device — ROAS/CPA affichés bougent sans raison créa
-💡 Risque de couper une campagne qui performe ou doubler les budgets par erreur
-⚡ Ads Manager → Events Manager → screenshot ROAS baseline AVANT le 12 nov
+2️⃣ 🛒 TikTok Buy Direct + AI Shopping live US
+📌 1-clic checkout For You feed, natif Shopify/Stripe, avant Black Friday 27 nov
+💡 Nouveau canal vente PURESOLE sans redirection, complémentaire TikTok Shop
+⚡ TikTok Biz → vérifier éligibilité Buy Direct early access pour PURESOLE
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 MCP v2.3.0 + SDK 2.4.0 — Skills over MCP
-📌 Nouveaux git tools, host allowlist, filesystem filter ; SDK : exposer skills Claude comme outils MCP
-💡 Automatiser pipelines veille/analytics sans coder d'intégration custom
-⚡ npm update @modelcontextprotocol/server-filesystem → 2.2.0
+3️⃣ 🔌 MCP File Uploads/Downloads — extension expérimentale
+📌 Transférer fichiers clients/outils MCP sans base64 manuel, stade early (Nov 10)
+💡 Automatiser envoi CSV produits PURESOLE via pipeline Claude
+⚡ Lire post 12min blog.modelcontextprotocol.io, noter patterns
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta vidéo IA depuis assets statiques — GA dans Ads Manager (tester visuel PURESOLE)
-🤖 Claude Message Threads API beta — TTft -35% pour agent loops (header nov 2)
-🧠 obsidian-second-brain plugin — /notebooklm cmd + 48 commandes, multi-agents
-🛒 Shopify public apps IP allowlist — deadline 12-20 nov (vérifier apps tierces)
-🔌 Loova AI MCP — génération image/vidéo pro dans Claude (alternative Higgsfield)
+📊 Meta creative terms reportées sine die — pas d'urgence légale avant BF
+🤖 Managed Agents auto-hébergé (Nov 12) — pipeline sécurisé sur sa propre infra
+🧠 Obsidian = mémoire continue agents, NotebookLM = deep Q&A sur corpus fixe
+🛒 Shop sans Shopify Payments ouvert (Nov 10) — activer canal organique 150M acheteurs
+🔌 MCP release cycle prévisible — 3 leads, cadence stabilisée
