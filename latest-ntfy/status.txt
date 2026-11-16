@@ -1,0 +1,1 @@
+NTFY_STATUS: blocked_by_egress_proxy (ntfy.sh non autorisé dans ce cloud session)
