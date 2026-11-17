@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🛒 Shopify Fall '26 — Sidekick Voice + Google AI Mode checkout
-📌 150+ updates : checkout dans Google AI Mode (US/CA/AU), Sidekick Voice sur mobile, Shopify Protect Rule Builder anti-fraude
-💡 Canal Q4 à ouvrir avant Black Friday 27 nov pour PURESOLE/TT
-⚡ Shopify Mobile → Settings > Features → activer Sidekick Voice (5 min)
+1️⃣ 🛒 EU 3 identifiants Shopify — PURESOLE
+📌 Depuis Nov 1 : chaque colis EU < €150 exige SKU+EAN+NS-PID. Colis sans ID = refus douane + retour payant.
+💡 Critique pour dropship PURESOLE vers UE
+⚡ Export CSV produits → vérifier col. Barcode et SKU
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta Pixel on-device — ROAS va changer le 12 nov
-📌 Meta bascule mesure conversion côté device — ROAS/CPA affichés bougent sans raison créa
-💡 Risque de couper une campagne qui performe ou doubler les budgets par erreur
-⚡ Ads Manager → Events Manager → screenshot ROAS baseline AVANT le 12 nov
+2️⃣ 🤖 Claude Fable 5.2 — $8/$40 par M tokens (-20%)
+📌 Lancé le 9 nov. Fast mode 2.3x plus rapide. Retrait Sonnet 4.5 le 30 nov.
+💡 Baisse coût API Claude Code TT/PURESOLE immédiate
+⚡ /config dans Claude Code → switcher sur claude-fable-5-2
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 MCP v2.3.0 + SDK 2.4.0 — Skills over MCP
-📌 Nouveaux git tools, host allowlist, filesystem filter ; SDK : exposer skills Claude comme outils MCP
-💡 Automatiser pipelines veille/analytics sans coder d'intégration custom
-⚡ npm update @modelcontextprotocol/server-filesystem → 2.2.0
+3️⃣ 📊 Meta Image-to-Video GA — photos → vidéo ads
+📌 Advantage+ Creative : 1 photo produit → vidéo animée Reels/Stories. Gratuit.
+💡 Transformer stock photos TT/PURESOLE en vidéo sans budget prod
+⚡ Ads Manager → Advantage+ → "Add animation" sur 2-3 photos top
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta vidéo IA depuis assets statiques — GA dans Ads Manager (tester visuel PURESOLE)
-🤖 Claude Message Threads API beta — TTft -35% pour agent loops (header nov 2)
-🧠 obsidian-second-brain plugin — /notebooklm cmd + 48 commandes, multi-agents
-🛒 Shopify public apps IP allowlist — deadline 12-20 nov (vérifier apps tierces)
-🔌 Loova AI MCP — génération image/vidéo pro dans Claude (alternative Higgsfield)
+📊 Meta Commercial Terms Nov 20 annulée — risque légal IA ads différé
+🤖 Sonnet 4.5 + fast mode Opus 4.8 retirés API le 30 nov
+🧠 ObsidianDataWeave : NotebookLM → Obsidian MOC+Zettelkasten auto
+🛒 Shopify Fall 26 : 20 barcodes/variant, édition variant inline
+🔌 MCP roadmap Nov 11 : HTTP-native transport priorité 2027
