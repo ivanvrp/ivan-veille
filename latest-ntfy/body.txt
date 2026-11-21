@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🛒 Shopify Fall '26 — Sidekick Voice + Google AI Mode checkout
-📌 150+ updates : checkout dans Google AI Mode (US/CA/AU), Sidekick Voice sur mobile, Shopify Protect Rule Builder anti-fraude
-💡 Canal Q4 à ouvrir avant Black Friday 27 nov pour PURESOLE/TT
-⚡ Shopify Mobile → Settings > Features → activer Sidekick Voice (5 min)
+1️⃣ 🤖 Claude Fable 5.2 — 1M tokens, reasoning always-on
+📌 Lancé le 9 nov. 1M context, 128k output, $8/$40 MTok. Sonnet 4.5 retraité le 30 nov.
+💡 Charger toute la boutique + campagnes en 1 session agentique TT/PURESOLE
+⚡ Tester claude-fable-5-2 dans Claude Code sur un brief produit long (5min)
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta Pixel on-device — ROAS va changer le 12 nov
-📌 Meta bascule mesure conversion côté device — ROAS/CPA affichés bougent sans raison créa
-💡 Risque de couper une campagne qui performe ou doubler les budgets par erreur
-⚡ Ads Manager → Events Manager → screenshot ROAS baseline AVANT le 12 nov
+2️⃣ 🛒 Shopify : Shop App sans SP + Activity Log 18 mois
+📌 Nov 10 : boutiques sans Shopify Payments dans Shop App. Nov 13 : log 18 mois d'activité.
+💡 Nouveau canal gratuit pour PURESOLE + débogage changements boutique facilité
+⚡ Admin → Settings → Shop → activer éligibilité Shop App (5min)
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 MCP v2.3.0 + SDK 2.4.0 — Skills over MCP
-📌 Nouveaux git tools, host allowlist, filesystem filter ; SDK : exposer skills Claude comme outils MCP
-💡 Automatiser pipelines veille/analytics sans coder d'intégration custom
-⚡ npm update @modelcontextprotocol/server-filesystem → 2.2.0
+3️⃣ 🔌 MCP Extension File Upload/Download (early-stage)
+📌 Blog officiel MCP, 10 nov. Agents transfèrent images/CSV/PDF entre clients et outils.
+💡 Pipeline images produits PURESOLE → MCP Shopify → MCP Canva sans upload manuel
+⚡ Lire le post sur blog.modelcontextprotocol.io (12min)
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta vidéo IA depuis assets statiques — GA dans Ads Manager (tester visuel PURESOLE)
-🤖 Claude Message Threads API beta — TTft -35% pour agent loops (header nov 2)
-🧠 obsidian-second-brain plugin — /notebooklm cmd + 48 commandes, multi-agents
-🛒 Shopify public apps IP allowlist — deadline 12-20 nov (vérifier apps tierces)
-🔌 Loova AI MCP — génération image/vidéo pro dans Claude (alternative Higgsfield)
+📊 Meta Advantage+ vidéo gen GA — image → vidéo ad, +10% CTR en beta (tester sur PURESOLE)
+🤖 Linked Billing beta (17 nov) — users finaux paient leur org Claude directement
+🧠 AI Context Pack Obsidian → NotebookLM en 1 clic (plugin communautaire)
+🛒 DEADLINE 20 nov : Network Access Declarations obligatoires pour apps storefront
+🔌 MCP release cycle prévisible + Ruby SDK Tier 1 (spec 2026-07-28)
