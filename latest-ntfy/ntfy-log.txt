@@ -1,0 +1,1 @@
+2026-11-23 ntfy KO — connect_rejected proxy 403 (ntfy.sh non autorisé dans cet env cloud)

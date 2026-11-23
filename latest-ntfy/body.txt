@@ -1,23 +1,17 @@
-🔥 TOP 3 (à actionner)
+🔥 MUST-WATCH (2 cette semaine)
 ━━━━━━━━━━━━━━━
-1️⃣ 🛒 Shopify Fall '26 — Sidekick Voice + Google AI Mode checkout
-📌 150+ updates : checkout dans Google AI Mode (US/CA/AU), Sidekick Voice sur mobile, Shopify Protect Rule Builder anti-fraude
-💡 Canal Q4 à ouvrir avant Black Friday 27 nov pour PURESOLE/TT
-⚡ Shopify Mobile → Settings > Features → activer Sidekick Voice (5 min)
+1️⃣ Rethinking Claude Code Best Practices — Lydia Hallie
+💡 Claude devient agent autonome : auto-mode, hooks exit 2, cloud sessions
+⚡ Lire : /doctor prompt-audit + configurer hard_deny dans settings.json
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta Pixel on-device — ROAS va changer le 12 nov
-📌 Meta bascule mesure conversion côté device — ROAS/CPA affichés bougent sans raison créa
-💡 Risque de couper une campagne qui performe ou doubler les budgets par erreur
-⚡ Ads Manager → Events Manager → screenshot ROAS baseline AVANT le 12 nov
+2️⃣ Code Mode Is The Biggest Claude Code Upgrade In a LONG Time
+💡 Code Mode : scripts parallèles Bash+Read+Edit en 1 appel, moins de tokens
+⚡ Tester : export CLAUDE_CODE_EXPERIMENTAL_CODE_MODE=1
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 MCP v2.3.0 + SDK 2.4.0 — Skills over MCP
-📌 Nouveaux git tools, host allowlist, filesystem filter ; SDK : exposer skills Claude comme outils MCP
-💡 Automatiser pipelines veille/analytics sans coder d'intégration custom
-⚡ npm update @modelcontextprotocol/server-filesystem → 2.2.0
+🚀 SKILLS PROPOSÉS : 3
+- EcomGuardRails : deny rules auto pour projets Shopify
+- ShopifyFlowHelper : sessions orchestrées pour objectifs métier
+- CodeModeOrchestrator : scripts parallèles Code Mode multi-fichiers
 ━━━━━━━━━━━━━━━
-📚 Autres axes (1 ligne) :
-📊 Meta vidéo IA depuis assets statiques — GA dans Ads Manager (tester visuel PURESOLE)
-🤖 Claude Message Threads API beta — TTft -35% pour agent loops (header nov 2)
-🧠 obsidian-second-brain plugin — /notebooklm cmd + 48 commandes, multi-agents
-🛒 Shopify public apps IP allowlist — deadline 12-20 nov (vérifier apps tierces)
-🔌 Loova AI MCP — génération image/vidéo pro dans Claude (alternative Higgsfield)
+💡 Insight cross-vidéos :
+Claude passe du copilote à l'agent autonome — Code Mode + Cloud sessions + Hooks convergent vers un Claude qui tourne seul pendant des heures.
