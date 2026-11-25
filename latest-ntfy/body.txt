@@ -1,23 +1,23 @@
 🔥 TOP 3 (à actionner)
 ━━━━━━━━━━━━━━━
-1️⃣ 🛒 Shopify Fall '26 — Sidekick Voice + Google AI Mode checkout
-📌 150+ updates : checkout dans Google AI Mode (US/CA/AU), Sidekick Voice sur mobile, Shopify Protect Rule Builder anti-fraude
-💡 Canal Q4 à ouvrir avant Black Friday 27 nov pour PURESOLE/TT
-⚡ Shopify Mobile → Settings > Features → activer Sidekick Voice (5 min)
+1️⃣ 🤖 Claude Fable 5.2 — nouveau flagship
+📌 API claude-fable-5-2, $8/$40M tokens, 30% plus rapide. Public maintenant.
+💡 Claude Code tourne dessus → builds TT/PURESOLE plus rapides
+⚡ Taper /fast dans Claude Code pour activer Fable 5.2
 ━━━━━━━━━━━━━━━
-2️⃣ 📊 Meta Pixel on-device — ROAS va changer le 12 nov
-📌 Meta bascule mesure conversion côté device — ROAS/CPA affichés bougent sans raison créa
-💡 Risque de couper une campagne qui performe ou doubler les budgets par erreur
-⚡ Ads Manager → Events Manager → screenshot ROAS baseline AVANT le 12 nov
+2️⃣ 🔌 MCP v2.5.0 — fix critique memory server
+📌 Lock files non libérés en mode HTTP → corruptions silencieuses. Fix Nov 18.
+💡 Memory server HTTP = risque de perdre ta knowledge base
+⚡ npx @modelcontextprotocol/server-memory@latest pour update
 ━━━━━━━━━━━━━━━
-3️⃣ 🔌 MCP v2.3.0 + SDK 2.4.0 — Skills over MCP
-📌 Nouveaux git tools, host allowlist, filesystem filter ; SDK : exposer skills Claude comme outils MCP
-💡 Automatiser pipelines veille/analytics sans coder d'intégration custom
-⚡ npm update @modelcontextprotocol/server-filesystem → 2.2.0
+3️⃣ 📊 10K Meta ads analysées — les 3 piliers qui scalent
+📌 Hook émotionnel <3s + offre visible avant 5s + CTA actif. Universel Meta/TikTok.
+💡 Applicable direct aux créas TT streetwear et vidéos PURESOLE
+⚡ Auditer une pub existante : hook <3s ? Offre <5s ? CTA actif ?
 ━━━━━━━━━━━━━━━
 📚 Autres axes (1 ligne) :
-📊 Meta vidéo IA depuis assets statiques — GA dans Ads Manager (tester visuel PURESOLE)
-🤖 Claude Message Threads API beta — TTft -35% pour agent loops (header nov 2)
-🧠 obsidian-second-brain plugin — /notebooklm cmd + 48 commandes, multi-agents
-🛒 Shopify public apps IP allowlist — deadline 12-20 nov (vérifier apps tierces)
-🔌 Loova AI MCP — génération image/vidéo pro dans Claude (alternative Higgsfield)
+📊 Higgsfield MCP → URL produit → vidéo ad en 5s (~$2/clip)
+🤖 Anthropic IPO clôturé (Nov 20) — R&D accélérée, API stable
+🧠 Claude+NotebookLM+Obsidian pipeline solo-founder (grindengineer)
+🛒 RAS Shopify <7j — shopify.dev inaccessible cet env
+🔌 Reddit RSS off depuis Nov 13 → Reddit MCP key-less = cassé
